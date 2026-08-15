@@ -1,0 +1,1237 @@
+{
+  "generatedAt": "2026-08-15T08:02:07Z",
+  "latest": {
+    "version": "1.0.116",
+    "build": 118,
+    "date": "2026-08-15"
+  },
+  "releases": [
+    {
+      "version": "1.0.116",
+      "build": 118,
+      "date": "2026-08-15",
+      "summary": "Menu Bar Hider stops pinning a processor core, your calendar shows what you are in right now, and lyrics play on the notch itself",
+      "highlights": [
+        "Turning on Menu Bar Hider no longer pins a CPU core — a settings write that re-triggered its own handler had Notchy re-applying every service in a loop, forever",
+        "The calendar card now shows the meeting you are in — how much of it is left — plus a timeline of the whole day, not just what is coming up",
+        "Song lyrics appear on the notch while music plays, one line at a time",
+        "The expanded panel has a height slider and a Compact button, so you can put it back to the small size"
+      ]
+    },
+    {
+      "version": "1.0.115",
+      "build": 117,
+      "date": "2026-08-14",
+      "summary": "Music in the notch now costs a fraction of the CPU it did, so your Mac stays cool and quiet while you listen",
+      "highlights": [
+        "Playing music no longer heats the Mac: the notch used around ten times more processor than it needed for as long as anything was playing",
+        "The equaliser and the artwork ring are drawn the efficient way now — they look the same, they just stop working the whole notch to do it",
+        "Animations behind a closed notch stop instead of running unseen, so an open-then-closed panel leaves nothing burning in the background",
+        "Minor fixes and refinements — call detection stays off the main thread, and the Timer mascot loads at the size it is drawn"
+      ]
+    },
+    {
+      "version": "1.0.114",
+      "build": 116,
+      "date": "2026-08-14",
+      "summary": "Select files in the shelf by dragging a box, flicks that go where you throw them, and missing icons restored on older Macs",
+      "highlights": [
+        "Drag a box across the shelf to select several files at once, the way you would in Finder — Shift or Command adds to what you already picked",
+        "Swipes and flicks now follow through: a quick flick opens, closes or changes track without having to drag the whole way",
+        "Icons that were blank on macOS Ventura are back, including the Shortcuts tab",
+        "Minor fixes and refinements — the notch gives against your finger at its limits instead of stopping dead, panels grow out of the button that opened them, and every tab has its own colour again"
+      ]
+    },
+    {
+      "version": "1.0.113",
+      "build": 115,
+      "date": "2026-08-14",
+      "summary": "Stocks gets its own tab and clearer charts, and the notch stops flashing black when it closes",
+      "highlights": [
+        "Stocks has a tab of its own — the whole watchlist with company names, the day's move and a chart big enough to read",
+        "Stock charts are far easier to see: a filled curve, a marker on the current price, and a line showing where the day started",
+        "Hovering the stock ticker in the notch now swaps to the price instead of cramming a second line into the chip",
+        "Minor fixes and refinements — the notch no longer flashes a black box as it closes, the Terminal tab opens ready to use instead of blank, and tapping a message banner opens the reply field instead of jumping to Messages"
+      ]
+    },
+    {
+      "version": "1.0.112",
+      "build": 114,
+      "date": "2026-08-14",
+      "summary": "Stocks in the notch with price alerts, calls from Teams and Zoom, and the notch stops closing on you",
+      "highlights": [
+        "A Stocks watchlist with a live ticker in the notch, and an alert when a price rises above or falls below the line you set",
+        "Teams, Zoom, WhatsApp and FaceTime calls get a proper island with a running duration — and stop showing up as music",
+        "The panel no longer closes itself a second after you open it",
+        "Minor fixes and refinements — QuickTime playback no longer vanishes mid-track, phantom players are gone, and agent approvals plus AI Usage are on by default"
+      ]
+    },
+    {
+      "version": "1.0.111",
+      "build": 113,
+      "date": "2026-08-12",
+      "summary": "AI spend forecasting, a knock you can calibrate, smarter clipboard actions and Markdown teleprompter scripts",
+      "highlights": [
+        "AI Usage projects what you'll spend, shows which project and model the money went to, and says when today's pace meets your limit",
+        "Knock stops firing on trackpad clicks and scrolls, and a new Calibrate meter tunes it to your own tap",
+        "Copy a phone number, JSON or a sum — one tap to call, format or get the answer",
+        "Minor fixes and refinements — Escape closes the panel, Cuely reads Markdown, and the 5-hour window is back in AI Usage"
+      ]
+    },
+    {
+      "version": "1.0.110",
+      "build": 112,
+      "date": "2026-08-12",
+      "summary": "Your weekly AI limit is visible everywhere, a dedicated Lock Screen settings page, and a smoother closing animation",
+      "highlights": [
+        "AI Usage shows the weekly cap alongside the session one, and warns you on whichever limit is tightest",
+        "A Lock Screen page in Settings, with a switch for every card — including the now-playing player",
+        "The panel closes smoothly instead of stuttering on the way down",
+        "Minor fixes and refinements — duplicated rate-limit rows, settings organisation, and clearer sign-in messages"
+      ]
+    },
+    {
+      "version": "1.0.109",
+      "build": 111,
+      "date": "2026-08-12",
+      "summary": "Energy ranking, what's plugged in, world clocks and break reminders — plus \\\"free port 3000\\\" from the command palette",
+      "highlights": [
+        "Top Processes can rank by energy instead of CPU, so you can see what's really draining the battery",
+        "A Devices card showing what's plugged in and the speed each one actually negotiated",
+        "A World Clock card, and Look Away / Stand Up break reminders that stay quiet while you're in a call or away",
+        "Keep the Mac awake with the lid closed, and free a busy port straight from the ⌘K palette"
+      ]
+    },
+    {
+      "version": "1.0.108",
+      "build": 110,
+      "date": "2026-08-11",
+      "summary": "Camera and Reminders now ask macOS for permission properly instead of sending you to System Settings",
+      "highlights": [
+        "The Camera tab's Allow button raises the real macOS permission dialog — on older Macs it opened System Settings and never asked",
+        "The Reminders tab no longer gets stuck saying access is off when macOS never actually asked you",
+        "\\\"Ask me again\\\" on a blocked permission clears the old answer so macOS can prompt one more time",
+        "Buttons in the pill stop staying lit after the cursor moves away"
+      ]
+    },
+    {
+      "version": "1.0.107",
+      "build": 109,
+      "date": "2026-08-11",
+      "summary": "Controls in the notch panel work again after you grant a permission, and the panel opens and closes smoothly on Intel Macs",
+      "highlights": [
+        "Buttons, toggles and tabs in the panel respond again — granting a permission could leave the whole panel unresponsive to clicks",
+        "You can type in the Terminal tab without popping it out into a window first",
+        "Now Playing clears when you quit the app that was playing, instead of showing a track that already ended",
+        "Smoother open and close on Intel Macs"
+      ]
+    },
+    {
+      "version": "1.0.106",
+      "build": 108,
+      "date": "2026-08-11",
+      "summary": "The panel no longer stays open after you drop a file on the notch or remove one from the shelf",
+      "highlights": []
+    },
+    {
+      "version": "1.0.105",
+      "build": 107,
+      "date": "2026-08-11",
+      "summary": "Permission prompts now appear on macOS Sonoma, where asking for camera, microphone, calendar or speech access could silently do nothing",
+      "highlights": []
+    },
+    {
+      "version": "1.0.104",
+      "build": 106,
+      "date": "2026-08-11",
+      "summary": "Dragging a file onto the notch holds it open until you drop — no more flickering open and closed",
+      "highlights": []
+    },
+    {
+      "version": "1.0.103",
+      "build": 105,
+      "date": "2026-08-11",
+      "summary": "Better help when macOS won't show a permission prompt — Notchy now tells you why and can relaunch itself to apply a reset",
+      "highlights": []
+    },
+    {
+      "version": "1.0.102",
+      "build": 104,
+      "date": "2026-08-10",
+      "summary": "Permission prompts now appear on older Macs that used to send you to an empty Settings page",
+      "highlights": []
+    },
+    {
+      "version": "1.0.101",
+      "build": 103,
+      "date": "2026-08-10",
+      "summary": "The music island no longer sticks around after a chat video is closed",
+      "highlights": []
+    },
+    {
+      "version": "1.0.100",
+      "build": 102,
+      "date": "2026-08-10",
+      "summary": "Set how wide the open panel is, and playback speed now reaches videos playing in your browser",
+      "highlights": [
+        "Pull the open panel in to any width you like, in Settings → Appearance",
+        "The speed chip now controls video playing in Safari, Chrome and Arc",
+        "Choose which AI providers the Usage tab shows, and in what order",
+        "Minor fixes and refinements — phantom music island, lyrics and Reset All Settings"
+      ]
+    },
+    {
+      "version": "1.0.99",
+      "build": 101,
+      "date": "2026-08-10",
+      "summary": "The visualizer bars now move with the actual music, plus podcast and audiobook controls on the island",
+      "highlights": [
+        "Equaliser bars ride the real audio — a live read of what's playing, on by default",
+        "Long-form controls for podcasts and audiobooks: ±15s skips and a 1×–2× speed chip",
+        "Full-screen lyrics on the lock screen, washed in the album art's colour",
+        "Minor fixes and refinements — Siri island, music island and feedback mail"
+      ]
+    },
+    {
+      "version": "1.0.98",
+      "build": 100,
+      "date": "2026-08-10",
+      "summary": "Notchy now runs on Intel Macs — one universal download for every Mac — plus shuffle and repeat on the music island",
+      "highlights": [
+        "Intel Macs are supported: the download is now a universal build that runs natively on both Apple Silicon and Intel",
+        "Shuffle and repeat controls on the Now Playing tab",
+        "Set how long the panel waits before it collapses, in Settings → General"
+      ]
+    },
+    {
+      "version": "1.0.97",
+      "build": 99,
+      "date": "2026-08-09",
+      "summary": "The music island is one solid black shape again — no more grey wash across the artwork end while a song plays",
+      "highlights": [
+        "Music with no album art no longer washes the island grey at the artwork end",
+        "Album colour now tints only the area under the artwork, never the whole island",
+        "Minor fixes and refinements — island activity bubble sizing, and a single donation destination"
+      ]
+    },
+    {
+      "version": "1.0.96",
+      "build": 98,
+      "date": "2026-08-09",
+      "summary": "The AI usage widget refreshes on a tap and shows every account — quota, spend and balances — and AI usage is now on for everyone",
+      "highlights": [
+        "Tap refresh right on the widget and Notchy refetches every account",
+        "Widgets now show spend, balances and plans, not just the busiest bar — with a new extra-large size that fits every account",
+        "AI usage is on by default, so the tab and its widgets work out of the box",
+        "Minor fixes and refinements — refreshed provider engine with new providers, and island alerts no longer cut their text off mid-sentence"
+      ]
+    },
+    {
+      "version": "1.0.95",
+      "build": 97,
+      "date": "2026-08-09",
+      "summary": "Permission setup keeps up with you — it ticks over the moment you allow something, and comes back on its own when macOS restarts Notchy mid-setup",
+      "highlights": [
+        "Allow a permission in System Settings and the card updates and moves on by itself",
+        "Setup resumes where it left off when macOS restarts Notchy to apply a grant",
+        "The steps that restart Notchy say so before you tap Allow",
+        "Minor fixes and refinements — clicks inside What's New and setup, full-screen reveal, GitHub PR glance removed"
+      ]
+    },
+    {
+      "version": "1.0.94",
+      "build": 96,
+      "date": "2026-08-08",
+      "summary": "Notchy can finally ask how it is doing — a one-tap star rating in the notch, and asks that stop once you have answered",
+      "highlights": [
+        "Rate Notchy from the notch — five stars, one tap, no window and nothing to dismiss",
+        "Rate it low and Notchy never asks for money again — it asks what to fix instead",
+        "Say hi by email — a line back to the developer is now an ask in its own right",
+        "Minor fixes and refinements — support prompts ask sooner but back off faster, and go quiet for good once answered"
+      ]
+    },
+    {
+      "version": "1.0.93",
+      "build": 95,
+      "date": "2026-08-07",
+      "summary": "The island sizes itself to what it is carrying again, the lock glyph moves beside the notch, and lyrics open alongside the lock-screen player",
+      "highlights": [
+        "Islands size to their content — a short alert is a short pill, not a full-width slab",
+        "Locking shows a small glyph beside the camera instead of a banner below it",
+        "Tap the lock-screen player to open synced lyrics beside it",
+        "Siri on the notch: a shortcut to summon it and a live island while it is on screen",
+        "Minor fixes and refinements — lock island after wake, notch position on display changes, Messages replies, and a faded-glass island finish"
+      ]
+    },
+    {
+      "version": "1.0.92",
+      "build": 94,
+      "date": "2026-08-07",
+      "summary": "Song ID and every other live activity now show up on MacBooks with a notch, and five more cards join Home",
+      "highlights": [
+        "Song ID on notch Macs — the listening mark and anything else running now sit either side of the camera instead of hiding behind it",
+        "Five new Home cards — Reminders, Shortcuts, Shelf, AI Usage and Focus",
+        "Smoother closing — the panel settles straight into whatever is playing or running rather than blinking through an empty pill",
+        "Minor fixes and refinements — media controls, sliders, Focus reading"
+      ]
+    },
+    {
+      "version": "1.0.91",
+      "build": 93,
+      "date": "2026-08-06",
+      "summary": "Four new Home cards to choose from, and every card now fits whatever slot you put it in instead of running out of room",
+      "highlights": [
+        "New cards — Battery, System, Timer and Clipboard join Home, alongside Now Playing, Weather, Camera, Up Next and Daily Activity",
+        "Any arrangement fits — cards adapt to the space they get, showing fewer details in a half-height or narrow slot rather than cutting content off",
+        "Clipboard card — your last few copies, click one to put it back on the clipboard",
+        "Minor fixes and refinements — Home cards, card layout"
+      ]
+    },
+    {
+      "version": "1.0.90",
+      "build": 92,
+      "date": "2026-08-06",
+      "summary": "Home gets a visual layout editor with a column picker, and the equaliser bars stop freezing when the audio tap hears nothing",
+      "highlights": [
+        "Home — a live preview of the grid in Settings › Home: click a card to move or remove it, and choose one, two or three columns",
+        "Equaliser — the bars fall back to their animation instead of sitting still when the system audio tap picks up silence",
+        "Minor fixes and refinements — Home layout, now-playing visuals"
+      ]
+    },
+    {
+      "version": "1.0.89",
+      "build": 91,
+      "date": "2026-08-06",
+      "summary": "Home is yours to arrange, and the closed notch is properly black again instead of picking up a tint from your wallpaper",
+      "highlights": [
+        "Home — choose which cards appear and the order they sit in, from Settings › Home; Daily Activity joins Now Playing, Weather, Camera and Up Next",
+        "The notch — the closed pill is true black, so it no longer shows a faint colour seam where it meets the notch and the menu bar",
+        "Minor fixes and refinements — Home layout, island rendering"
+      ]
+    },
+    {
+      "version": "1.0.88",
+      "build": 90,
+      "date": "2026-08-06",
+      "summary": "The screen around the notch is fully clickable again, and the equaliser bars now move with the music you're actually hearing",
+      "highlights": [
+        "Click-through — the strip of screen below and beside the closed notch no longer swallows clicks, so menu bar items and window buttons under it work",
+        "Equaliser — with Audio-Reactive Bars on, the bars in the island move with the real audio levels instead of a canned animation",
+        "Minor fixes and refinements — click handling, now-playing visuals"
+      ]
+    },
+    {
+      "version": "1.0.87",
+      "build": 89,
+      "date": "2026-08-06",
+      "summary": "The notch opens as one object every time — even with a timer, a download or AI usage on the island — and the Shazam mark stops getting clipped on a Virtual Notch",
+      "highlights": [
+        "Opening — the panel grows out of the island as a single surface whatever the island is showing, instead of cross-fading when an activity is running",
+        "Virtual Notch — live activities are sized to the pill they sit in, so the Shazam mark is no longer cut off at the top",
+        "Click-through — the area around the notch stays clickable at all times; the window no longer resizes itself around the animation",
+        "Minor fixes and refinements — island geometry, window handling, glass surfaces"
+      ]
+    },
+    {
+      "version": "1.0.86",
+      "build": 88,
+      "date": "2026-08-05",
+      "summary": "Opening and closing the notch moves on a new spring, the Activity rings stop overlapping their own numbers, and terminal notifications finally look like they came from a terminal",
+      "highlights": [
+        "Motion — one shared spring language across the whole app, so opening, closing, resizing and every island settle the same way",
+        "Activity — the rings no longer crowd the percentage in the middle, and Move reads as distance, goal and steps instead of two unit systems at once",
+        "Notifications — an app that names itself now shows its real icon, and finished shell commands wear a terminal badge with a readable command name",
+        "Minor fixes and refinements — ring layout, island glyphs, build warnings"
+      ]
+    },
+    {
+      "version": "1.0.85",
+      "build": 87,
+      "date": "2026-08-04",
+      "summary": "On a MacBook with a notch, the panel grows straight out of the island instead of sliding in from one side — and full screen stops opening it by accident",
+      "highlights": [
+        "Opening the notch — the panel expands evenly from the island on notch Macs, the way it already did on the pill designs",
+        "Full screen — Notchy waits for you to rest at the top edge before sliding out, so crossing it to reach the menu bar no longer opens the panel",
+        "Quieter notch — a new option keeps timers, downloads and other activities off the closed pill, leaving them in the expanded panel"
+      ]
+    },
+    {
+      "version": "1.0.84",
+      "build": 86,
+      "date": "2026-08-04",
+      "summary": "The panel opens smoother — a full frame rate the whole way, no black-then-glass flash — and the hover player stops clipping its own artwork",
+      "highlights": [
+        "Opening the notch — the panel holds a full frame rate the whole way and no longer flashes from black to glass as it opens",
+        "Peek on Hover — the player card is sized for its own controls, so the artwork is no longer cut off at the top on smaller island sizes",
+        "Settings — pages scroll under a frosted titlebar instead of running over the window buttons"
+      ]
+    },
+    {
+      "version": "1.0.83",
+      "build": 85,
+      "date": "2026-08-04",
+      "summary": "Music takes the island the way the Dynamic Island does it — artwork one side, equaliser the other, a second activity in its own circle — and hovering drops a real player",
+      "highlights": [
+        "Two-object island — a timer, download or build running beside your music detaches into its own circle next to the bar, on notch Macs and pill designs alike",
+        "Now Playing — album art rides one side of the camera with the equaliser on the other, and a ring around the artwork fills as the song plays",
+        "Peek on Hover — hovering the island drops a player with the scrubber and transport, on by default, and it no longer hides the artwork it used to replace",
+        "Minor fixes and refinements — centred panel opening, agent approval islands, terminal startup, FaceTime self-preview"
+      ]
+    },
+    {
+      "version": "1.0.82",
+      "build": 84,
+      "date": "2026-08-04",
+      "summary": "Your day closes three rings in the notch, lifetime milestones celebrate the real ones, islands can be heard as well as seen, and the expanded island lists every activity",
+      "highlights": [
+        "Activity Rings — movement, typing and focus close as three rings you can watch all day, with streaks and perfect days behind them",
+        "Milestones — a marathon of cursor travel, a novel’s worth of keystrokes: real thresholds, celebrated once, never round numbers picked to fire often",
+        "Island Sounds — pick what an approval, a call, a timer or a battery warning sounds like, each on its own",
+        "Expanded Island — pull the island open and every running activity is a row: what it is, what it’s doing, how far along",
+        "Minor fixes and refinements — AI usage pacing, session estimates, terminal and settings"
+      ]
+    },
+    {
+      "version": "1.0.81",
+      "build": 83,
+      "date": "2026-08-03",
+      "summary": "The notch follows Apple\\u2019s own Dynamic Island rules \\u2014 compact chips, a Clock-style timer, a centred open animation \\u2014 and the panel closes when you walk away",
+      "highlights": [
+        "Dynamic Island Chips \\u2014 live activities read like Apple\\u2019s now: glyph and value in the activity\\u2019s tint, sized to their content, rolling digits, no boxes inside boxes",
+        "Music While Closed \\u2014 the closed notch always shows album art and the amplifier, and hovering reveals that same strip instead of a second, different player",
+        "Opens From The Middle, Closes By Itself \\u2014 the panel now expands symmetrically from centre, and a panel opened by a knock, hotkey or the menu bar collapses on its own",
+        "Timer Rebuilt \\u2014 a Clock-style dial with the finish time inside, controls beneath it, and restart presets beside it",
+        "Minor fixes and refinements \\u2014 island styling, menu-bar popovers, battery icons and the support nudge"
+      ]
+    },
+    {
+      "version": "1.0.80",
+      "build": 82,
+      "date": "2026-08-03",
+      "summary": "The agent approval island works again, the panel can no longer lose its tab bar, and menu-bar popovers close when you click away",
+      "highlights": [
+        "Approve/Deny Island Restored \\u2014 1.0.79 retired the prompt microseconds after raising it, so it never appeared; it now stays until you answer it",
+        "Answered In The Terminal \\u2014 granting a permission in your terminal clears the notch prompt within a second instead of leaving it pinned",
+        "No More Hook Errors \\u2014 Notchy restarting made Claude Code print \\\"hook error\\\" into your session; the forwarder never fails its run now",
+        "Tab Bar Can\\u2019t Be Pushed Off \\u2014 a tab whose content ran long (Now Playing with lyrics) shoved the tab bar off the top of the panel and clipped the sides; every tab is now pinned to the space the panel offers",
+        "Menu-Bar Popovers Auto-Close \\u2014 clicking away, or switching apps, dismisses a detached tab instead of leaving it over the desktop",
+        "Steadier Pill \\u2014 the collapsed pill sized itself from one snapshot while drawing its chips from another, so a chip arriving mid-layout drew outside the glass",
+        "Clearer Agent Chip \\u2014 a raised hand and the project name instead of an unexplained sparkle",
+        "Widget Fixes \\u2014 the widgets now load at all (the extension had the wrong entry point), and the AI Usage widget fits its rows instead of clipping the first and last"
+      ]
+    },
+    {
+      "version": "1.0.79",
+      "build": 81,
+      "date": "2026-08-02",
+      "summary": "Desktop widgets, AI usage that matches the reference engine window for window, Apple-Watch activity rings, and a terminal that finally looks like one",
+      "highlights": [
+        "Desktop Widgets — AI Usage, Activity and Timer widgets you can drop on the desktop or in Notification Center, kept current by the app even while the panel is closed",
+        "AI Usage Parity — pace projections, run-out risk, per-provider spend lines (today/7d/30d, balances, top model) and window labels now match the reference engine exactly; verified against its own CLI",
+        "Cursor Fixed — the Cursor tab sat on \\\"No scored commits yet\\\" while its account data was already fetched; it now shows the live quota, as do Antigravity and Copilot",
+        "Multiple Accounts — two logins on the same provider are two cards instead of one silently replacing the other",
+        "Activity Rings — rebuilt to Apple\\u2019s proportions: staggered sweep-in, closed-ring pop, and a true over-100% wrap",
+        "Terminal Chrome — a real title bar with the shell and working directory, a clear button, and a restart banner when the shell exits",
+        "Agent Islands — approving in the terminal now retires the notch prompt instead of leaving it pinned, and any island can be swiped up to dismiss",
+        "Quieter Notifications — opening Notification Center no longer replays old WhatsApp and Telegram banners onto the notch"
+      ]
+    },
+    {
+      "version": "1.0.78",
+      "build": 80,
+      "date": "2026-07-29",
+      "summary": "Apple's real glass on every standalone surface, accurate AI usage totals, .lottie support, and an agent that only interrupts when it's actually blocked",
+      "highlights": [
+        "Glass Everywhere — the command palette, lock-screen widgets, menu-bar popover and settings sidebar were painting flat opaque slabs; they now use the same system material as the notch, so they sit next to Spotlight and Control Center without looking heavier",
+        "Live Controls — nine buttons across the tabs and islands were dead flat next to their pointer-reactive neighbours; they all respond now",
+        "Accurate AI Usage — headline totals come from the usage engine instead of a local log scan, which was under-reporting Claude and showing nothing at all for Codex",
+        "Animated Stickers — custom idle animations now accept .lottie bundles, not just raw JSON",
+        "Fewer Agent Interruptions — the agent island asked for input when nothing was actually waiting on you; it now only fires when the agent is genuinely blocked",
+        "Hover Player — opening the peek player no longer flashes opaque black before the material settles",
+        "Motion Discipline — hand-rolled animations route back through the shared motion system, so Reduce Motion and Low Power Mode are honoured everywhere"
+      ]
+    },
+    {
+      "version": "1.0.77",
+      "build": 79,
+      "date": "2026-07-27",
+      "summary": "A much faster launch, a rebuilt hover player, and a batch of interruption and animation fixes",
+      "highlights": [
+        "Faster Launch — the first frame is drawn before background services boot, cutting startup by roughly 40%",
+        "Lighter Idle — the call-detection sweep and window-space queries were running far more often than they needed to",
+        "Rebuilt Hover Player — the peek player is now a real Now Playing card with artwork, a seek bar and transport controls",
+        "Idle Animations Keep Running — a custom Lottie animation could stop and never restart",
+        "Snappier Panel — the tab list and localization lookups are memoized instead of being recomputed several times per frame"
+      ]
+    },
+    {
+      "version": "1.0.76",
+      "build": 78,
+      "date": "2026-07-27",
+      "summary": "Multiple live activities side by side, a first-run permission fix, and a batch of lifecycle bugs that left features silently dead",
+      "highlights": [
+        "Multiple Live Activities — music, a timer, a running build and a download now sit side by side on the pill instead of fighting for one slot; the pill widens to fit and ranks by what costs most to miss",
+        "Terminal No Longer Blocks Notifications — a long-running command used to take the notification slot invisibly and swallow every island behind it until it finished",
+        "First-Run Permission Fix — the macOS “Allow” dialog appeared behind the onboarding panel and couldn’t be clicked; the overlay now steps aside for system prompts",
+        "Calls & Messages Work Without a Relaunch — granting Accessibility during onboarding left both islands dead for the whole session",
+        "Voice Mode Actually Stops — turning off Cuely’s voice mode mid-session left the microphone open; turning it on mid-session did nothing at all",
+        "Now Playing — a previous track’s blurred artwork no longer lingers behind a song that has none",
+        "Honest AI Usage Alerts — Claude’s “at N% of rate limit” warning was reading the clock, not your usage, and fired every session window; duplicate Codex alerts are gone and failed refreshes now say so",
+        "External Display Brightness After Sleep — the wake handler was registered on the wrong notification centre and never ran"
+      ]
+    },
+    {
+      "version": "1.0.75",
+      "build": 77,
+      "date": "2026-07-24",
+      "summary": "Enhanced panel key window activation, Lottie animation caching, downloads watcher performance, and E2E test suite reliability",
+      "highlights": [
+        "Accessory Panel Click Reliability — instant key window ordering on app activation to eliminate dropped clicks when floating over un-focused apps",
+        "Lottie Animation Caching — pre-warmed Lottie asset cache and optimized idle view rendering for buttery smooth notch animations",
+        "E2E Reliability — resilient status polling guard against transient socket errors during test runs"
+      ]
+    },
+    {
+      "version": "1.0.74",
+      "build": 76,
+      "date": "2026-07-23",
+      "summary": "Engineering audit & quality cleanup, swiftlint zero-warning compliance, and test suite stabilization",
+      "highlights": []
+    },
+    {
+      "version": "1.0.73",
+      "build": null,
+      "date": "",
+      "summary": "Increased panel vertical clearance eliminating card clipping, lag-free header layout optimization, smooth notification islands, and 100% test suite verification",
+      "highlights": [
+        "No Bottom Card Clipping — expanded panel default height set to 316px with bottom padding safety so Home cards and tab items sit with full vertical clearance",
+        "Lag-Free Header Rendering — eliminated 60Hz preference listener re-evaluations during notch expansion for smooth 120fps opening transitions",
+        "Butter-Smooth Island Notifications — streamlined notification mounting animations to prevent runloop stutter and frame contention",
+        "Full Test Coverage — 823 automated unit and E2E tests verified green"
+      ]
+    },
+    {
+      "version": "1.0.72",
+      "build": 74,
+      "date": "2026-07-22",
+      "summary": "Glitch-free notch collapse animation, multi-account Antigravity profile tracking, top tool breakdown chips, and dynamic severity gauges",
+      "highlights": [
+        "Glitch-Free Notch Collapse — removed static container width pin so panel content scales and fades out smoothly without visual pops or overflow clipping during collapse",
+        "Multi-Account Antigravity — automatic profile directory scanning across primary and sub-accounts with active profile indicators and step stats",
+        "Top Tool Breakdown Chips — tracks AI tool calls (terminal commands, file edits, file views, grep searches) with visual tool badges",
+        "Dynamic Severity Gauges — high-visibility Green/Yellow/Red rate-limit indicators across Claude, Codex, Cursor, and Antigravity"
+      ]
+    },
+    {
+      "version": "1.0.71",
+      "build": 73,
+      "date": "2026-07-22",
+      "summary": "Fixed content shell width constraint, eliminating left-to-right sliding, header reflow, and opening lag",
+      "highlights": [
+        "Fixed Content Width Pin — pinned expanded tab shell to fixed target width so tab bar, chrome buttons, and cards reveal symmetrically without horizontal sliding or reflow",
+        "Frame 1 Tab Bar Pre-Calculation — tabSlotWidth falls back to exact panel width on initial layout frame for zero-jump header rendering",
+        "Synchronous Frame & Visibility Sync — removed 1-frame runloop latency when state expands to .expanded"
+      ]
+    },
+    {
+      "version": "1.0.70",
+      "build": 72,
+      "date": "2026-07-22",
+      "summary": "Instant 60ms hover response, zero-delay content fade-in, faster spring curves, and 120fps lag-free opening across all Mac displays",
+      "highlights": [
+        "Instant 60ms Hover Response — cut hover trigger delay from 180ms to 60ms for 3x faster initial notch opening response",
+        "Zero Content Delays — eliminated 140ms and 120ms artificial layout delays so content emerges in lockstep with the glass surface",
+        "Snappier Motion Curves — tuned expansion spring (0.28s) and collapse spring (0.36s) for ~20% faster opening and closing transitions",
+        "Crisp Notification Pop — optimized island damping for clean single-settle volume/brightness HUDs without rubbery wobbles"
+      ]
+    },
+    {
+      "version": "1.0.69",
+      "build": 71,
+      "date": "2026-07-22",
+      "summary": "Global codebase-wide button hover elevation fix (eliminating offscreen drop shadow box clipping over video layers & glass cards)",
+      "highlights": [
+        "Global Button Hover Fix — replaced heavy 9pt drop shadow with clean Apple-style brightness elevation and tight 3pt shadow across all button styles (PressableButtonStyle, BumpyButtonStyle, GlassActionButtonStyle, LiquidGlassButtonStyle), permanently fixing square box clipping over camera video layers and glass surfaces"
+      ]
+    },
+    {
+      "version": "1.0.68",
+      "build": 70,
+      "date": "2026-07-22",
+      "summary": "Home tab camera mirror card dark mode shadow box artifact & double-hover darkening fix",
+      "highlights": [
+        "Camera Tile Shadow Box Fix — replaced gray-tinted lens shadow with a tight black drop shadow to eliminate the square gray halo box artifact around the camera icon",
+        "Clean Hover Lift — removed duplicate PressableButtonStyle from HomeMirrorCard so it matches sibling cards with unified hover lighting and zero dark clipping on hover"
+      ]
+    },
+    {
+      "version": "1.0.67",
+      "build": 69,
+      "date": "2026-07-22",
+      "summary": "Home tab camera mirror card responsive layout & glyph scaling fix for all MacBook screen resolutions",
+      "highlights": [
+        "Camera Tile Scaling Fix — tuned WebcamGlyph sizing and added vertical padding inside HomeMirrorCard to prevent the camera icon and label from clipping against card rounded corners on 13-inch and 14-inch MacBook screen resolutions"
+      ]
+    },
+    {
+      "version": "1.0.66",
+      "build": 68,
+      "date": "2026-07-22",
+      "summary": "Smooth 120fps notch expanded opening animation (eliminating content clipping & sliding glitches), dark mode Home tab camera card render fix, and AVCaptureVideoPreviewLayer bounds sync",
+      "highlights": [
+        "Smooth 120fps Expanded Opening — full tabbed expanded shell now defers content opacity until the glass surface finishes morphing center-out, completely eliminating content clipping and sliding glitches on expand",
+        "Home Tab Camera Card Fix — guarded an infinite animation loop on the camera status pip that caused visual flickering over dark mode glass cards",
+        "Camera Preview Bounds Sync — updated AVCaptureVideoPreviewLayer layout handling to continuously sync layer bounds during SwiftUI transitions"
+      ]
+    },
+    {
+      "version": "1.0.65",
+      "build": 67,
+      "date": "2026-07-22",
+      "summary": "Terminal activity dev server filter (ignoring yarn start, npm run dev, vite, and long-running daemons) plus 5-minute auto-decay cap",
+      "highlights": [
+        "Persistent Dev Server Filter — terminal activity island now automatically ignores long-running dev servers and watch processes (`yarn start`, `npm run dev`, `vite`, `next dev`, `cargo watch`, `python -m http.server`), preventing them from taking over the Dynamic Island for hours",
+        "5-Minute Auto-Decay Cap — shell command islands auto-dismiss after 5 minutes so background processes never lock out resting Dynamic Island states"
+      ]
+    },
+    {
+      "version": "1.0.64",
+      "build": 66,
+      "date": "2026-07-22",
+      "summary": "Resting music pill cleanup (song title & artist hidden when closed), 120fps smooth peek bar expansion with zero lag, and lock screen card height un-clipping",
+      "highlights": [
+        "Clean Resting Music Island — resting music pill hides song title and artist text when closed, presenting a clean Dynamic Island with album art and live animated audio visualizer bars",
+        "Zero-Lag Peek Bar Expansion — fixed peek player card expansion so opening full Notchy uses 120fps spring animation with deferred tab rendering (no layout lag)",
+        "Lock Screen Widget Un-Clipping — removed height clipping from lock screen cards so all enabled widgets (timer, calendar, weather, battery) display fully without truncation"
+      ]
+    },
+    {
+      "version": "1.0.63",
+      "build": 65,
+      "date": "2026-07-22",
+      "summary": "Lock screen widget positioning fix (preventing overlap with native macOS clock & timer) and TransportButton hover glyph rendering fix",
+      "highlights": [
+        "Lock Screen Widget Positioning Fix — corrected band top offset calculation so lock screen cards sit comfortably below the native macOS clock and timer",
+        "Transport Control Hover Polish — refined play/pause, next, and back button hover states so white glyphs stay crisp and bright without dark shadow blur",
+        "Now Playing Hover Peek — hovering over the music island now seamlessly drops the peek player card with full playback controls"
+      ]
+    },
+    {
+      "version": "1.0.62",
+      "build": 64,
+      "date": "2026-07-22",
+      "summary": "Now Playing resting island fixes (album art & animated audio visualizer bars visible by default at rest), peek bar top-down expansion, full click-to-expand, and responsive transport controls",
+      "highlights": [
+        "Album Art & Audio Bars Resting Visibility — now-playing resting island now displays album art and live animated audio visualizer bars by default whenever media plays",
+        "Peek Bar Top-Down Expansion — fixed hover peek bar expansion to open smoothly from the top without left-to-right reflow or text sliding",
+        "Click-to-Expand — clicking anywhere on the peek bar surface instantly expands Notchy fully into the tabbed shell",
+        "Interactive Transport Controls — fixed previous track, play/pause, and next track buttons on the peek bar to execute actions reliably"
+      ]
+    },
+    {
+      "version": "1.0.61",
+      "build": 63,
+      "date": "2026-07-22",
+      "summary": "Notchy 3.0 Engineering & Design Overhaul: AI Usage Dashboard with CodexBar feature parity, rate limit gauge rings, live reset countdowns, interactive stacked charts, unified motion engine, and Lottie fixes",
+      "highlights": [
+        "AI Usage Dashboard & CodexBar Parity — complete analytics overhaul featuring rate limit gauge rings, 1s live reset countdowns, usage pace badges, and Keychain-backed account security for 60+ AI providers",
+        "Interactive Usage Charts — stacked bar analytics supporting Daily, Weekly, and Monthly view modes with interactive hover tooltips (input/output tokens, cost, requests)",
+        "Unified Motion System — standardized springs, transitions, and hover curves across the Dynamic Island and Settings",
+        "Lottie & Download Progress Fixes — Lottie animation lifecycle fixes and instant download completion toasts without lingering",
+        "Redesigned 6-Category Settings — consolidated sidebar categories (General, Appearance, Features, Notifications, System, About) with instant search"
+      ]
+    },
+    {
+      "version": "1.0.60",
+      "build": 62,
+      "date": "2026-07-22",
+      "summary": "Animation polish and a new hover-peek player — the notch now opens with a snappy, smooth drop (no lag, no sideways slide even while music plays), and a new optional mode reveals a minimal now-playing player with controls when you hover the notch during a song",
+      "highlights": [
+        "Snappier, smoother open — the panel starts moving the instant you open it and settles cleanly with no bounce",
+        "No more sideways slide — the notch dropped in from the side when a song was playing; it now drops straight down",
+        "New: Peek on Hover — turn it on (Now Playing settings) and, while a song plays, hovering the notch drops down a minimal player with the track name and previous / play-pause / next controls, then tucks away when you move off"
+      ]
+    },
+    {
+      "version": "1.0.59",
+      "build": 61,
+      "date": "2026-07-22",
+      "summary": "A big polish-and-fix release — the notch now opens and closes with a smooth, premium drop (no bounce or corner-snap), plus a stack of fixes to clicking, the terminal, the lock screen, notifications and more, and two new touches: hover-peek now-playing and at-a-glance feature discovery",
+      "highlights": [
+        "Premium open/close — the panel drops out of the notch with a smooth, settled spring and its corners morph instead of snapping; closing no longer bounces",
+        "Home & edge tabs clickable again — with many tabs enabled the first (Home) and last tabs sat just outside the hit area and did nothing on click; fixed",
+        "Clicks around the notch restored — a collapsed panel could leave an invisible strip that ate clicks across the top of the screen (and could feel like a freeze); the window now always shrinks back",
+        "Calendar Join works — the one-tap Join button on a meeting was dead; it now reliably opens the call",
+        "Fewer false AI prompts — Claude Code's idle “waiting for your input” nudge no longer pops a permission island when nothing is actually being asked",
+        "Lock screen tidied — with many widgets enabled they could overlap the password field; they’re now kept clear of it",
+        "Notifications open the app — tapping a mirrored notification (Teams, etc.) now brings the app forward",
+        "Terminal no longer blank or cut off — it repaints reliably as the panel settles at its final size",
+        "Custom idle animation fixed on notch Macs — a Lottie animation was hidden behind the camera; it now sits beside it, with a new horizontal-offset control",
+        "Colour-coded volume/brightness HUD now actually applies, and the download island no longer sticks on “downloading” after a download finishes",
+        "New: Peek on Hover — keep the notch minimal while music plays and reveal now-playing only when you hover it",
+        "New: Feature discovery — the Features page now shows which capabilities are off so you can find what you haven’t turned on"
+      ]
+    },
+    {
+      "version": "1.0.58",
+      "build": 60,
+      "date": "2026-07-21",
+      "summary": "A smoothness pass — the notch opens faster and interactions stay fluid, plus a terminal fix",
+      "highlights": [
+        "No more mid-animation stutter — the FaceTime call detector was running a system-wide sweep on the main thread every couple of seconds (worse with multiple monitors), briefly stalling the app; it now runs off the main thread and less often, which also trims idle CPU and battery use",
+        "Snappier open — the panel springs to full size in about a third of a second instead of dragging out, and hovering the notch opens it a touch sooner",
+        "Terminal no longer opens blank — the shell prompt could stay invisible until you clicked (worst on notch Macs, where every open animates); it now repaints itself reliably as the panel settles"
+      ]
+    },
+    {
+      "version": "1.0.57",
+      "build": 59,
+      "date": "2026-07-21",
+      "summary": "Real-time AI-agent activity in the notch plus a batch of important fixes — when Claude Code needs permission or asks a question it now surfaces as an island you can act on, and Light Mode, external-monitor brightness, the volume/brightness HUD, stuck download progress and panel-open speed are all fixed",
+      "highlights": [
+        "AI agent activity — when Claude Code needs permission or asks something, it appears as a notch island; approve or deny right there, jump to the terminal that's waiting, see what each turn cost with a running session total, and glance at every live agent in one panel (opt-in; installs Claude Code hooks)",
+        "Long command islands — build, test or deploy commands that run past ten seconds show a live timer in the notch, then a ✓/✗ result (opt-in; zsh)",
+        "Light Mode fix — the notch panel, the volume/brightness HUD and the lock-screen widget now stay dark and readable instead of washing out over a light desktop",
+        "Replace System HUD works again — hiding the macOS overlay needs Input Monitoring (a permission that gets dropped on app updates); Settings now shows a one-tap way to grant it",
+        "External-monitor brightness fixed — the brightness slider now actually drives DDC monitors instead of doing nothing while only contrast responded",
+        "Custom idle animation no longer balloons into a full-notch block and turns off cleanly",
+        "Download progress no longer sticks on 'in progress' forever after the download has finished",
+        "Snappier open — panel content appears the moment the notch expands instead of after a beat"
+      ]
+    },
+    {
+      "version": "1.0.56",
+      "build": 58,
+      "date": "2026-07-21",
+      "summary": "Fixes the anonymous active-install counter — recent builds shipped without the reporting key, so the live stats had stopped counting; no visible change, just accurate numbers again",
+      "highlights": []
+    },
+    {
+      "version": "1.0.55",
+      "build": 57,
+      "date": "2026-07-21",
+      "summary": "A big feature drop plus a friendlier Settings and fixes — a minimalist Now Playing pill, Spotify Liked-Songs, terminal colour schemes, live download progress, richer weather with air quality and sunrise/sunset, external-monitor brightness over DDC, and a Beta update channel; the brightness island now shows on notch MacBooks and every Settings page explains what it does",
+      "highlights": [
+        "Minimalist Now Playing — an optional always-on pill showing album art, the scrolling title/artist and an equaliser while music plays, without opening the notch",
+        "Spotify Liked Songs — connect Spotify (your own free app key, no password stored) and the ♥ lights up on Spotify tracks, just like Apple Music's favourite",
+        "Terminal colour schemes — Dracula, Nord, Solarized and Tango, applied live to the notch terminal",
+        "Live download progress — a pinned island tracks an in-flight download (a real progress bar for Safari, a running byte count elsewhere), then hands off to the Download Finished island",
+        "Richer weather — feels-like, humidity, colour-coded air quality and the next sunrise/sunset on the Home card and the lock screen",
+        "External-monitor brightness — adjust external displays over DDC/CI on Apple Silicon, with contrast and input-source switching, and the brightness keys now drive your external monitor too",
+        "Beta updates — opt into pre-release builds from About → Updates",
+        "Brightness island on notch Macs — the Notchy brightness HUD now appears on MacBooks where the keys bypass the tap, instead of only the system one",
+        "Friendlier Settings — every page now has a plain-language description of what it does, the HUD-style picker no longer crushes its label, and the alternate HUD uses the real macOS frosted material"
+      ]
+    },
+    {
+      "version": "1.0.54",
+      "build": 56,
+      "date": "2026-07-20",
+      "summary": "The lock-screen music player's progress bar is now draggable again — scrub forward or back through the song right from the lock screen, the way you can in the notch",
+      "highlights": []
+    },
+    {
+      "version": "1.0.53",
+      "build": 55,
+      "date": "2026-07-20",
+      "summary": "Fixes for the notch terminal, lock-screen music controls, the system-stats Top Processes list, and the What's New tour — the terminal could open blank until you clicked it, the lock-screen player's buttons did nothing, a long stats list was cut off by the notch, and the update tour kept replaying old cards",
+      "highlights": [
+        "Terminal renders reliably — the shell prompt could come up blank until you clicked into it (worst on notch Macs, where opening always animates); the terminal now repaints itself as the panel settles and takes the keyboard right away",
+        "Lock-screen music controls work — play/pause, next, and previous on the lock-screen player were dead; they're now live, while every other tap still passes straight through to the password field",
+        "Top Processes no longer cut off — the system-stats flyout now scrolls when CPU temp, GPU, and the process list make it taller than the panel, instead of hiding rows behind the notch",
+        "What's New actually shows what's new — the post-update tour is built from the current version's release notes (it used to replay the same old cards) and only appears on a genuine upgrade"
+      ]
+    },
+    {
+      "version": "1.0.52",
+      "build": 54,
+      "date": "2026-07-20",
+      "summary": "Polish for the 1.0.51 feature drop — the Caps Lock and lock/unlock HUDs now actually show on hardware-notch MacBooks, the lock-screen player's seek bar renders reliably, the now-playing title no longer does a strange left-to-right jump when the notch opens, the AI Usage tab stops asking for Keychain credentials on every visit, and updating no longer re-opens the permission setup",
+      "highlights": [
+        "Caps Lock & lock HUDs on notch MacBooks — the toggle pill was drawing exactly behind the camera cutout, so it never appeared; it now grows out of the notch below the camera like the volume HUD",
+        "Lock-screen seek bar — the music widget's progress bar could vanish entirely on some Macs; it's rebuilt to render reliably and reads brighter against any wallpaper (battery bar too)",
+        "Smoother opening — the scrolling now-playing title no longer rewinds left-to-right when the panel opens or the track changes, and the first expand no longer smears the glass backdrop",
+        "AI Usage without the password prompts — opening the tab no longer triggers the macOS Keychain dialog for Claude Code's credentials on every visit; live account fetches that need it run only from the explicit Refresh button",
+        "Calmer updates — updating Notchy no longer re-opens the permission setup when optional permissions are unstated, and the setup can always be closed with Esc"
+      ]
+    },
+    {
+      "version": "1.0.51",
+      "build": 53,
+      "date": "2026-07-20",
+      "summary": "The biggest feature drop yet — a real terminal in the notch, a full lock-screen widget suite, richer system stats, camera/mic privacy indicators, and a stack of new HUDs and glass options",
+      "highlights": [
+        "Terminal tab — a real shell in the notch (colors, cursor keys, TUI apps), with a Dock-Out button that pops the running session into its own window while a fresh one starts in the notch; adjustable font size",
+        "Lock-screen widgets — a now-playing player plus weather, a running-timer countdown, your next calendar event, due reminders, battery/charging, connected-device batteries, and the active Focus, all on the macOS lock screen with an adjustable position",
+        "Richer system stats — GPU utilization and CPU temperature join the flyout, alongside a live Top Processes list",
+        "Camera & mic privacy indicators — a pill when the camera or microphone goes live in any app, like macOS's own dots",
+        "New HUDs & alerts — vertical-bar and circular volume/brightness HUD styles, a Caps Lock HUD, a 'Battery Full — you can unplug' island with an optional low-battery sound, and color-coded battery/volume levels",
+        "Liquid Glass variants — opt into Apple's private glass material with 20 selectable looks",
+        "Custom idle animations — play your own Lottie animation on the closed notch, with an in-app editor to tune speed, scale, and position",
+        "A real audio-reactive visualizer — opt in to drive the now-playing bars from a live FFT of the system audio"
+      ]
+    },
+    {
+      "version": "1.0.50",
+      "build": 52,
+      "date": "2026-07-19",
+      "summary": "Right-click on the notch works again, Check for Updates always answers, and AI Usage gets a fresh engine — the context menu used to flash and vanish, the update check's reply could be silently swallowed by another island, and usage stats have caught up with the latest provider fixes",
+      "highlights": [
+        "Right-click menu fixed — right-clicking the pill now reliably opens the Settings / Screenshot / Mic / Updates menu; it previously flashed and closed itself before you could click anything",
+        "Check for Updates always answers — the result island ('You're Up to Date', or the update itself) now shows immediately even when another island is on screen, instead of quietly disappearing",
+        "AI Usage accuracy — the usage engine caught up with the latest upstream fixes: weekly pace projections no longer overstate your burn, Claude's live gauges survive transient hiccups without going blank, Codex subagent tokens aren't double-counted, and two new providers (ai&, DeepInfra) arrive",
+        "Usage alerts calm down — a provider parked over your alert threshold no longer re-announces itself on every app launch",
+        "Milestone thanks — Notchy now celebrates what it's done for you ('500 clipboard items caught') with a gentle way to support development from $1"
+      ]
+    },
+    {
+      "version": "1.0.49",
+      "build": 51,
+      "date": "2026-07-19",
+      "summary": "A new App Launcher tab, searchable clipboard history, and a smoother notch on every display — pin your go-to apps to the notch and launch them with one tap, find any past copy by typing, and enjoy steadier resizing and no more flicker when displays change",
+      "highlights": [
+        "App Launcher — pin your favorite apps to the notch and open them with one tap; add apps from a picker, drag to reorder, and hover to remove",
+        "Search your clipboard history — start typing to filter past copies by their text, an image's name, or even words recognized inside a screenshot",
+        "Smoother panel resizing — dragging the Expanded Panel width and height sliders now tracks your finger cleanly instead of lagging and wobbling behind it",
+        "Steadier on every display — the pill no longer flickers or rebuilds itself when you change resolution or brightness, plug in a monitor, or wake from sleep, and it keeps its state across the change",
+        "Refined GitHub token field in Settings — the API-key row now matches the rest of the settings design instead of a stray native text box"
+      ]
+    },
+    {
+      "version": "1.0.48",
+      "build": 50,
+      "date": "2026-07-18",
+      "summary": "AI Usage alerts no longer nag — a rate-limit warning near your quota fired again on every background refresh because the rolling session window shifts a few seconds each time, so the same 'near your limit' island kept popping every couple of minutes; alerts now throttle by time and surface once per real window, with a matching fix for the live account-truth gauges",
+      "highlights": []
+    },
+    {
+      "version": "1.0.47",
+      "build": 49,
+      "date": "2026-07-18",
+      "summary": "Live Claude and Codex gauges now stick — a fetched account snapshot survives background refreshes and app relaunches instead of reverting to log estimates, the slow first Claude probe is cached for five minutes, live percentages lead the Overview rows, and every live card shows how fresh its numbers are",
+      "highlights": []
+    },
+    {
+      "version": "1.0.46",
+      "build": 48,
+      "date": "2026-07-18",
+      "summary": "Claude and Codex gauges now show your account's real quota — when the CLI is signed in, Notchy reads live usage over the provider's own login (no API key needed), so the percentages, windows, and resets match the provider's dashboard exactly; local-log estimates remain as fallback",
+      "highlights": []
+    },
+    {
+      "version": "1.0.45",
+      "build": 47,
+      "date": "2026-07-18",
+      "summary": "A productivity toolkit lands in the notch — window snapping, saved snippets, copy-text-from-images, one-tap screenshots, an eyedropper, system-wide mic mute, a keyboard cleaning lock, a presenter keystroke HUD, menu-bar icon hiding, and GitHub PR tracking — plus a big AI Usage upgrade with pace projections and seven new providers",
+      "highlights": [
+        "Drag a window up to the notch to snap it — a zone strip appears (left/right halves, top quarters, full screen) and the window glides into place when you drop it",
+        "Snippets — save what's on your clipboard as a named snippet and paste it anytime from ⌘K; addresses, replies, and code blocks stay one keystroke away",
+        "Copy text from images — any screenshot or photo on your clipboard gets on-device text recognition (no network), so the words inside become selectable text with one tap",
+        "One-tap screenshot, eyedropper, and mic mute in ⌘K — capture a region or window, sample any pixel's hex color, or mute the mic system-wide so every meeting app goes quiet at once",
+        "Keyboard cleaning lock — keys go dead while you wipe, ⌘⎋ brings them back",
+        "Presenter keystroke HUD — the shortcuts you press appear as an island while you demo or record (off by default)",
+        "Hide menu-bar icons — ⌘-drag icons behind a divider and toggle them with a chevron, right from the menu bar (off by default)",
+        "GitHub in the notch — a read-only token shows your open pull requests as a live count with a tap-to-review island",
+        "AI Usage got a full engine upgrade — pace projections that say whether your quota lasts to reset, seven new providers, subscription renewal dates, phantom 0% session windows fixed, and dozens of provider-accuracy fixes",
+        "Every new string ships in all 133 languages"
+      ]
+    },
+    {
+      "version": "1.0.44",
+      "build": 46,
+      "date": "2026-07-17",
+      "summary": "Native call polish and softer Control Center-style edges — the incoming-call island gets iPhone-style answer and decline buttons with a live self-preview, native Messages and app-call banners are now hidden when Notchy mirrors them, and the panel and cards round off to match Control Center",
+      "highlights": [
+        "The incoming FaceTime island feels like an iPhone call — glossy green and red answer/decline buttons, the answer button bobbing inside a breathing ring while it rings",
+        "The video-call self-preview no longer shows a black rectangle — it appears only once the camera is actually delivering a picture, so a camera FaceTime is already using stays gracefully hidden instead of black",
+        "Native Messages and third-party call banners are dismissed the moment Notchy mirrors them into an island, so you see one notification instead of two",
+        "Softer, Control Center-matched corners — the expanded panel and its cards round off more, and stay concentric with the panel's curve",
+        "Expand on Hover, when turned off, now truly stays off at the notch"
+      ]
+    },
+    {
+      "version": "1.0.43",
+      "build": 45,
+      "date": "2026-07-17",
+      "summary": "Live system stats in the notch — hover the new gauge for CPU, memory, and network — battery health and cycle count in the battery flyout, right-click any tab to send it to the menu bar, and Low Power Mode now pauses the always-on animations",
+      "highlights": [
+        "System stats at a hover — a new gauge button in the panel header opens live CPU, memory, and network readouts; it samples only while the card is open, so it costs nothing the rest of the time",
+        "Battery health, surfaced — the battery flyout now shows your Mac's battery health percentage and charge-cycle count alongside the time-remaining estimate",
+        "Right-click a tab to add it to the menu bar — no trip to Settings; right-click again to bring it back (the hover tooltip points the way)",
+        "Easier on the battery — Low Power Mode now parks the pill equalizer, marquee titles, and visualizers; the AI-usage refresh slows to five minutes; and the always-on equalizer runs at a lower frame rate everywhere",
+        "Every new string ships in all 133 languages"
+      ]
+    },
+    {
+      "version": "1.0.42",
+      "build": 44,
+      "date": "2026-07-15",
+      "summary": "In-notch Settings reorganized — a live Liquid Touch toggle joins Shape and Pill Size, the Settings window's titlebar seam and sidebar clipping are fixed, and hairlines, dividers, and corner radii get a pixel pass",
+      "highlights": []
+    },
+    {
+      "version": "1.0.41",
+      "build": 43,
+      "date": "2026-07-14",
+      "summary": "Real Liquid Glass — the expanded panel now renders with macOS's native glass material (the same one Control Center uses), with cleaner cards, calmer hover, and corners that follow the panel's curve",
+      "highlights": [
+        "The expanded panel is now genuine system Liquid Glass on macOS 26 — deep adaptive blur, real lensing and edge lighting from the native material, instead of a hand-drawn imitation",
+        "Cards and rows follow Apple's layering rules — one glass surface with frosted content layers on top (no more glass stacked on glass), so tiles read like Control Center modules over any wallpaper",
+        "Hovering a Home card no longer shimmers the glass — feedback is a soft highlight, the way Apple's own glass responds to the pointer",
+        "Card corners are now concentric with the panel's curve, matching how macOS nests rounded shapes",
+        "Buttons, capsules, and toggles share one untinted glass recipe across the app, so every control wears the same material"
+      ]
+    },
+    {
+      "version": "1.0.40",
+      "build": 42,
+      "date": "2026-07-12",
+      "summary": "A full Apple-native design pass — system type scale, accent-colored switches, monochrome volume and brightness HUDs, subtler Liquid Glass — plus incoming-call fixes for multi-display setups",
+      "highlights": [
+        "Apple-native design pass — every text size and weight now sits on Apple's type scale (no more half-point sizes or heavyweight labels), and text colors follow the system's four-tier label hierarchy across tabs, islands, and Settings",
+        "Volume, brightness, and keyboard-backlight islands draw a clean white level bar — matching the native macOS HUD instead of a tinted, glowing one",
+        "Switches follow your accent color like System Settings (previously always green), and Control-Center tiles signal On with a filled icon instead of tinted borders and glows",
+        "Liquid Glass surfaces wear hairline edges — the bright double rim is gone, so glass controls read like Apple's own",
+        "Incoming-call fixes — rings now surface on multi-display setups (detection previously watched only the main screen), and answering can no longer leave a stuck “on call” pill when the system's Answer button goes stale"
+      ]
+    },
+    {
+      "version": "1.0.39",
+      "build": 41,
+      "date": "2026-07-07",
+      "summary": "Check for Updates now answers right in the notch, updates found by a manual check install straight from Settings, and background media-helper processes no longer pile up after force-quits",
+      "highlights": [
+        "Check for Updates, reimagined — the result lands as a notch island (“You’re Up to Date”, “Update Check Failed”, or the update itself) instead of a system alert that could sit invisible behind other windows and freeze the overlay until dismissed",
+        "Settings → About narrates the check live — checking, up to date, or “Notchy X is available — tap to install”; once an update is found the row installs it directly",
+        "A manual check is never silenced — its answer shows even while a Focus is on (background update finds still respect Focus)",
+        "Fixed leaked helper processes — force-quitting or killing Notchy could leave the Now Playing media helper running forever (and they accumulated); shutdown now always cleans up, and any strays from older versions are removed at launch",
+        "Under the hood — the whole codebase now builds with zero compiler warnings after a concurrency-safety pass (command palette state, AI-usage provider engine), and the new update strings ship in all 124 languages"
+      ]
+    },
+    {
+      "version": "1.0.38",
+      "build": 40,
+      "date": "2026-07-07",
+      "summary": "Call and message islands switched on for everyone, the Cuely teleprompter scroll fixed, Liquid Glass animation and hover fixes, a dedicated Knock settings page with more actions, and full-screen reveal on hover",
+      "highlights": [
+        "Calls & Messages are live — answer or decline FaceTime from the notch, see WhatsApp / Teams / Zoom ringers as islands, and reply to iMessage inline. These shipped dark in earlier builds (a leftover debug gate kept them off); new toggles live under Settings → Notifications",
+        "Cuely actually scrolls again — a layout regression had frozen both auto-scroll and voice-follow since ~1.0.29; voice mode is also far more robust (on-device recognition with automatic server fallback, and a watchdog that recovers a silent recognizer mid-session)",
+        "Liquid Glass fixes — opening the notch no longer flashes the panel shifted to the right (reported on M5 MacBook Air), and hovering Home cards no longer flattens or flickers the glass",
+        "Knock gets its own Settings page — source cards for chassis / trackpad / key, plus seven new actions (Next/Previous Track, Mute, Camera Mirror, Command Palette, Hide/Show Notchy, Start Pomodoro). Chassis detection now works on the newest MacBook Pros",
+        "Hidden in full screen? Touch the top-center of the screen and Notchy slides open over the full-screen app — like the auto-hidden menu bar (works on notch and non-notch Macs)",
+        "Settings window is resizable (the sidebar no longer cuts off), a new Tabs page toggles every notch tab in one Control-Center-style list, every feature keeps one consistent color across the app, and the in-notch Quick Actions add a system-wide color picker"
+      ]
+    },
+    {
+      "version": "1.0.37",
+      "build": 39,
+      "date": "2026-07-06",
+      "summary": "Real chassis-knock on Apple-Silicon laptops, per-app knock profiles with a card-based action picker, a centered open animation, and a reorganized Settings window",
+      "highlights": [
+        "Knock your Mac — a new chassis-tap knock source reads the built-in accelerometer on Apple-Silicon laptops (no extra permission), joining the trackpad tap and keyboard double-tap. Opt-in, with a sensitivity slider",
+        "Per-app knock profiles — give any app its own single / double / triple-knock actions, picked from a new category card grid (Notchy, Media, Utility, System)",
+        "Opening animation starts centered — the expand no longer begins shifted to one side before snapping into place on ProMotion displays",
+        "Settings reorganized — General is slimmer, Display moved into \\\"Appearance & Display\\\", and Lock Screen lives with Notifications; clipboard shortcuts follow Apple conventions and gain a Reset button",
+        "In-notch Quick Actions — one-tap Caffeine, Screenshot, 25-minute timer, and Lock right inside the notch settings"
+      ]
+    },
+    {
+      "version": "1.0.36",
+      "build": 38,
+      "date": "2026-07-05",
+      "summary": "Accurate Codex usage with both rate-limit windows, smarter usage alerts, a Liquid Glass expand fix, and a systemwide Apple-style copy polish",
+      "highlights": [
+        "Codex usage is accurate again — the gauge reads the latest event that actually carries a rate-limit window (Codex omits it on many events, which blanked or staled the number), the reset countdown uses Codex's real resets_in_seconds, and BOTH windows (5-hour session + weekly) now show",
+        "Smarter AI usage alerts — each limit warning now fires independently and re-arms every session (they previously shared one throttle, so the app could send at most one alert a day), and the weekly Codex window is watched too",
+        "More AI Usage providers — added Claude API, Doubao, and others, with a more reliable token and cookie resolver so more accounts connect on the first try",
+        "Liquid Glass — opening the notch from the collapsed pill grows symmetrically from the notch instead of sliding in from the side",
+        "Features gallery — Notes, File Shelf, Reminders, Shortcuts, and Camera Mirror are now their own discoverable cards",
+        "Onboarding — when a release adds a new permission, existing users are shown just that one on update (first run still asks up front)",
+        "Copy polish — proper typographer's punctuation, clearer wording, and macOS-matching labels like \\\"Open at Login\\\""
+      ]
+    },
+    {
+      "version": "1.0.34",
+      "build": 36,
+      "date": "2026-07-03",
+      "summary": "Knock to open the notch (double-tap a modifier key), resizable expanded panel, feature-tip islands, smoother Apple-style motion, and groundwork for call & message islands",
+      "highlights": [
+        "Knock — double-tap Control (or ⌥/⌘/⇧, your pick) on its own to open the notch, the Shelf, Clipboard, Caffeine, or play/pause; chords like ⌘C never false-trigger",
+        "Resizable panel — set the expanded panel's width (460–760pt) and height (250–400pt) in Appearance, live-previewed while you drag the slider",
+        "Feature tips — a quiet \\\"Did you know?\\\" island every few days teaches one feature with a one-tap Try It; off switch in Notifications settings",
+        "Motion polish — every animation now honors your Animation Speed and Reduce Motion settings, continuous (squircle) corners everywhere, and VoiceOver labels on the new island controls",
+        "Under the hood — an end-to-end regression suite now runs before every release, on both notch and non-notch layouts"
+      ]
+    },
+    {
+      "version": "1.0.33",
+      "build": 35,
+      "date": "2026-07-01",
+      "summary": "Command palette (⌘K), keyboard tab navigation, a Features gallery, Caffeine in the menu bar, AI-usage alerts, and corrected cost estimates",
+      "highlights": [
+        "Command palette — press ⌘K (or a global shortcut you can set) to jump to any tab, setting, or action with fuzzy search",
+        "Keyboard navigation in the notch — ⌘1–9 jumps to a tab, ← / → cycles, and you can drag the tab chips to reorder them again",
+        "Menu bar — detach any tab (Cuely, Clipboard, Timer, AI Usage…) as a standalone popover, plus a one-click Caffeine keep-awake toggle; fixed items not appearing when toggled on",
+        "AI Usage — clearer setup (add a provider right from the tab), a notch alert when a provider crosses your limit, and corrected cost estimates that use each model's real API pricing (Opus, Sonnet, Haiku — no more Opus over-estimates)",
+        "New Features gallery in Settings — a visual overview of everything Notchy does, one click to configure each",
+        "Lighter battery use (mouse tracking throttled + short-circuits when idle) and a shorter, less repetitive first-run tour"
+      ]
+    },
+    {
+      "version": "1.0.32",
+      "build": 34,
+      "date": "2026-06-30",
+      "summary": "Remote provider usage in the AI Usage tab, detach any tab to the menu bar, lighter battery use, and tokens now in the Keychain",
+      "highlights": [
+        "AI Usage tab now tracks remote providers too — add an API key or token (OpenAI, DeepSeek, Claude, Cursor, Mistral, and more) and see each provider's rate-limit windows, cost, and credits alongside the local CLI stats. Set up in Settings → AI Usage → API Providers",
+        "Detach a tab to the menu bar — turn on a tab under Settings → General → Menu Bar (e.g. Cuely or Clipboard) to use it as a standalone menu-bar popover without opening the notch",
+        "Privacy: provider API keys and tokens are now stored in the macOS Keychain instead of on disk",
+        "Battery: the notch's mouse tracking is throttled and short-circuits when idle, cutting background CPU during normal use",
+        "AI Usage stats are clearer — real provider icons, per-window labels with reset countdowns, and no more misleading full-width bars",
+        "Settings sidebar reorganized into General, Features, and System groups"
+      ]
+    },
+    {
+      "version": "1.0.31",
+      "build": 33,
+      "date": "2026-06-19",
+      "summary": "AI Usage tab (Claude + Codex), update-island fix, timer reset, overflow guard",
+      "highlights": [
+        "New AI Usage tab — Claude Code and OpenAI Codex token usage and rate-limit windows, read from the CLIs' local logs (no API keys, no network). Off by default; enable in Settings → Tabs",
+        "Claude shows the 5-hour window with an animated count-up and shimmering bar; Codex shows its real used %, plan, and reset",
+        "Fixed: the update island now installs (it activates the app first); 'What's New' opens the changelog",
+        "Timer running view has a clear Reset button; fixed Timer-tab overflow with a scroll fallback",
+        "Hide toggles for the Charging and Lock/Unlock islands"
+      ]
+    },
+    {
+      "version": "1.0.30",
+      "build": 32,
+      "date": "2026-06-18",
+      "summary": "Now Playing layout fixes + visualizer, clipboard smart actions, Pomodoro focus stats",
+      "highlights": [
+        "Now Playing: fixed the player width (transport + shuffle/repeat no longer overflow, artwork no longer clips); tap a lyric to seek, with an animated visualizer when a track has no synced lyrics",
+        "Clipboard smart actions — copied links, hex colors, and emails get an inline cue and one-tap open",
+        "Pomodoro focus stats — a daily streak and 7-day mini chart in the Timer tab",
+        "New hide toggles: Charging Island and the Lock & Unlock pill",
+        "Onboarding tour now covers Now Playing and the shelf's compress/resize/Quick Look tools"
+      ]
+    },
+    {
+      "version": "1.0.29",
+      "build": 31,
+      "date": "2026-06-17",
+      "summary": "Image compress/resize/batch on the shelf, Apple-Music Now Playing redesign, HUD + accessibility fixes",
+      "highlights": [
+        "Compress images to a target size (presets or a custom size) and resize by max dimension, right on the file shelf",
+        "Batch-compress or convert a whole selection at once; spacebar Quick Look on any shelf tile",
+        "Now Playing redesigned Apple-Music style — ambient artwork backdrop, shuffle & repeat, tap a lyric to seek, output switcher, click the art to open the app",
+        "Fixed a double HUD when changing volume from the Touch Bar on macOS Tahoe",
+        "Apple-style volume and seek sliders with a hover scrubber and full VoiceOver support",
+        "Accessibility: Reduce Transparency, more VoiceOver labels, Differentiate Without Color, trackpad haptics, fuller localization"
+      ]
+    },
+    {
+      "version": "1.0.28",
+      "build": 30,
+      "date": "2026-06-12",
+      "summary": "Battery flyout in the notch, keyboard-backlight HUD, Apple Music favorite + app volume",
+      "highlights": [
+        "Battery flyout in the notch — your Mac, connected peripherals, and AirPods at a glance",
+        "Keyboard-backlight brightness keys now get the Notchy HUD too",
+        "Apple Music favorite (♥) and per-app volume from the Now Playing controls",
+        "Volume-key feedback beep and an Apple-style scrolling title ticker",
+        "Per-calendar selection, media-only fullscreen hiding, scroll-aware edge fades"
+      ]
+    },
+    {
+      "version": "1.0.27",
+      "build": 29,
+      "date": "2026-06-12",
+      "summary": "133 languages, HUD takeover on macOS Tahoe, pomodoro chaining, custom timer durations",
+      "highlights": [
+        "Replace System HUD now works on macOS 26 Tahoe — Notchy handles the hardware volume and brightness keys itself, so its island stays the only HUD",
+        "Fully localized into 133 languages",
+        "Pomodoro session chaining and custom timer durations, with a chime when the timer ends",
+        "Custom lock/unlock sounds — pick any system sound or your own audio file, with instant preview",
+        "Battery levels for classic Bluetooth headphones and speakers, not just Apple devices",
+        "AirPods island only prompts on a genuine close-range pairing attempt — idle nearby buds no longer re-prompt",
+        "Screenshot shelf detection is now locale-proof, so it works on non-English Macs",
+        "Hold the seek bar to scrub, softer scroll edges, no more spurious “Safe to disconnect” toasts for DMGs and Time Machine, calendar queries off the main thread"
+      ]
+    },
+    {
+      "version": "1.0.26",
+      "build": 28,
+      "date": "2026-06-11",
+      "summary": "Native-feel polish, new islands, Shortcuts tab",
+      "highlights": [
+        "New Shortcuts tab — run your Apple Shortcuts one-tap from the notch",
+        "New islands: download finished, drive mounted with Eject, device low-battery alerts, screenshots straight to the shelf",
+        "Replace System HUD — only the island shows for volume and brightness, not the macOS overlay",
+        "Pinned clipboard snippets, caffeine “until a time”, shelf zip/unzip",
+        "Settings reorganized Apple-style, with a Control-Center-style notch tab",
+        "More native feel: haptics, Focus/Do Not Disturb respected, smoother liquid glass"
+      ]
+    },
+    {
+      "version": "1.0.25",
+      "build": 27,
+      "date": "2026-06-09",
+      "summary": "Start Timer/Pomodoro from Settings, Reminders permission fix, cleaner notch glass",
+      "highlights": []
+    },
+    {
+      "version": "1.0.24",
+      "build": 26,
+      "date": "2026-06-09",
+      "summary": "Now Playing tab with karaoke lyrics, Reminders tab, GIF convert",
+      "highlights": [
+        "New Now Playing tab with karaoke-style synced lyrics",
+        "New Reminders tab and stopwatch",
+        "Convert images and videos to GIF right from the shelf",
+        "Audio-output switcher and connected-device battery levels",
+        "Interactive volume/brightness HUDs and one-tap Join for video calls"
+      ]
+    },
+    {
+      "version": "1.0.23",
+      "build": 25,
+      "date": "2026-06-08",
+      "summary": "133-language localization, AirDrop UX, brightness fixes",
+      "highlights": [
+        "Full localization into 133 languages",
+        "AirDrop: notch-anchored transfers, dead-file filtering, failure island",
+        "Brightness HUD now reliable on manual key presses; artwork flicker fixed",
+        "VoiceOver labels on icon-only buttons"
+      ]
+    },
+    {
+      "version": "1.0.22",
+      "build": 24,
+      "date": "2026-06-07",
+      "summary": "Liquid Glass UI, localization, accessibility, Settings search",
+      "highlights": [
+        "New Liquid Glass UI across the notch",
+        "Full localization in 9 languages",
+        "Accessibility: Reduce Motion, Reduce Transparency, and Increase Contrast support",
+        "Settings search plus a global hotkey to toggle the notch",
+        "Per-item clipboard delete and destructive-action confirmations"
+      ]
+    },
+    {
+      "version": "1.0.21",
+      "build": 23,
+      "date": "2026-06-07",
+      "summary": "Hotfix for a crash in packaged builds",
+      "highlights": []
+    },
+    {
+      "version": "1.0.20",
+      "build": 21,
+      "date": "2026-06-07",
+      "summary": "First pass of 133-language localization, UI layout cleanup",
+      "highlights": []
+    },
+    {
+      "version": "1.0.19",
+      "build": 20,
+      "date": "2026-06-05",
+      "summary": "Fixed file drag-and-drop onto the collapsed pill",
+      "highlights": []
+    },
+    {
+      "version": "1.0.18",
+      "build": 19,
+      "date": "2026-06-02",
+      "summary": "Update island, auto-update opt-in, big performance pass",
+      "highlights": [
+        "Update-available island with tap-to-install, plus automatic update checks",
+        "Multi-file shelf: click-to-browse picker and multi-select drag-out",
+        "Performance: image and album-art work moved off the main thread, drift-free timer",
+        "Many Notes, clipboard, and camera fixes; +81 unit tests"
+      ]
+    },
+    {
+      "version": "1.0.17",
+      "build": 18,
+      "date": "2026-06-01",
+      "summary": "Caffeine and lock-screen hover polish",
+      "highlights": []
+    },
+    {
+      "version": "1.0.16",
+      "build": 17,
+      "date": "2026-05-31",
+      "summary": "Cuely fixes, automatic updates enabled",
+      "highlights": []
+    },
+    {
+      "version": "1.0.15",
+      "build": 16,
+      "date": "2026-05-31",
+      "summary": "Maintenance and stability release",
+      "highlights": []
+    },
+    {
+      "version": "1.0.14",
+      "build": 15,
+      "date": "2026-05-29",
+      "summary": "Near-zero idle CPU",
+      "highlights": [
+        "Idle CPU dropped from ~2.25% to ~0% on an Apple M2 (~13 wakeups/sec to ~0)",
+        "Polling replaced with event-driven updates across the lock screen, pill, and brightness HUD"
+      ]
+    },
+    {
+      "version": "1.0.13",
+      "build": 14,
+      "date": "2026-05-29",
+      "summary": "Battery optimizations; open-clipboard shortcut now ⌃⌥C (rebindable)",
+      "highlights": []
+    },
+    {
+      "version": "1.0.12",
+      "build": 13,
+      "date": "2026-05-28",
+      "summary": "Stability follow-up to 1.0.11",
+      "highlights": []
+    },
+    {
+      "version": "1.0.11",
+      "build": 12,
+      "date": "2026-05-28",
+      "summary": "Cuely now respects “Hide from Screen Capture”",
+      "highlights": []
+    },
+    {
+      "version": "1.0.10",
+      "build": 11,
+      "date": "2026-05-27",
+      "summary": "Cuely polish — smoother voice scroll, sharper UI",
+      "highlights": []
+    },
+    {
+      "version": "1.0.9",
+      "build": 10,
+      "date": "2026-05-27",
+      "summary": "Cuely — invisible teleprompter in the notch",
+      "highlights": [
+        "New Cuely tab turns the notch into a teleprompter hidden from screen capture — Zoom, Meet, Teams, and OBS audiences never see your script",
+        "Saved scripts library, auto-scroll speed presets, hover-to-pause, hotkeys",
+        "Voice-driven scroll (beta) via on-device speech recognition"
+      ]
+    },
+    {
+      "version": "1.0.8",
+      "build": 9,
+      "date": "2026-05-24",
+      "summary": "Clipboard shortcuts, notch fixes, Now Playing reliability",
+      "highlights": [
+        "Global clipboard hotkey (default ⇧⌘V) with 1–9 quick-grab and optional auto-paste",
+        "Now Playing media adapter auto-restarts if it crashes — music island no longer vanishes",
+        "Notch fixes: lock toast no longer hides in the camera cutout, pill state recomputes after notifications"
+      ]
+    }
+  ]
+}
