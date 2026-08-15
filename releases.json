@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-08-15T08:02:07Z",
+  "generatedAt": "2026-08-15T12:52:53Z",
   "latest": {
-    "version": "1.0.116",
-    "build": 118,
+    "version": "1.0.117",
+    "build": 119,
     "date": "2026-08-15"
   },
   "releases": [
+    {
+      "version": "1.0.117",
+      "build": 119,
+      "date": "2026-08-15",
+      "summary": "Notchy is quieter when you are not using it, agent turn costs are accurate, and the panel no longer flashes as it closes",
+      "highlights": [
+        "Lower idle CPU and fewer wake-ups — two background checks were doing real work every couple of seconds: one walked every running process to see whether a call app was open, the other parsed every Bluetooth advertisement in range on the main thread",
+        "No more brief flash at the top of the notch as the panel finishes closing — the pill turned see-through for a few frames before the blur behind it was ready",
+        "Claude Code turn costs are no longer overstated — a turn's usage was counted once per content block instead of once per request, inflating the figure by roughly 1.8x"
+      ]
+    },
     {
       "version": "1.0.116",
       "build": 118,
