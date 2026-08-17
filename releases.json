@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-15T12:52:53Z",
+  "generatedAt": "2026-08-17T13:56:57Z",
   "latest": {
-    "version": "1.0.117",
-    "build": 119,
-    "date": "2026-08-15"
+    "version": "1.0.118",
+    "build": 120,
+    "date": "2026-08-17"
   },
   "releases": [
+    {
+      "version": "1.0.118",
+      "build": 120,
+      "date": "2026-08-17",
+      "summary": "Fixes a crash that stopped Notchy launching at all on macOS 13 and 14, adds YouTube Music control, and gives the timer a proper duration dial",
+      "highlights": [
+        "Notchy launches again on macOS Ventura and Sonoma — it crashed a couple of seconds after opening, every time, so the app could never be reopened. The AI cost-usage store asked the system to verify which queue it was on using a check those releases do not have",
+        "YouTube Music: the scrubber, shuffle, repeat and 👍 now work with the desktop app, through its own companion server — macOS's media controls never reported its position properly",
+        "Set a timer by dragging a ruler instead of tapping ±1 / ±5 — the scale moves under a fixed marker, with a tick of haptic feedback per minute",
+        "Liquid Glass everywhere it belongs: the panel, its cards and the lock-screen widgets now share the system material, with six looks to choose from in Settings"
+      ]
+    },
     {
       "version": "1.0.117",
       "build": 119,
