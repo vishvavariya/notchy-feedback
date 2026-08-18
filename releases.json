@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-08-18T08:55:55Z",
+  "generatedAt": "2026-08-18T19:13:37Z",
   "latest": {
-    "version": "1.0.119",
-    "build": 121,
+    "version": "1.0.120",
+    "build": 122,
     "date": "2026-08-18"
   },
   "releases": [
+    {
+      "version": "1.0.120",
+      "build": 122,
+      "date": "2026-08-18",
+      "summary": "A call now wears the notch the way iPhone does, and now-playing can clear itself when you pause",
+      "highlights": [
+        "An ongoing call settles into the notch itself — phone glyph and running clock on one side of the camera, a live level meter on the other — instead of a banner pinned across the pill for the whole call",
+        "New “Hide When Paused” in Now Playing: the track clears about half a minute after you pause, and comes straight back when you press play",
+        "Minor fixes and refinements — island ranking, Settings, VoiceOver labels"
+      ]
+    },
     {
       "version": "1.0.119",
       "build": 121,
