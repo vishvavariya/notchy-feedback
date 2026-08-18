@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-17T13:56:57Z",
+  "generatedAt": "2026-08-18T08:55:55Z",
   "latest": {
-    "version": "1.0.118",
-    "build": 120,
-    "date": "2026-08-17"
+    "version": "1.0.119",
+    "build": 121,
+    "date": "2026-08-18"
   },
   "releases": [
+    {
+      "version": "1.0.119",
+      "build": 121,
+      "date": "2026-08-18",
+      "summary": "Fixes Home cards being clipped at the panel edge on notch Macs, sharpens every button press, and makes Settings search actually find things",
+      "highlights": [
+        "Home cards no longer get sliced off at the bottom of the panel on Macs with a notch",
+        "Buttons answer the press instantly and crisply — the play/pause and skip controls now respond on the way down, not after",
+        "Settings search finds multi-word queries like “clipboard limit”, and lists results in sidebar order",
+        "Minor fixes and refinements — notch chrome, Activity, VoiceOver labels, icons"
+      ]
+    },
     {
       "version": "1.0.118",
       "build": 120,
