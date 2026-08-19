@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-08-19T12:21:43Z",
+  "generatedAt": "2026-08-19T14:13:54Z",
   "latest": {
-    "version": "1.0.121",
-    "build": 123,
+    "version": "1.0.122",
+    "build": 124,
     "date": "2026-08-19"
   },
   "releases": [
+    {
+      "version": "1.0.122",
+      "build": 124,
+      "date": "2026-08-19",
+      "summary": "The notch closes when you walk away — plus a lighter, quieter app and a Settings search that finds the actual switch",
+      "highlights": [
+        "The panel closes again: a hover that was never released could leave it open forever, with nothing able to collapse it",
+        "Lighter on the battery — a background call check was sweeping the screen every two seconds forever, and the notch recomputed its geometry on every mouse move",
+        "Settings search now searches the settings themselves, not just page names: type a switch's name, or misspell it, and it takes you there",
+        "The battery and system cards drop under their own button, and the header stops jittering as the cursor crosses it",
+        "Minor fixes and refinements — the closed-pill clock is now off by default, clock cards, header chrome"
+      ]
+    },
     {
       "version": "1.0.121",
       "build": 123,
