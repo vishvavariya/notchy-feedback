@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-08-18T19:13:37Z",
+  "generatedAt": "2026-08-19T12:21:43Z",
   "latest": {
-    "version": "1.0.120",
-    "build": 122,
-    "date": "2026-08-18"
+    "version": "1.0.121",
+    "build": 123,
+    "date": "2026-08-19"
   },
   "releases": [
+    {
+      "version": "1.0.121",
+      "build": 123,
+      "date": "2026-08-19",
+      "summary": "The feedback board, built — sixteen requests shipped, every keyboard shortcut working again, and lock-screen lyrics that actually fill the screen",
+      "highlights": [
+        "Sixteen requests from the feedback board: a clock in the notch, switching Focus instead of only showing it, screen recording, a HomeKit tab, a Calendar tab, folders in the app launcher, drive space in System, a default tab, and a panel that sizes itself to the tab you're on",
+        "Every keyboard shortcut works again — five hotkeys were competing for one handler, so whichever registered first swallowed the rest. External-display brightness and its HUD are fixed with it",
+        "Full-screen lock-screen lyrics fill the screen properly: artwork and words flank the login field instead of crowding into a quarter-height band with the cover cut off — and they are on by default now",
+        "A Menu Bar card that reaches any menu-bar icon from inside the notch, including the ones the camera cutout hides",
+        "Minor fixes and refinements — Siri island, stock colours and company logos, lock-screen widget order, Home cards, panel sizing, Settings"
+      ]
+    },
     {
       "version": "1.0.120",
       "build": 122,
