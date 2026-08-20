@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-08-20T09:29:10Z",
+  "generatedAt": "2026-08-20T13:29:28Z",
   "latest": {
-    "version": "1.0.123",
-    "build": 125,
+    "version": "1.0.124",
+    "build": 126,
     "date": "2026-08-20"
   },
   "releases": [
+    {
+      "version": "1.0.124",
+      "build": 126,
+      "date": "2026-08-20",
+      "summary": "A configurable pill clock, real region recording, Focus that lists your modes, and a Calendar that shows every event",
+      "highlights": [
+        "The clock on the closed pill is yours to shape — time, date or both, five date formats, optional seconds",
+        "Record a region of the screen by dragging it out, snap windows into per-display zones (thirds, quarters, columns), and see external monitor brightness on the monitor itself",
+        "Calendar shows all-day events again — birthdays and holidays no longer render an empty tab — and Focus lists your modes instead of nothing",
+        "Arranging Home is direct now: cards move when you push them, the grid resizes without drifting from the cursor, and the panel closes when you look away",
+        "Fixes: screenshot and app pickers come to the front, hover labels are configurable, reminders can be renamed, Keep Awake keeps the panel open"
+      ]
+    },
     {
       "version": "1.0.123",
       "build": 125,
