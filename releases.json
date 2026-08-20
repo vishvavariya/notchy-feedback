@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-08-19T14:13:54Z",
+  "generatedAt": "2026-08-20T09:29:10Z",
   "latest": {
-    "version": "1.0.122",
-    "build": 124,
-    "date": "2026-08-19"
+    "version": "1.0.123",
+    "build": 125,
+    "date": "2026-08-20"
   },
   "releases": [
+    {
+      "version": "1.0.123",
+      "build": 125,
+      "date": "2026-08-20",
+      "summary": "The notch picks up macOS 26's newest glass, its symbols come alive, and a camera light for the header",
+      "highlights": [
+        "Every glass surface wears the newest edge treatment — a darker rim with a brighter highlight riding it, so the panel separates from whatever is behind it",
+        "Icons on the island move the way the system's do: they morph when they change, beat once when something finishes, and breathe while work is still running",
+        "A camera button in the header, green while any app has your camera — and Camera Guard, which tells you the moment one opens it",
+        "Live numbers roll instead of jumping — the clock, countdowns, gauges and prices — and the selected tab now flows from tab to tab",
+        "Fixes: dragging a card's edge no longer runs past what your display can show, file and app pickers take clicks again, and arranging Home no longer fires the card you touch"
+      ]
+    },
     {
       "version": "1.0.122",
       "build": 124,
