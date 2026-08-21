@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-08-20T13:29:28Z",
+  "generatedAt": "2026-08-21T06:07:43Z",
   "latest": {
-    "version": "1.0.124",
-    "build": 126,
-    "date": "2026-08-20"
+    "version": "1.0.125",
+    "build": 127,
+    "date": "2026-08-21"
   },
   "releases": [
+    {
+      "version": "1.0.125",
+      "build": 127,
+      "date": "2026-08-21",
+      "summary": "Every app's notifications land at the notch — reply to Teams and Outlook without leaving your work, and see what's unread at a glance",
+      "highlights": [
+        "Notifications from any app — Outlook, Teams, Slack, anything — appear as islands at the notch instead of the far corner of a wide display",
+        "Reply inline to Teams, Outlook and Slack the way you already could to iMessage, straight from the island",
+        "A new Unread card on Home counts what's waiting in Outlook, Teams, Mail and anything else that badges its icon",
+        "Mute app by app: one noisy work app can be switched off without silencing the rest",
+        "Fixed a pill that showed an app — Telegram most often — as playing when nothing was; a silent app can no longer claim the notch",
+        "Minor fixes and refinements — Camera Guard, world clock, file chips, localisation"
+      ]
+    },
     {
       "version": "1.0.124",
       "build": 126,
