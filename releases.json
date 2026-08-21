@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-21T08:53:30Z",
+  "generatedAt": "2026-08-21T09:12:20Z",
   "latest": {
-    "version": "1.0.125",
-    "build": 127,
+    "version": "1.0.126",
+    "build": 128,
     "date": "2026-08-21"
   },
   "releases": [
     {
-      "version": "1.0.125",
-      "build": 127,
+      "version": "1.0.126",
+      "build": 128,
       "date": "2026-08-21",
       "summary": "Every app's notifications land at the notch — reply to Teams and Outlook without leaving your work, and see what's unread at a glance",
       "highlights": [
