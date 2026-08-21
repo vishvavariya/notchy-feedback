@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-08-21T09:12:20Z",
+  "generatedAt": "2026-08-21T11:07:25Z",
   "latest": {
-    "version": "1.0.126",
-    "build": 128,
+    "version": "1.0.127",
+    "build": 129,
     "date": "2026-08-21"
   },
   "releases": [
+    {
+      "version": "1.0.127",
+      "build": 129,
+      "date": "2026-08-21",
+      "summary": "The selected-tab pill is neutral and contained at every tab count, and diagnostic probes for the right-to-left expand",
+      "highlights": [
+        "The selected-tab highlight is a flat white wash instead of a second glass layer — it no longer picks up your wallpaper's colour through the tab bar's own glass",
+        "At high tab counts the pill caps its height to the cell width, so it stays a capsule instead of a bright disc that overhangs the bar"
+      ]
+    },
     {
       "version": "1.0.126",
       "build": 128,
