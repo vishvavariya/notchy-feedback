@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-08-21T11:07:25Z",
+  "generatedAt": "2026-08-24T18:21:20Z",
   "latest": {
-    "version": "1.0.127",
-    "build": 129,
-    "date": "2026-08-21"
+    "version": "1.0.128",
+    "build": 130,
+    "date": "2026-08-24"
   },
   "releases": [
+    {
+      "version": "1.0.128",
+      "build": 130,
+      "date": "2026-08-24",
+      "summary": "Incoming calls sit properly under the camera on notch MacBooks, and Notchy can now tell when an update fails to install",
+      "highlights": [
+        "On notch MacBooks the incoming-call island centres in its card instead of clinging to the camera cutout with empty space beneath it",
+        "Update checks report whether they succeeded, failed, or stalled part-way — anonymously, and only ever a step name and an error code",
+        "Minor fixes and refinements — notch layout, updates, analytics"
+      ]
+    },
     {
       "version": "1.0.127",
       "build": 129,
