@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-24T18:21:20Z",
+  "generatedAt": "2026-08-25T08:10:19Z",
   "latest": {
-    "version": "1.0.128",
-    "build": 130,
-    "date": "2026-08-24"
+    "version": "1.0.129",
+    "build": 131,
+    "date": "2026-08-25"
   },
   "releases": [
+    {
+      "version": "1.0.129",
+      "build": 131,
+      "date": "2026-08-25",
+      "summary": "Your settings can follow you to a second Mac over iCloud, the Focus switcher lists your real modes again, and two-finger swipes on the notch actually work",
+      "highlights": [
+        "Optional iCloud settings sync — turn it on in Settings → About → Backup and a second Mac comes up configured the way you left this one",
+        "The Focus tab lists your modes again, and swipe gestures on the notch respond to a two-finger trackpad swipe as well as a drag",
+        "Snap zones can wrap into rows you choose per display, so a big set stays easy to aim at",
+        "Minor fixes and refinements — Focus, Weather, Home cards, the header strip and the app launcher"
+      ]
+    },
     {
       "version": "1.0.128",
       "build": 130,
