@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-25T12:37:57Z",
+  "generatedAt": "2026-08-25T14:13:19Z",
   "latest": {
-    "version": "1.0.130",
-    "build": 132,
+    "version": "1.0.131",
+    "build": 133,
     "date": "2026-08-25"
   },
   "releases": [
+    {
+      "version": "1.0.131",
+      "build": 133,
+      "date": "2026-08-25",
+      "summary": "Home cards can be any shape you like, the month calendar finally gets the room it needs, and selecting text in the terminal no longer flips tabs",
+      "highlights": [
+        "Every Home card can now be Small, Wide, Tall or Large — arrange them into the layout you actually want, from the notch or from Settings",
+        "The Calendar card ships large by default, so the month grid and the day's agenda sit side by side with room to read",
+        "The agenda beside the month grid shows the day you selected, instead of rolling on into next week",
+        "Minor fixes and refinements — terminal text selection no longer pages the panel and confirms a copy, built-in and stubborn displays gain a software dim, and long settings descriptions can be expanded"
+      ]
+    },
     {
       "version": "1.0.130",
       "build": 132,
