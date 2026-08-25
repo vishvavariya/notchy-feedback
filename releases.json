@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-25T14:13:19Z",
+  "generatedAt": "2026-08-25T21:53:31Z",
   "latest": {
-    "version": "1.0.131",
-    "build": 133,
+    "version": "1.0.132",
+    "build": 134,
     "date": "2026-08-25"
   },
   "releases": [
+    {
+      "version": "1.0.132",
+      "build": 134,
+      "date": "2026-08-25",
+      "summary": "A quick-note card for Home, calls that look the same on every Mac, and a lock screen that never cuts a card in half",
+      "highlights": [
+        "New Quick Note card on Home — type a thought straight into the notch instead of switching to another app; it rides your settings backup and iCloud sync",
+        "An incoming call now wears the same shape whether or not your Mac has a notch, even with music playing",
+        "The lock-screen stack shows each card whole or not at all, instead of slicing the last one through the middle",
+        "Minor fixes and refinements — display brightness, Home cards and the notch chrome"
+      ]
+    },
     {
       "version": "1.0.131",
       "build": 133,
