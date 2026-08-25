@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-08-25T08:10:19Z",
+  "generatedAt": "2026-08-25T12:37:57Z",
   "latest": {
-    "version": "1.0.129",
-    "build": 131,
+    "version": "1.0.130",
+    "build": 132,
     "date": "2026-08-25"
   },
   "releases": [
+    {
+      "version": "1.0.130",
+      "build": 132,
+      "date": "2026-08-25",
+      "summary": "Terminal shortcuts and a right-click menu, PDF merging on the shelf, a full calendar card for Home, and displays that can finally be dimmed even without DDC",
+      "highlights": [
+        "The terminal tab takes the shortcuts you expect — ⌘K to clear, ⌘C/⌘V, ⌘F to find, ⌘± for text size — and right-click gives you the same actions as a menu",
+        "Select a few PDFs on the shelf and merge them into one document, in the order you arranged them; images join in as pages too",
+        "A new Calendar card for Home puts the month grid and what's coming up side by side",
+        "Monitors that don't answer DDC — DisplayLink docks and most hubs — can now be dimmed in software, and Settings says which display can't be reached and why",
+        "Minor fixes and refinements — the idle pill size slider on notch Macs, AI spend per day, lock-screen widgets on every display"
+      ]
+    },
     {
       "version": "1.0.129",
       "build": 131,
