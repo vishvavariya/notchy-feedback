@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-08-25T21:53:31Z",
+  "generatedAt": "2026-08-26T19:17:04Z",
   "latest": {
-    "version": "1.0.132",
-    "build": 134,
-    "date": "2026-08-25"
+    "version": "1.0.133",
+    "build": 136,
+    "date": "2026-08-26"
   },
   "releases": [
+    {
+      "version": "1.0.133",
+      "build": 136,
+      "date": "2026-08-26",
+      "summary": "Eliminated the 130ms double-animation when opening the notch so it opens instantly, plus fixes to the material blur timing",
+      "highlights": [
+        "The notch opens instantly — the panel now pre-mounts on hover, eliminating the double-animation where the notch opened and then the content faded in a split second later",
+        "The frosted glass material settles exactly when the shape lands, preventing blur bleeding past the edge of the panel"
+      ]
+    },
     {
       "version": "1.0.132",
       "build": 134,
