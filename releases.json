@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-26T19:17:04Z",
+  "generatedAt": "2026-08-27T09:26:19Z",
   "latest": {
-    "version": "1.0.133",
-    "build": 136,
-    "date": "2026-08-26"
+    "version": "1.0.134",
+    "build": 137,
+    "date": "2026-08-27"
   },
   "releases": [
+    {
+      "version": "1.0.134",
+      "build": 137,
+      "date": "2026-08-27",
+      "summary": "The notch now opens as one object — the glass grows with the panel instead of snapping to full size ahead of it — plus overnight battery savings and two controls that were missing",
+      "highlights": [
+        "Opening the notch is one smooth motion: the frosted material grows out of the notch with the panel instead of appearing at full width a frame early",
+        "Longer battery overnight — the pollers that keep the Mac busy during dark wakes park while it sleeps, and only the ones that were running come back",
+        "Standing \"always allow\" approvals for agent tools can be taken back in one tap from the AI Usage page",
+        "A revealed Wi-Fi password can be hidden again without closing the card"
+      ]
+    },
     {
       "version": "1.0.133",
       "build": 136,
