@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-27T09:26:19Z",
+  "generatedAt": "2026-08-30T18:14:59Z",
   "latest": {
-    "version": "1.0.134",
-    "build": 137,
-    "date": "2026-08-27"
+    "version": "1.0.135",
+    "build": 138,
+    "date": "2026-08-30"
   },
   "releases": [
+    {
+      "version": "1.0.135",
+      "build": 138,
+      "date": "2026-08-30",
+      "summary": "Calmer motion by default with a speed control that finally works, the header can no longer be cut off at any panel size, and a batch of fixes for lock-screen cards, recurring calendar events and the closing notch",
+      "highlights": [
+        "Motion is calmer out of the box, and the Animation Speed slider now reaches the open, the close and every transition — it only affected a handful of loops before",
+        "The header can no longer be cut off: the panel always reserves room for its tabs and buttons, at every width and height the sliders offer",
+        "Lock screen shows every card you enable — they flow into columns instead of stopping after the first one",
+        "Minor fixes and refinements — closing notch glass, recurring calendar events, Home card scrolling, media keys and overnight battery"
+      ]
+    },
     {
       "version": "1.0.134",
       "build": 137,
