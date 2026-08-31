@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-30T18:14:59Z",
+  "generatedAt": "2026-08-31T21:08:37Z",
   "latest": {
-    "version": "1.0.135",
-    "build": 138,
-    "date": "2026-08-30"
+    "version": "1.0.136",
+    "build": 139,
+    "date": "2026-08-31"
   },
   "releases": [
+    {
+      "version": "1.0.136",
+      "build": 139,
+      "date": "2026-08-31",
+      "summary": "The notch opens without the stall it had on hotkey and knock, a new Minimalistic UI strips Notchy back to the tabs you actually use, and the music ear stops covering the active app's menus",
+      "highlights": [
+        "Opening the notch is immediate again — the panel is prepared ahead of time, so a hotkey, a knock or the menu bar opens as fast as hovering does",
+        "Minimalistic UI: one switch keeps only the tabs you choose, hides the optional header buttons and draws the pill and panel smaller — your other settings are kept",
+        "The music ear now stops beside the active app's menus instead of covering File, Edit and View",
+        "Minor fixes and refinements — hovering the panel no longer dims the app you were working in, and drags belonging to other apps (browser tabs) pass under the notch untouched"
+      ]
+    },
     {
       "version": "1.0.135",
       "build": 138,
