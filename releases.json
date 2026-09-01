@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-09-01T07:46:14Z",
+  "generatedAt": "2026-09-01T20:20:01Z",
   "latest": {
-    "version": "1.0.137",
-    "build": 140,
+    "version": "1.0.138",
+    "build": 141,
     "date": "2026-09-01"
   },
   "releases": [
+    {
+      "version": "1.0.138",
+      "build": 141,
+      "date": "2026-09-01",
+      "summary": "Calls stop stretching the notch and gain their own mic, camera and hang-up controls, incoming calls reach the notch in any language, and you choose whether notifications land in the notch instead of the macOS banner",
+      "highlights": [
+        "A call no longer stretches the notch — the pill was reserving room for the meeting app's name it never drew. It now wears the shape it should: phone glyph and running clock one side of the camera, level meter the other",
+        "Mic, camera and hang up, right on the call island — no more hunting for the button inside the app mid-meeting",
+        "Incoming calls and messages reach the notch from far more apps and in far more languages — Teams, WhatsApp, Telegram, Webex, Messenger, Skype and the rest, including calls announced in your own language rather than English",
+        "You choose who owns notifications: the new Notification Delivery setting can hide the macOS banner entirely and put the notification in the notch, which is also the only way to reply inline",
+        "Minor fixes and refinements — tab bar width, message islands, calendar"
+      ]
+    },
     {
       "version": "1.0.137",
       "build": 140,
