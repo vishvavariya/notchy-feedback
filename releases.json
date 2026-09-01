@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-31T21:08:37Z",
+  "generatedAt": "2026-09-01T07:46:14Z",
   "latest": {
-    "version": "1.0.136",
-    "build": 139,
-    "date": "2026-08-31"
+    "version": "1.0.137",
+    "build": 140,
+    "date": "2026-09-01"
   },
   "releases": [
+    {
+      "version": "1.0.137",
+      "build": 140,
+      "date": "2026-09-01",
+      "summary": "Notchy uses far less power around other Bluetooth devices, the panel closes quickly instead of lingering, and first run asks for one permission instead of eleven",
+      "highlights": [
+        "Much lighter on battery in busy places — Notchy was listening to every Bluetooth advertisement around it while waiting for your AirPods, which costs little at a desk and a lot in a lecture hall or a café. It now only listens closely when there is something to listen for",
+        "Closing the notch is quick and clean again — the panel no longer keeps shrinking after its contents have gone, which is what made the close feel laggy and clumsy",
+        "First run now asks for Accessibility and nothing else — every other permission is requested by the feature that needs it, the moment you use it. The full guided setup is still in Settings › Permissions",
+        "Minor fixes and refinements — a new install starts lean with all 34 features listed in the Features gallery, the tab bar keeps its icons readable and moves the rest into a More menu, mute a Teams or Zoom call from the notch, AirDrop from the drop island, restore a single settings page to its defaults, and panel text follows the system text size"
+      ]
+    },
     {
       "version": "1.0.136",
       "build": 139,
