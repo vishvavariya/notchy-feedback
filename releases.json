@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-01T20:20:01Z",
+  "generatedAt": "2026-09-02T14:32:19Z",
   "latest": {
-    "version": "1.0.138",
-    "build": 141,
-    "date": "2026-09-01"
+    "version": "1.0.139",
+    "build": 142,
+    "date": "2026-09-02"
   },
   "releases": [
+    {
+      "version": "1.0.139",
+      "build": 142,
+      "date": "2026-09-02",
+      "summary": "Every AI provider, meeting link and Apple service now wears its real logo instead of a stand-in glyph, Focus modes and Home tiles draw their own icons, and the AI tab tells you when a provider is having an incident",
+      "highlights": [
+        "Real logos, everywhere — 40-odd AI providers ship their own mark instead of an identical chip, a Join button shows the app the meeting will open in, and Apple's services (AirDrop, Home, Shortcuts) use the marks macOS itself draws",
+        "Icons that actually say something — a custom Focus wears the glyph you gave it in System Settings, Home tiles show the light, lock or fan they run, and shortcut chips read their name instead of all showing a play triangle",
+        "Provider incidents on the AI tab — when Claude, Codex or a provider you've added is degraded, the tab says so instead of quietly showing stale numbers",
+        "Your project names and account emails can stay private on screen — mask them for a screen share, while the numbers keep working"
+      ]
+    },
     {
       "version": "1.0.138",
       "build": 141,
