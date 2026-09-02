@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-09-02T14:32:19Z",
+  "generatedAt": "2026-09-02T22:07:11Z",
   "latest": {
-    "version": "1.0.139",
-    "build": 142,
+    "version": "1.0.141",
+    "build": 144,
     "date": "2026-09-02"
   },
   "releases": [
+    {
+      "version": "1.0.141",
+      "build": 144,
+      "date": "2026-09-02",
+      "summary": "Search the web, translate anything and do quick sums straight from the notch — and installing an update no longer closes the password box before you can finish",
+      "highlights": [
+        "Quick Search — type a query in the notch and press return to open it in your browser. Nine engines to pick from, shortcuts like \"yt\", \"gh\" and \"map\" to send one search somewhere else, and a pasted link opens directly instead of being searched for",
+        "Translate — paste anything foreign and read it in your language. It detects the source for you, translates as you type, and Copy puts the result on the clipboard",
+        "Calculator — a tab you type into rather than a keypad: the answer updates as you go, return commits and copies it, and the lines you ran before are still there next time",
+        "Installing an update no longer cancels itself — when the installer asked for your administrator password, Notchy dropped out of the foreground a fraction of a second later and took the password box with it, so the update aborted and the old version came back. The app now stays put for the whole install"
+      ]
+    },
+    {
+      "version": "1.0.140",
+      "build": null,
+      "date": "",
+      "summary": "Hovering the notch no longer locks up the Mac, \"Notchy Only\" really does replace the macOS banner, and the Now Playing title finally uses the whole ear instead of a sliver of it",
+      "highlights": [
+        "Hovering the notch no longer freezes every window — reading the frontmost app's menu bar went through Accessibility on the main thread, so one slow app took the whole Mac down with it. Those reads now run off the main thread with a hard timeout",
+        "\"Notchy Only\" now really replaces the banner — notifications from apps with an inline reply field (Teams, Outlook, Slack and the rest) kept their macOS banner anyway, so both surfaces showed. The banner is now closed; those notifications offer Open instead of a reply field",
+        "Now Playing shows the track name it measured for — the title was squeezed into half the ear with the other half left blank, so names truncated early (\"Netf\") beside an empty black gap",
+        "Minor fixes and refinements — notch hover, Now Playing island, idle CPU"
+      ]
+    },
     {
       "version": "1.0.139",
       "build": 142,
