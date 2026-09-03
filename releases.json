@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-02T22:07:11Z",
+  "generatedAt": "2026-09-03T10:38:19Z",
   "latest": {
-    "version": "1.0.141",
-    "build": 144,
-    "date": "2026-09-02"
+    "version": "1.0.142",
+    "build": 145,
+    "date": "2026-09-03"
   },
   "releases": [
+    {
+      "version": "1.0.142",
+      "build": 145,
+      "date": "2026-09-03",
+      "summary": "Quick Search takes engines you add yourself, Settings now points out the switches that are on but doing nothing, and the typed tabs teach their own shortcuts",
+      "highlights": [
+        "Add your own search engines — a name and a URL is all it takes, and they join the chips, the bangs and ⌘1–9 alongside the built-ins, each with its real brand mark",
+        "Settings tells you when a feature is inert — a tab switched on without the permission it needs, or with nothing to show, now says so on the page with a one-click fix",
+        "Shortcuts where your hands already are — Translate, Quick Search and Calculator show their key commands along the bottom instead of hiding them in Settings",
+        "Minor fixes and refinements — the panel opens on the first try in full screen and no longer goes black there, hide the notch while mirroring or screen sharing, an honest storage readout, synced lyrics that no longer drift, and Notifications settings split into Calls & Messages and Capture & Files"
+      ]
+    },
     {
       "version": "1.0.141",
       "build": 144,
