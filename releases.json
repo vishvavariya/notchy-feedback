@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-03T10:38:19Z",
+  "generatedAt": "2026-09-03T14:07:45Z",
   "latest": {
-    "version": "1.0.142",
-    "build": 145,
+    "version": "1.0.143",
+    "build": 146,
     "date": "2026-09-03"
   },
   "releases": [
+    {
+      "version": "1.0.143",
+      "build": 146,
+      "date": "2026-09-03",
+      "summary": "“Notchy Only” now really takes the macOS banner off the screen — including the apps whose banners survived it before — and the Lock Screen cards fit the display instead of being clipped",
+      "highlights": [
+        "Notifications from Teams, Outlook, Slack and Mail no longer show twice — the banner was hidden by a route that quietly did nothing on some Macs, so it ran its full life top-right with the island beside it. Notchy now checks the banner is actually gone and closes it if it isn't",
+        "Lock Screen widgets are no longer cut off at the bottom — the stack is raised as far as it needs to show every card whole, instead of being squeezed into whatever space your placement left",
+        "Minor fixes and refinements — a settings slider whose range collapsed could take the app down when the page drew"
+      ]
+    },
     {
       "version": "1.0.142",
       "build": 145,
