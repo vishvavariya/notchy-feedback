@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-09-04T18:55:36Z",
+  "generatedAt": "2026-09-04T23:36:46Z",
   "latest": {
-    "version": "1.0.149",
-    "build": 152,
+    "version": "1.0.151",
+    "build": 154,
     "date": "2026-09-04"
   },
   "releases": [
+    {
+      "version": "1.0.151",
+      "build": 154,
+      "date": "2026-09-04",
+      "summary": "The Notifications tab stops asking for access it already has",
+      "highlights": [
+        "The Notifications tab no longer says Full Disk Access is needed after you have granted it. macOS answers that question once per app launch and caches it, so granting access while Notchy was running left the tab stuck on the prompt — it now sends you to the right pane and offers a one-tap restart to pick the grant up",
+        "Minor fixes and refinements — permissions"
+      ]
+    },
+    {
+      "version": "1.0.150",
+      "build": null,
+      "date": "",
+      "summary": "Lock screen widgets keep clear of your photo and password prompt",
+      "highlights": [
+        "Lock screen widgets no longer land on the login prompt. Notchy was guessing where macOS draws your picture, name and password field, and on some displays that guess sat too high — so the widgets went straight over it. It now keeps a wide berth on every display, whatever the guess says",
+        "A single-strip layout settles at the bottom edge of the lock screen, clear of both the big clock above and the password field in the middle, instead of sharing a band with either",
+        "Minor fixes and refinements — lock screen widget placement"
+      ]
+    },
     {
       "version": "1.0.149",
       "build": 152,
