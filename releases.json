@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-04T07:18:36Z",
+  "generatedAt": "2026-09-04T09:59:11Z",
   "latest": {
-    "version": "1.0.145",
-    "build": 148,
+    "version": "1.0.146",
+    "build": 149,
     "date": "2026-09-04"
   },
   "releases": [
+    {
+      "version": "1.0.146",
+      "build": 149,
+      "date": "2026-09-04",
+      "summary": "Pick the font and text size for the whole app, End actually ends the call, and a mirrored notification stops showing up twice",
+      "highlights": [
+        "Choose the font and text size Notchy draws in — System, Rounded, Serif, Monospaced or any font installed on your Mac, with a size slider and a live preview, applied to the pill, the panel and Settings alike (Settings → Appearance → Typography)",
+        "End now really leaves the call, in Teams, Zoom, Slack, Discord and Webex — the shortcut was landing in whichever window happened to be in front, and the apps with no safe leave shortcut had no End button at all. The camera button stops sticking after the first press for the same reason",
+        "A mirrored notification no longer appears twice — some apps, Outlook among them, kept their banner in the corner while the island showed the same thing. Tapping Open now lands on that exact message instead of just bringing the app forward",
+        "Minor fixes and refinements — the in-call row leads with the app's own icon, its controls are evenly sized round buttons, and the row is tall enough to hold them"
+      ]
+    },
     {
       "version": "1.0.145",
       "build": 148,
