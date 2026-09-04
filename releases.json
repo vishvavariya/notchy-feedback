@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-04T16:19:52Z",
+  "generatedAt": "2026-09-04T18:55:36Z",
   "latest": {
-    "version": "1.0.148",
-    "build": 151,
+    "version": "1.0.149",
+    "build": 152,
     "date": "2026-09-04"
   },
   "releases": [
+    {
+      "version": "1.0.149",
+      "build": 152,
+      "date": "2026-09-04",
+      "summary": "Muting your mic from the notch can no longer leave you silent — and a stuck mute repairs itself",
+      "highlights": [
+        "Muting from the notch is no longer a one-way door. On the Macs and USB interfaces whose mic can't be muted directly, Notchy turns your input gain down instead — and if it lost the level it was meant to put back, you stayed silent in every app with no way to undo it from Notchy",
+        "A mic left silent by an earlier version repairs itself: Notchy restores your input the first time it starts, and unmuting always puts the level back even when the mute button reports success",
+        "Your level is remembered per device, so muting on AirPods and then disconnecting them no longer leaves those AirPods muted forever while a different mic gets turned up",
+        "Minor fixes and refinements — microphone mute"
+      ]
+    },
     {
       "version": "1.0.148",
       "build": 151,
