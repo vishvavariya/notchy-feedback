@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-04T13:02:33Z",
+  "generatedAt": "2026-09-04T16:19:52Z",
   "latest": {
-    "version": "1.0.147",
-    "build": 150,
+    "version": "1.0.148",
+    "build": 151,
     "date": "2026-09-04"
   },
   "releases": [
+    {
+      "version": "1.0.148",
+      "build": 151,
+      "date": "2026-09-04",
+      "summary": "Lock screen widgets can be a single strip — and a setting that needs a permission can no longer be switched on without it",
+      "highlights": [
+        "Your lock screen widgets can now be one strip instead of a stack of cards — battery, headphones, air quality, weather and what's playing on a single line across the top, the way a menu bar reads. Pick it under Lock Screen → Layout",
+        "“Notchy Only” keeps its promise on a stubborn banner: where macOS accepted the request to close a banner and left it on screen anyway, Notchy now re-checks four times and falls back to a second method instead of assuming it worked",
+        "Settings that run on a permission can no longer be switched on without it — Incoming Calls, Messages, notification mirroring and Replace System HUD each say what they need and take you there in one click, rather than turning on and quietly doing nothing",
+        "Minor fixes and refinements — lock screen layout, notification delivery, settings permissions"
+      ]
+    },
     {
       "version": "1.0.147",
       "build": 150,
