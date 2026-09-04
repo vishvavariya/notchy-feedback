@@ -1,11 +1,34 @@
 {
-  "generatedAt": "2026-09-03T14:07:45Z",
+  "generatedAt": "2026-09-04T07:18:36Z",
   "latest": {
-    "version": "1.0.143",
-    "build": 146,
-    "date": "2026-09-03"
+    "version": "1.0.145",
+    "build": 148,
+    "date": "2026-09-04"
   },
   "releases": [
+    {
+      "version": "1.0.145",
+      "build": 148,
+      "date": "2026-09-04",
+      "summary": "Install now starts on the first click, the Lock Screen widgets stay off your clock, and Translate stops blaming a rate limit that isn't there",
+      "highlights": [
+        "Clicking Install on an update works the first time — if a check was still finishing, Notchy handed the click to the updater anyway and it was quietly dropped, so nothing happened until you tried again. The click now waits for the updater and tells you if it can't start",
+        "Lock Screen widgets no longer sit on top of the time — the space reserved for the clock was measured from the date line, not the big clock face below it, so cards landed on the digits and only one of them fit",
+        "Translate keeps working when Google throttles — it now tries four routes and backs off between rounds, and an unreadable reply says so instead of reporting a rate limit that never happened"
+      ]
+    },
+    {
+      "version": "1.0.144",
+      "build": null,
+      "date": "",
+      "summary": "Call controls in the notch actually work now — mute, camera and End reach Teams and Zoom, and the call row gives them room and labels",
+      "highlights": [
+        "Mute, camera and End work in Teams, Zoom, Webex and Slack — the keystroke Notchy sent never reached those apps' web layer, so the buttons looked alive and did nothing. Mute also falls back to the app's own mute when your input device refuses to be muted, instead of turning red while you are still live",
+        "The call row is now built for a call: the app and timer on top, a labelled Mute and End on a bar of their own, and a red mic line the moment you are muted — no more three unlabelled dots squeezed beside the clock",
+        "Lyrics timing — nudge lines earlier or later when they drift out of sync with the song",
+        "Minor fixes and refinements — Lock Screen cards fit better, the month grid can take the whole Calendar card, and translation failures say why"
+      ]
+    },
     {
       "version": "1.0.143",
       "build": 146,
