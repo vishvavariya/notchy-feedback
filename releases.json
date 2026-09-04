@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-04T09:59:11Z",
+  "generatedAt": "2026-09-04T13:02:33Z",
   "latest": {
-    "version": "1.0.146",
-    "build": 149,
+    "version": "1.0.147",
+    "build": 150,
     "date": "2026-09-04"
   },
   "releases": [
+    {
+      "version": "1.0.147",
+      "build": 150,
+      "date": "2026-09-04",
+      "summary": "Notifications mirror to the notch again on macOS 26 — and “Notchy Only” really does take the corner banner away",
+      "highlights": [
+        "Your notifications reach the notch again on macOS 26 — the system changed where it puts a banner, Notchy read every one of them as an old notification from history, and quietly showed none of them",
+        "“Notchy Only” takes the native banner away as it was always meant to: the corner banner used to sit there for its full five seconds with the island beside it, and now it goes in well under a second",
+        "Minor fixes and refinements — notification mirroring now reports what it did with each banner, and repairs itself if a future macOS moves things again"
+      ]
+    },
     {
       "version": "1.0.146",
       "build": 149,
