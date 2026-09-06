@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-04T23:36:46Z",
+  "generatedAt": "2026-09-06T19:40:29Z",
   "latest": {
-    "version": "1.0.151",
-    "build": 154,
-    "date": "2026-09-04"
+    "version": "1.0.152",
+    "build": 155,
+    "date": "2026-09-06"
   },
   "releases": [
+    {
+      "version": "1.0.152",
+      "build": 155,
+      "date": "2026-09-06",
+      "summary": "A slimmer Now Playing pill, lock screen widgets that stay off the password field, and lyrics that belong to the song",
+      "highlights": [
+        "The Now Playing pill is only as wide as what it shows. With just music playing it wraps the artwork and the equaliser instead of stretching a black bar across your menu bar items",
+        "Lock screen widgets keep clear of the login prompt on macOS 26, where the account name and password field sit at the bottom of the screen rather than the middle — and the placement controls only offer strips that actually exist on your Mac",
+        "Lyrics stop guessing. An instrumental or unmatched track now shows nothing instead of a completely different song's words, and album art in Now Playing stays square and sharp with the lyrics open",
+        "Minor fixes and refinements — call mute shown right on the pill, one trackpad click feels like one click, AirDrop straight from the file shelf, tappable notification rows, and the notch opens the instant you hover it"
+      ]
+    },
     {
       "version": "1.0.151",
       "build": 154,
