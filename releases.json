@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-07T14:15:14Z",
+  "generatedAt": "2026-09-07T15:33:50Z",
   "latest": {
-    "version": "1.0.154",
-    "build": 157,
+    "version": "1.0.155",
+    "build": 158,
     "date": "2026-09-07"
   },
   "releases": [
+    {
+      "version": "1.0.155",
+      "build": 158,
+      "date": "2026-09-07",
+      "summary": "A Now Playing card that fits whatever size you drag it to, and text size that stops the page jumping",
+      "highlights": [
+        "The Now Playing card no longer cuts the top off the artwork and the song title. It measures what fits and drops the volume slider, then the seek bar, instead of spilling out of both ends of the card",
+        "Bigger text stays inside its lines. Titles at a larger app text size had their capitals shaved off across the card, the pill and the lock screen",
+        "Dragging the Text Size slider no longer yanks the Settings page back to the top on every step — the interface redraws once, when you let go"
+      ]
+    },
     {
       "version": "1.0.154",
       "build": 157,
