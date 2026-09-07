@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-09-07T13:15:39Z",
+  "generatedAt": "2026-09-07T14:15:14Z",
   "latest": {
-    "version": "1.0.153",
-    "build": 156,
+    "version": "1.0.154",
+    "build": 157,
     "date": "2026-09-07"
   },
   "releases": [
+    {
+      "version": "1.0.154",
+      "build": 157,
+      "date": "2026-09-07",
+      "summary": "A Now Playing card that shows the whole song title and a full output button",
+      "highlights": [
+        "Long track titles scroll across the Now Playing card instead of being cut off after twenty characters — the same ticker the Now Playing tab already used",
+        "The audio output button is whole again. It had lost its background and was being sliced by the card's rounded corner, so it read as a stray half-drawn glyph"
+      ]
+    },
     {
       "version": "1.0.153",
       "build": 156,
