@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-06T19:40:29Z",
+  "generatedAt": "2026-09-07T13:15:39Z",
   "latest": {
-    "version": "1.0.152",
-    "build": 155,
-    "date": "2026-09-06"
+    "version": "1.0.153",
+    "build": 156,
+    "date": "2026-09-07"
   },
   "releases": [
+    {
+      "version": "1.0.153",
+      "build": 156,
+      "date": "2026-09-07",
+      "summary": "Save a video straight from the search field, put macOS banners where you want them, and turn features on from the gallery",
+      "highlights": [
+        "Paste a video link into Quick Search and save the file instead of opening the page. Best quality, a smaller copy, or audio only — no extra tab, no queue window, and Notchy fetches the downloader for you the first time",
+        "macOS notification banners can move. Pick any corner or the top or bottom middle instead of the top right, where a banner lands on the notch and fights with the copy Notchy already shows there",
+        "Cards in the Features gallery actually switch a tab on now. Tapping one used to just walk you to the Tabs page with the feature still off",
+        "Minor fixes and refinements — notification mirroring catches banners macOS opens inside an existing window, the file shelf drops files that have moved or been deleted, and in-call controls, notes and clipboard get a pass"
+      ]
+    },
     {
       "version": "1.0.152",
       "build": 155,
