@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-09-07T15:33:50Z",
+  "generatedAt": "2026-09-09T14:07:39Z",
   "latest": {
-    "version": "1.0.155",
-    "build": 158,
-    "date": "2026-09-07"
+    "version": "1.0.156",
+    "build": 159,
+    "date": "2026-09-09"
   },
   "releases": [
+    {
+      "version": "1.0.156",
+      "build": 159,
+      "date": "2026-09-09",
+      "summary": "The macOS 27 monochrome look, a grey interface option, and a panel that closes clean over any window",
+      "highlights": [
+        "Monochrome Glass: the desktop behind the panel loses its colour, so the surface keeps its own tone over any wallpaper instead of turning blue over a blue one. It composes with the Look you already picked and the Translucency slider",
+        "Monochrome Interface: icons and accents go grey while artwork and app icons keep their colour, including the Now Playing chrome the app derives from the cover",
+        "Closing the panel with Liquid Glass on no longer leaves a frosted panel-sized slab sitting over the window underneath for a few frames, and the lit top edge no longer snaps back on halfway through the collapse",
+        "Volume, brightness and keyboard-backlight islands now show over a full-screen app — pressing the key used to swallow the system's own indicator and show nothing in its place",
+        "Battery health shows a real figure again. macOS moved the charge capacities into a sub-dictionary of the battery entry, and Notchy read the old location, so health showed as unavailable on Macs that report it fine"
+      ]
+    },
     {
       "version": "1.0.155",
       "build": 158,
