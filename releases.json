@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-09-09T14:07:39Z",
+  "generatedAt": "2026-09-09T15:36:48Z",
   "latest": {
-    "version": "1.0.156",
-    "build": 159,
+    "version": "1.0.157",
+    "build": 160,
     "date": "2026-09-09"
   },
   "releases": [
+    {
+      "version": "1.0.157",
+      "build": 160,
+      "date": "2026-09-09",
+      "summary": "Reach every menu bar icon from the notch, even the ones the bar is hiding",
+      "highlights": [
+        "The Menu Bar card now scrolls, so every status item is one click away — including the ones pushed off the edge or buried behind the notch",
+        "The badge on that card now tells you how many icons the menu bar itself is hiding"
+      ]
+    },
     {
       "version": "1.0.156",
       "build": 159,
