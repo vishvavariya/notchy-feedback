@@ -1,11 +1,20 @@
 {
-  "generatedAt": "2026-09-10T17:16:24Z",
+  "generatedAt": "2026-09-10T18:29:56Z",
   "latest": {
-    "version": "1.0.161",
-    "build": 164,
+    "version": "1.0.162",
+    "build": 165,
     "date": "2026-09-10"
   },
   "releases": [
+    {
+      "version": "1.0.162",
+      "build": 165,
+      "date": "2026-09-10",
+      "summary": "No more freezes when music starts",
+      "highlights": [
+        "Fixed Notchy freezing and restarting itself when music started or the audio output changed — the audio-reactive bars now start in the background"
+      ]
+    },
     {
       "version": "1.0.161",
       "build": 164,
