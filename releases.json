@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-10T15:11:56Z",
+  "generatedAt": "2026-09-10T17:16:24Z",
   "latest": {
-    "version": "1.0.160",
-    "build": 163,
+    "version": "1.0.161",
+    "build": 164,
     "date": "2026-09-10"
   },
   "releases": [
+    {
+      "version": "1.0.161",
+      "build": 164,
+      "date": "2026-09-10",
+      "summary": "Crash reports you can send in one tap",
+      "highlights": [
+        "If Notchy crashes or freezes and restarts itself, the notch offers to send an anonymous report on the next launch — app version, macOS version and where it broke, nothing else",
+        "Choose Ask, Send Automatically or Never in Settings → About, and send any reports you skipped from there",
+        "Dragging a volume, seek or EQ slider no longer flips the open notch to another tab"
+      ]
+    },
     {
       "version": "1.0.160",
       "build": 163,
