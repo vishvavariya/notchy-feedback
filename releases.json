@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-09T15:36:48Z",
+  "generatedAt": "2026-09-10T08:37:13Z",
   "latest": {
-    "version": "1.0.157",
-    "build": 160,
-    "date": "2026-09-09"
+    "version": "1.0.158",
+    "build": 161,
+    "date": "2026-09-10"
   },
   "releases": [
+    {
+      "version": "1.0.158",
+      "build": 161,
+      "date": "2026-09-10",
+      "summary": "Turn one app down or reshape its sound, and volume keys that never go dead",
+      "highlights": [
+        "Sound Mixer: turn a single app down, mute it, or shape it with a three-band equaliser without touching the system volume — open it from the chip beside the output picker",
+        "Volume, mute and brightness keys keep working when Notchy is busy or the audio system restarts — a key Notchy can't serve now goes straight back to macOS instead of doing nothing",
+        "The closed pill and the open panel share one silhouette, and the thin line that could show across the top of the screen above the glass is gone",
+        "Minor fixes and refinements — popovers no longer collapse the panel after 10 seconds, Notchy's own sounds no longer count as music playing"
+      ]
+    },
     {
       "version": "1.0.157",
       "build": 160,
