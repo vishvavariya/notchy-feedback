@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-10T08:37:13Z",
+  "generatedAt": "2026-09-10T11:37:01Z",
   "latest": {
-    "version": "1.0.158",
-    "build": 161,
+    "version": "1.0.159",
+    "build": 162,
     "date": "2026-09-10"
   },
   "releases": [
+    {
+      "version": "1.0.159",
+      "build": 162,
+      "date": "2026-09-10",
+      "summary": "Smoother notch curves and a steadier menu bar",
+      "highlights": [
+        "The notch's corners now use Apple's continuous curves, so the closed pill and the open panel read as one shape at two sizes",
+        "Both curves where the notch meets the top of the screen are lit the same — one side no longer shows a faint edge the other lacks",
+        "Hiding menu bar icons no longer makes them blink back before they tuck away"
+      ]
+    },
     {
       "version": "1.0.158",
       "build": 161,
