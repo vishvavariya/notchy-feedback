@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-09-10T11:37:01Z",
+  "generatedAt": "2026-09-10T15:11:56Z",
   "latest": {
-    "version": "1.0.159",
-    "build": 162,
+    "version": "1.0.160",
+    "build": 163,
     "date": "2026-09-10"
   },
   "releases": [
+    {
+      "version": "1.0.160",
+      "build": 163,
+      "date": "2026-09-10",
+      "summary": "Volume in the header, quieter messengers",
+      "highlights": [
+        "A volume button sits at the top right of the open notch — click to mute, hover for a slider and the current output device",
+        "Muting Teams, Slack or Outlook in App Notifications, or turning app notifications off, now stops their message islands too"
+      ]
+    },
     {
       "version": "1.0.159",
       "build": 162,
