@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-09-12T18:46:24Z",
+  "generatedAt": "2026-09-12T21:32:19Z",
   "latest": {
-    "version": "1.0.163",
-    "build": 166,
+    "version": "1.0.164",
+    "build": 167,
     "date": "2026-09-12"
   },
   "releases": [
+    {
+      "version": "1.0.164",
+      "build": 167,
+      "date": "2026-09-12",
+      "summary": "A cleaner keyboard and a calmer menu bar",
+      "highlights": [
+        "Clean Keyboard is now one click away in the open notch — temporarily disable keyboard input for 60 seconds while you wipe the keys",
+        "Choose whether the idle notch hides when menu bar items would overlap it, and find app notification controls together under Notifications"
+      ]
+    },
     {
       "version": "1.0.163",
       "build": 166,
