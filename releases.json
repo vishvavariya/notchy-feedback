@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-10T18:29:56Z",
+  "generatedAt": "2026-09-12T18:46:24Z",
   "latest": {
-    "version": "1.0.162",
-    "build": 165,
-    "date": "2026-09-10"
+    "version": "1.0.163",
+    "build": 166,
+    "date": "2026-09-12"
   },
   "releases": [
+    {
+      "version": "1.0.163",
+      "build": 166,
+      "date": "2026-09-12",
+      "summary": "A steadier notch and smoother system audio flow",
+      "highlights": [
+        "The notch handles audio and system-state changes more reliably, so music, output switches and HUDs stay in sync",
+        "Volume, mute and playback indicators respond more consistently when the system is busy or switching devices",
+        "Minor fixes and polishing across the panel, notification flow and reliability paths"
+      ]
+    },
     {
       "version": "1.0.162",
       "build": 165,
