@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-09-14T12:50:35Z",
+  "generatedAt": "2026-09-14T21:57:50Z",
   "latest": {
-    "version": "1.0.168",
-    "build": 170,
+    "version": "1.0.169",
+    "build": 171,
     "date": "2026-09-14"
   },
   "releases": [
+    {
+      "version": "1.0.169",
+      "build": 171,
+      "date": "2026-09-14",
+      "summary": "Battery care: charge limit, iPhone and iPad levels, and history",
+      "highlights": [
+        "Limit charging to a healthy level, with Sailing Mode, automatic discharge and a one-tap top up to 100%",
+        "See your iPhone and iPad battery alongside your Mac, mouse and keyboard, with full device names",
+        "Battery history charts, temperature, and a warning when an app drains your battery",
+        "New alerts for unplugging and fully charged accessories, with a sound for each, plus an optional menu bar battery",
+        "Minor fixes and refinements — rare freezes at launch, with volume keys, screenshots and Face Unlock"
+      ]
+    },
     {
       "version": "1.0.168",
       "build": 170,
