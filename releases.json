@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-13T16:07:27Z",
+  "generatedAt": "2026-09-14T10:49:50Z",
   "latest": {
-    "version": "1.0.165",
-    "build": 168,
-    "date": "2026-09-13"
+    "version": "1.0.166",
+    "build": 169,
+    "date": "2026-09-14"
   },
   "releases": [
+    {
+      "version": "1.0.166",
+      "build": 169,
+      "date": "2026-09-14",
+      "summary": "Face Unlock, a Settings guide, and fixes for rare freezes",
+      "highlights": [
+        "Face Unlock — come back to a locked Mac, look at it, and you're in. Guided setup in a minute, and your face and password never leave this Mac",
+        "Settings Guide — a walk through every settings page with quick switches on each stop; replay it any time from About",
+        "Quieter notch — the camera and microphone in-use island is gone; Camera Guard still warns when you arm it",
+        "Fixes — freezes of up to 12 seconds caused by a slow audio device, a busy clipboard app or call detection, and Notchy no longer restarts itself while a dialog is open"
+      ]
+    },
     {
       "version": "1.0.165",
       "build": 168,
