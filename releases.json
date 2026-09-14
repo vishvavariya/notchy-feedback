@@ -1,15 +1,26 @@
 {
-  "generatedAt": "2026-09-14T10:49:50Z",
+  "generatedAt": "2026-09-14T12:35:06Z",
   "latest": {
-    "version": "1.0.166",
+    "version": "1.0.167",
     "build": 169,
     "date": "2026-09-14"
   },
   "releases": [
     {
-      "version": "1.0.166",
+      "version": "1.0.167",
       "build": 169,
       "date": "2026-09-14",
+      "summary": "A safer Face Unlock setup and sharper widgets",
+      "highlights": [
+        "Face Unlock setup no longer crashes on Macs where the animation bundle is laid out differently, and it will not open over the lock screen",
+        "Widgets use their space more effectively across providers, limits and reset dates",
+        "Now Playing and settings sync are steadier around timers, calendar updates and background changes"
+      ]
+    },
+    {
+      "version": "1.0.166",
+      "build": null,
+      "date": "",
       "summary": "Face Unlock, a Settings guide, and fixes for rare freezes",
       "highlights": [
         "Face Unlock — come back to a locked Mac, look at it, and you're in. Guided setup in a minute, and your face and password never leave this Mac",
