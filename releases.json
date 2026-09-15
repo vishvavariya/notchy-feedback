@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-14T21:57:50Z",
+  "generatedAt": "2026-09-15T12:40:31Z",
   "latest": {
-    "version": "1.0.169",
-    "build": 171,
-    "date": "2026-09-14"
+    "version": "1.0.170",
+    "build": 172,
+    "date": "2026-09-15"
   },
   "releases": [
+    {
+      "version": "1.0.170",
+      "build": 172,
+      "date": "2026-09-15",
+      "summary": "Spaces in the notch and a monthly receipt",
+      "highlights": [
+        "Spaces: see every desktop on a Home card, jump with a click, swipe the notch or use a shortcut, and name each Space",
+        "A monthly receipt prints from the notch with what Notchy handled for you last month",
+        "AI usage tracking updated with more accurate costs and newer providers",
+        "Minor fixes and refinements — hotkeys, notification settings, translations"
+      ]
+    },
     {
       "version": "1.0.169",
       "build": 171,
