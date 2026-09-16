@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-15T12:40:31Z",
+  "generatedAt": "2026-09-16T14:49:01Z",
   "latest": {
-    "version": "1.0.170",
-    "build": 172,
-    "date": "2026-09-15"
+    "version": "1.0.171",
+    "build": 173,
+    "date": "2026-09-16"
   },
   "releases": [
+    {
+      "version": "1.0.171",
+      "build": 173,
+      "date": "2026-09-16",
+      "summary": "A stricter Face Unlock and custom notch colours",
+      "highlights": [
+        "Face Unlock matches faces more accurately and refuses photos and screens held up to the camera",
+        "Press space on the lock screen to start a Face Unlock scan",
+        "Give the pill and the open panel their own colour or gradient",
+        "Minor fixes and refinements — the calendar countdown names its event, browser sign-ins for AI usage are read by Notchy itself"
+      ]
+    },
     {
       "version": "1.0.170",
       "build": 172,
