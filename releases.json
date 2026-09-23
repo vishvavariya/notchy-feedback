@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-16T14:49:01Z",
+  "generatedAt": "2026-09-23T12:28:47Z",
   "latest": {
-    "version": "1.0.171",
-    "build": 173,
-    "date": "2026-09-16"
+    "version": "1.0.172",
+    "build": 174,
+    "date": "2026-09-23"
   },
   "releases": [
+    {
+      "version": "1.0.172",
+      "build": 174,
+      "date": "2026-09-23",
+      "summary": "A Tasks tab, a private clipboard and per-app audio",
+      "highlights": [
+        "New Tasks tab — a to-do list in the notch — and clipboard history now ignores 1Password, Apple Passwords and any app you add to its ignore list",
+        "Copied links get their tracking parameters stripped, and the clipboard can empty itself after a delay, on sleep or on lock",
+        "Send any app's sound to its own output device, and right-click a menu-bar icon for that feature's options",
+        "Minor fixes and refinements — steadier Now Playing, a fuller Pomodoro, snappier tab switching, fewer crashes, and widgets on Intel Macs"
+      ]
+    },
     {
       "version": "1.0.171",
       "build": 173,
@@ -1260,9 +1272,9 @@
       "version": "1.0.61",
       "build": 63,
       "date": "2026-07-22",
-      "summary": "Notchy 3.0 Engineering & Design Overhaul: AI Usage Dashboard with CodexBar feature parity, rate limit gauge rings, live reset countdowns, interactive stacked charts, unified motion engine, and Lottie fixes",
+      "summary": "Notchy 3.0 Engineering & Design Overhaul: AI Usage Dashboard with full menu-bar-tracker feature parity, rate limit gauge rings, live reset countdowns, interactive stacked charts, unified motion engine, and Lottie fixes",
       "highlights": [
-        "AI Usage Dashboard & CodexBar Parity — complete analytics overhaul featuring rate limit gauge rings, 1s live reset countdowns, usage pace badges, and Keychain-backed account security for 60+ AI providers",
+        "AI Usage Dashboard & Tracker Parity — complete analytics overhaul featuring rate limit gauge rings, 1s live reset countdowns, usage pace badges, and Keychain-backed account security for 60+ AI providers",
         "Interactive Usage Charts — stacked bar analytics supporting Daily, Weekly, and Monthly view modes with interactive hover tooltips (input/output tokens, cost, requests)",
         "Unified Motion System — standardized springs, transitions, and hover curves across the Dynamic Island and Settings",
         "Lottie & Download Progress Fixes — Lottie animation lifecycle fixes and instant download completion toasts without lingering",
