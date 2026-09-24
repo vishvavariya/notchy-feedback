@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-24T16:26:56Z",
+  "generatedAt": "2026-09-24T20:32:13Z",
   "latest": {
-    "version": "1.0.176",
-    "build": 178,
+    "version": "1.0.177",
+    "build": 179,
     "date": "2026-09-24"
   },
   "releases": [
+    {
+      "version": "1.0.177",
+      "build": 179,
+      "date": "2026-09-24",
+      "summary": "The notch comes back properly after a call, and menu bar items work over full-screen apps.",
+      "highlights": [
+        "Hanging up from the notch's call controls returns the notch to normal instead of leaving an empty black card",
+        "A FaceTime call's timer clears from the notch when you hang up, even if FaceTime stays open",
+        "Notchy's menu bar items now open over full-screen apps, and a detached Timer shows the time left in the menu bar",
+        "Minor fixes and refinements — a crash with Notchy's Settings in front, and a hang when resizing images from the shelf"
+      ]
+    },
     {
       "version": "1.0.176",
       "build": 178,
