@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-23T12:28:47Z",
+  "generatedAt": "2026-09-24T07:32:49Z",
   "latest": {
-    "version": "1.0.172",
-    "build": 174,
-    "date": "2026-09-23"
+    "version": "1.0.173",
+    "build": 175,
+    "date": "2026-09-24"
   },
   "releases": [
+    {
+      "version": "1.0.173",
+      "build": 175,
+      "date": "2026-09-24",
+      "summary": "Calendars and tasks from Google, Outlook and Todoist, plus a polish pass",
+      "highlights": [
+        "Calendar events from Google Calendar, Outlook, any iCalendar link or a CalDAV account, alongside your Mac calendars",
+        "Tasks from Todoist and Microsoft To Do next to Apple Reminders, with a choice of where Quick Add saves",
+        "Anonymous analytics can now be switched off in About → Privacy, and its identifier reset",
+        "Clearer, consistent wording across the app, and 270 settings labels that were English-only now translated"
+      ]
+    },
     {
       "version": "1.0.172",
       "build": 174,
@@ -734,7 +746,7 @@
       "version": "1.0.109",
       "build": 111,
       "date": "2026-08-12",
-      "summary": "Energy ranking, what's plugged in, world clocks and break reminders — plus \\\"free port 3000\\\" from the command palette",
+      "summary": "Energy ranking, what's plugged in, world clocks and break reminders — plus “free port 3000” from the command palette",
       "highlights": [
         "Top Processes can rank by energy instead of CPU, so you can see what's really draining the battery",
         "A Devices card showing what's plugged in and the speed each one actually negotiated",
@@ -750,7 +762,7 @@
       "highlights": [
         "The Camera tab's Allow button raises the real macOS permission dialog — on older Macs it opened System Settings and never asked",
         "The Reminders tab no longer gets stuck saying access is off when macOS never actually asked you",
-        "\\\"Ask me again\\\" on a blocked permission clears the old answer so macOS can prompt one more time",
+        "“Ask me again” on a blocked permission clears the old answer so macOS can prompt one more time",
         "Buttons in the pill stop staying lit after the cursor moves away"
       ]
     },
@@ -1035,13 +1047,13 @@
       "version": "1.0.81",
       "build": 83,
       "date": "2026-08-03",
-      "summary": "The notch follows Apple\\u2019s own Dynamic Island rules \\u2014 compact chips, a Clock-style timer, a centred open animation \\u2014 and the panel closes when you walk away",
+      "summary": "The notch follows Apple’s own Dynamic Island rules — compact chips, a Clock-style timer, a centred open animation — and the panel closes when you walk away",
       "highlights": [
-        "Dynamic Island Chips \\u2014 live activities read like Apple\\u2019s now: glyph and value in the activity\\u2019s tint, sized to their content, rolling digits, no boxes inside boxes",
-        "Music While Closed \\u2014 the closed notch always shows album art and the amplifier, and hovering reveals that same strip instead of a second, different player",
-        "Opens From The Middle, Closes By Itself \\u2014 the panel now expands symmetrically from centre, and a panel opened by a knock, hotkey or the menu bar collapses on its own",
-        "Timer Rebuilt \\u2014 a Clock-style dial with the finish time inside, controls beneath it, and restart presets beside it",
-        "Minor fixes and refinements \\u2014 island styling, menu-bar popovers, battery icons and the support nudge"
+        "Dynamic Island Chips — live activities read like Apple’s now: glyph and value in the activity’s tint, sized to their content, rolling digits, no boxes inside boxes",
+        "Music While Closed — the closed notch always shows album art and the amplifier, and hovering reveals that same strip instead of a second, different player",
+        "Opens From The Middle, Closes By Itself — the panel now expands symmetrically from centre, and a panel opened by a knock, hotkey or the menu bar collapses on its own",
+        "Timer Rebuilt — a Clock-style dial with the finish time inside, controls beneath it, and restart presets beside it",
+        "Minor fixes and refinements — island styling, menu-bar popovers, battery icons and the support nudge"
       ]
     },
     {
@@ -1050,14 +1062,14 @@
       "date": "2026-08-03",
       "summary": "The agent approval island works again, the panel can no longer lose its tab bar, and menu-bar popovers close when you click away",
       "highlights": [
-        "Approve/Deny Island Restored \\u2014 1.0.79 retired the prompt microseconds after raising it, so it never appeared; it now stays until you answer it",
-        "Answered In The Terminal \\u2014 granting a permission in your terminal clears the notch prompt within a second instead of leaving it pinned",
-        "No More Hook Errors \\u2014 Notchy restarting made Claude Code print \\\"hook error\\\" into your session; the forwarder never fails its run now",
-        "Tab Bar Can\\u2019t Be Pushed Off \\u2014 a tab whose content ran long (Now Playing with lyrics) shoved the tab bar off the top of the panel and clipped the sides; every tab is now pinned to the space the panel offers",
-        "Menu-Bar Popovers Auto-Close \\u2014 clicking away, or switching apps, dismisses a detached tab instead of leaving it over the desktop",
-        "Steadier Pill \\u2014 the collapsed pill sized itself from one snapshot while drawing its chips from another, so a chip arriving mid-layout drew outside the glass",
-        "Clearer Agent Chip \\u2014 a raised hand and the project name instead of an unexplained sparkle",
-        "Widget Fixes \\u2014 the widgets now load at all (the extension had the wrong entry point), and the AI Usage widget fits its rows instead of clipping the first and last"
+        "Approve/Deny Island Restored — 1.0.79 retired the prompt microseconds after raising it, so it never appeared; it now stays until you answer it",
+        "Answered In The Terminal — granting a permission in your terminal clears the notch prompt within a second instead of leaving it pinned",
+        "No More Hook Errors — Notchy restarting made Claude Code print “hook error” into your session; the forwarder never fails its run now",
+        "Tab Bar Can’t Be Pushed Off — a tab whose content ran long (Now Playing with lyrics) shoved the tab bar off the top of the panel and clipped the sides; every tab is now pinned to the space the panel offers",
+        "Menu-Bar Popovers Auto-Close — clicking away, or switching apps, dismisses a detached tab instead of leaving it over the desktop",
+        "Steadier Pill — the collapsed pill sized itself from one snapshot while drawing its chips from another, so a chip arriving mid-layout drew outside the glass",
+        "Clearer Agent Chip — a raised hand and the project name instead of an unexplained sparkle",
+        "Widget Fixes — the widgets now load at all (the extension had the wrong entry point), and the AI Usage widget fits its rows instead of clipping the first and last"
       ]
     },
     {
@@ -1068,9 +1080,9 @@
       "highlights": [
         "Desktop Widgets — AI Usage, Activity and Timer widgets you can drop on the desktop or in Notification Center, kept current by the app even while the panel is closed",
         "AI Usage Parity — pace projections, run-out risk, per-provider spend lines (today/7d/30d, balances, top model) and window labels now match the reference engine exactly; verified against its own CLI",
-        "Cursor Fixed — the Cursor tab sat on \\\"No scored commits yet\\\" while its account data was already fetched; it now shows the live quota, as do Antigravity and Copilot",
+        "Cursor Fixed — the Cursor tab sat on “No scored commits yet” while its account data was already fetched; it now shows the live quota, as do Antigravity and Copilot",
         "Multiple Accounts — two logins on the same provider are two cards instead of one silently replacing the other",
-        "Activity Rings — rebuilt to Apple\\u2019s proportions: staggered sweep-in, closed-ring pop, and a true over-100% wrap",
+        "Activity Rings — rebuilt to Apple’s proportions: staggered sweep-in, closed-ring pop, and a true over-100% wrap",
         "Terminal Chrome — a real title bar with the shell and working directory, a clear button, and a restart banner when the shell exits",
         "Agent Islands — approving in the terminal now retires the notch prompt instead of leaving it pinned, and any island can be swiped up to dismiss",
         "Quieter Notifications — opening Notification Center no longer replays old WhatsApp and Telegram banners onto the notch"
@@ -1571,7 +1583,7 @@
         "Knock your Mac — a new chassis-tap knock source reads the built-in accelerometer on Apple-Silicon laptops (no extra permission), joining the trackpad tap and keyboard double-tap. Opt-in, with a sensitivity slider",
         "Per-app knock profiles — give any app its own single / double / triple-knock actions, picked from a new category card grid (Notchy, Media, Utility, System)",
         "Opening animation starts centered — the expand no longer begins shifted to one side before snapping into place on ProMotion displays",
-        "Settings reorganized — General is slimmer, Display moved into \\\"Appearance & Display\\\", and Lock Screen lives with Notifications; clipboard shortcuts follow Apple conventions and gain a Reset button",
+        "Settings reorganized — General is slimmer, Display moved into “Appearance & Display”, and Lock Screen lives with Notifications; clipboard shortcuts follow Apple conventions and gain a Reset button",
         "In-notch Quick Actions — one-tap Caffeine, Screenshot, 25-minute timer, and Lock right inside the notch settings"
       ]
     },
@@ -1587,7 +1599,7 @@
         "Liquid Glass — opening the notch from the collapsed pill grows symmetrically from the notch instead of sliding in from the side",
         "Features gallery — Notes, File Shelf, Reminders, Shortcuts, and Camera Mirror are now their own discoverable cards",
         "Onboarding — when a release adds a new permission, existing users are shown just that one on update (first run still asks up front)",
-        "Copy polish — proper typographer's punctuation, clearer wording, and macOS-matching labels like \\\"Open at Login\\\""
+        "Copy polish — proper typographer's punctuation, clearer wording, and macOS-matching labels like “Open at Login”"
       ]
     },
     {
@@ -1598,7 +1610,7 @@
       "highlights": [
         "Knock — double-tap Control (or ⌥/⌘/⇧, your pick) on its own to open the notch, the Shelf, Clipboard, Caffeine, or play/pause; chords like ⌘C never false-trigger",
         "Resizable panel — set the expanded panel's width (460–760pt) and height (250–400pt) in Appearance, live-previewed while you drag the slider",
-        "Feature tips — a quiet \\\"Did you know?\\\" island every few days teaches one feature with a one-tap Try It; off switch in Notifications settings",
+        "Feature tips — a quiet “Did you know?” island every few days teaches one feature with a one-tap Try It; off switch in Notifications settings",
         "Motion polish — every animation now honors your Animation Speed and Reduce Motion settings, continuous (squircle) corners everywhere, and VoiceOver labels on the new island controls",
         "Under the hood — an end-to-end regression suite now runs before every release, on both notch and non-notch layouts"
       ]
