@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-24T08:24:57Z",
+  "generatedAt": "2026-09-24T16:00:40Z",
   "latest": {
-    "version": "1.0.174",
-    "build": 176,
+    "version": "1.0.175",
+    "build": 177,
     "date": "2026-09-24"
   },
   "releases": [
+    {
+      "version": "1.0.175",
+      "build": 177,
+      "date": "2026-09-24",
+      "summary": "Resize the notch and panel straight from Quick Settings, find your weather city as you type, and a quieter way to support Notchy.",
+      "highlights": [
+        "Quick Settings now has Height Offset, Panel Width and Panel Height sliders, so you can size Notchy with it in view",
+        "The Weather city field suggests matching cities as you type",
+        "The support ask is now a small heart in the panel header instead of a pop-up, and shows roughly how much time Notchy has saved you"
+      ]
+    },
     {
       "version": "1.0.174",
       "build": 176,
