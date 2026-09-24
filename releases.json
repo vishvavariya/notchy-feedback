@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-09-24T07:32:49Z",
+  "generatedAt": "2026-09-24T08:24:57Z",
   "latest": {
-    "version": "1.0.173",
-    "build": 175,
+    "version": "1.0.174",
+    "build": 176,
     "date": "2026-09-24"
   },
   "releases": [
+    {
+      "version": "1.0.174",
+      "build": 176,
+      "date": "2026-09-24",
+      "summary": "Rounded screen corners that match the old TopNotch look, and smoother motion in Low Power Mode.",
+      "highlights": [
+        "Black Out Screen Corners now rounds all four corners of the desktop, with the top curves meeting the black menu bar",
+        "Panel and hover animations stay short and crisp while Low Power Mode is on"
+      ]
+    },
     {
       "version": "1.0.173",
       "build": 175,
