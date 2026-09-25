@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-24T20:32:13Z",
+  "generatedAt": "2026-09-25T14:49:47Z",
   "latest": {
-    "version": "1.0.177",
-    "build": 179,
-    "date": "2026-09-24"
+    "version": "1.0.178",
+    "build": 180,
+    "date": "2026-09-25"
   },
   "releases": [
+    {
+      "version": "1.0.178",
+      "build": 180,
+      "date": "2026-09-25",
+      "summary": "A desktop pet that lives on your screen, an app launcher wheel, and Notchy sitting where it should on external displays.",
+      "highlights": [
+        "Adopt a pixel cat or dog that wanders your desktop, sweats when your Mac runs hot, watches videos with you, slides when you tilt your Mac, and hides secrets, shinies and seasonal hats to collect and share",
+        "Open apps from a radial launcher wheel, uninstall apps to the Trash with their leftover files, and paste clipboard text without formatting",
+        "See where your day went with a Screen Time card, plus a Claude Code streak in AI Usage",
+        "Minor fixes and refinements — the pill no longer sits too low on external displays, and hovering the top edge reveals Notchy over full-screen apps again"
+      ]
+    },
     {
       "version": "1.0.177",
       "build": 179,
