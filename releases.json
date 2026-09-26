@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-25T14:49:47Z",
+  "generatedAt": "2026-09-26T06:49:47Z",
   "latest": {
-    "version": "1.0.178",
-    "build": 180,
-    "date": "2026-09-25"
+    "version": "1.0.179",
+    "build": 181,
+    "date": "2026-09-26"
   },
   "releases": [
+    {
+      "version": "1.0.179",
+      "build": 181,
+      "date": "2026-09-26",
+      "summary": "Meeting alerts you can’t miss, clipboard history that survives a restart, and a calmer pet card.",
+      "highlights": [
+        "Turn on a full-screen alert for meetings, and join calls straight from the notch",
+        "Keep clipboard history after quitting, sort saved items into lists, and sync saved text through iCloud",
+        "New pets to adopt — a capybara, a pygmy hippo, a husky and a golden retriever — and a quieter, cleaner pet card",
+        "Minor fixes and refinements — Universal Control no longer pops the notch open, and icons sit centered in their buttons"
+      ]
+    },
     {
       "version": "1.0.178",
       "build": 180,
