@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-26T06:49:47Z",
+  "generatedAt": "2026-09-26T09:34:19Z",
   "latest": {
-    "version": "1.0.179",
-    "build": 181,
+    "version": "1.0.180",
+    "build": 182,
     "date": "2026-09-26"
   },
   "releases": [
+    {
+      "version": "1.0.180",
+      "build": 182,
+      "date": "2026-09-26",
+      "summary": "A calmer Notchy for new users, plus pointer styles and effects.",
+      "highlights": [
+        "A calmer start — new installs begin with the extras off, and the tour explains each feature on its own card with its own switch",
+        "Pointer styles — theme your mouse pointer, and add click ripples, a halo, a trail or a hold-⌃⌥ spotlight from Settings › Pointer",
+        "Minor fixes and refinements — the brightness keys raise your MacBook screen again when an external monitor holds the menu bar"
+      ]
+    },
     {
       "version": "1.0.179",
       "build": 181,
