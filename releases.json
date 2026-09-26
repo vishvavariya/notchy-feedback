@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-26T09:34:19Z",
+  "generatedAt": "2026-09-26T19:09:23Z",
   "latest": {
-    "version": "1.0.180",
-    "build": 182,
+    "version": "1.0.181",
+    "build": 183,
     "date": "2026-09-26"
   },
   "releases": [
+    {
+      "version": "1.0.181",
+      "build": 183,
+      "date": "2026-09-26",
+      "summary": "Twelve new Home cards, an App Cleaner, and a Siri island in the new iOS 27 style.",
+      "highlights": [
+        "Twelve new Home cards — Tasks, Desktop Pet, Screen Time, Apps, Sound, Device Batteries, Coding Agents, App Updates, Quick Actions, Brightness, Emoji and Calculator",
+        "App Cleaner in the Packages tab — uninstall an app, reset it, or clear its cache, see every file it touches first, and sweep up what deleted apps left behind",
+        "Siri in the notch now shows the new iOS 27 waveform",
+        "Minor fixes and refinements — Focus modes without a shortcut explain the one-time setup instead of jumping to Settings, the menu-bar popover no longer reopens itself, and fewer hangs"
+      ]
+    },
     {
       "version": "1.0.180",
       "build": 182,
