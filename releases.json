@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-26T19:09:23Z",
+  "generatedAt": "2026-09-27T19:04:06Z",
   "latest": {
-    "version": "1.0.181",
-    "build": 183,
-    "date": "2026-09-26"
+    "version": "1.0.182",
+    "build": 184,
+    "date": "2026-09-27"
   },
   "releases": [
+    {
+      "version": "1.0.182",
+      "build": 184,
+      "date": "2026-09-27",
+      "summary": "Fan control in the System Info flyout, plus reliability improvements across the app.",
+      "highlights": [
+        "Fan control right in the System Info flyout — switch it on, pick Automatic, Manual or Curve for each fan, and drag the speed without opening Settings",
+        "Better translations in 133 languages — clipboard hints and countdown labels now use the correct format",
+        "More reliable AI usage tracking with overflow protection and faster change detection",
+        "Minor fixes and refinements — the usage scanner handles large histories without slowing down, and battery health readings are cached"
+      ]
+    },
     {
       "version": "1.0.181",
       "build": 183,
