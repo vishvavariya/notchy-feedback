@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-28T15:34:03Z",
+  "generatedAt": "2026-09-28T18:22:29Z",
   "latest": {
-    "version": "1.0.184",
-    "build": 186,
+    "version": "1.0.185",
+    "build": 187,
     "date": "2026-09-28"
   },
   "releases": [
+    {
+      "version": "1.0.185",
+      "build": 187,
+      "date": "2026-09-28",
+      "summary": "Titles for clipboard copies, fewer hangs, and a notch that stays put.",
+      "highlights": [
+        "Give a clipboard copy a title — right-click and choose Add Title, then find it by that name in search",
+        "Fewer hangs — long Clipboard, Shortcuts, Focus and Home lists no longer freeze the panel",
+        "The notch stays visible and opens on hover when an app’s menus run past the notch or sit on another display",
+        "Minor fixes and refinements — playback controls reach the app you pinned in Now Playing, a softer desktop pet shadow, and updated translations"
+      ]
+    },
     {
       "version": "1.0.184",
       "build": 186,
