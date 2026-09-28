@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-28T07:19:58Z",
+  "generatedAt": "2026-09-28T15:34:03Z",
   "latest": {
-    "version": "1.0.183",
-    "build": 185,
+    "version": "1.0.184",
+    "build": 186,
     "date": "2026-09-28"
   },
   "releases": [
+    {
+      "version": "1.0.184",
+      "build": 186,
+      "date": "2026-09-28",
+      "summary": "A reorganized Settings, keyboard window snapping, and Spaces on the notch.",
+      "highlights": [
+        "Settings, reorganized — new Behavior and Displays pages, and features grouped by what they’re for, so every switch is easier to find",
+        "Snap windows from the keyboard, and pick the snap zones for each display — halves, thirds, quarters and more",
+        "Windows & Spaces — move between desktops with a shortcut, and an optional island shows which Space you’re on",
+        "Minor fixes and refinements — a livelier Bouncy animation, the notch steps aside when an app’s menus reach it, switching Now Playing between two apps that play at once, the keyboard returns to your app when the panel closes, call islands sit in the menu bar, and updated translations"
+      ]
+    },
     {
       "version": "1.0.183",
       "build": 185,
