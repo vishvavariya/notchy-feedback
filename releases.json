@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-27T19:04:06Z",
+  "generatedAt": "2026-09-28T07:19:58Z",
   "latest": {
-    "version": "1.0.182",
-    "build": 184,
-    "date": "2026-09-27"
+    "version": "1.0.183",
+    "build": 185,
+    "date": "2026-09-28"
   },
   "releases": [
+    {
+      "version": "1.0.183",
+      "build": 185,
+      "date": "2026-09-28",
+      "summary": "An easier-to-customize Home, easier-to-read text, and smarter Face Unlock.",
+      "highlights": [
+        "Customize Home more easily — search and browse cards by category, undo a card you removed, and the default layout no longer leaves empty gaps",
+        "Easier to read — text in the notch and in Settings is now at least 10 points, and Settings reopens on the page you used last",
+        "Face Unlock adapts to your appearance — a missed scan followed by your password teaches it the new look",
+        "Minor fixes and refinements — fewer hangs, notification banners placed correctly on multiple displays, Liquid Glass and menu polish, clearer permission prompts, and updated translations"
+      ]
+    },
     {
       "version": "1.0.182",
       "build": 184,
