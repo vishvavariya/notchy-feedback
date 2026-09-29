@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-29T08:05:03Z",
+  "generatedAt": "2026-09-29T10:25:20Z",
   "latest": {
-    "version": "1.0.186",
-    "build": 188,
+    "version": "1.0.187",
+    "build": 189,
     "date": "2026-09-29"
   },
   "releases": [
+    {
+      "version": "1.0.187",
+      "build": 189,
+      "date": "2026-09-29",
+      "summary": "A room for your pet, more ways to play with it, and notifications that stay put.",
+      "highlights": [
+        "Add the Pet Room card to Home: a little room your pet lives in, with a bed, bowls and toys it uses when you click them — open it to decorate with furniture, wallpaper and floors",
+        "Your pet learned new things: give it a treat, brush it, or ask for a trick — and clicking the pet on your desktop now just pets it (double-click opens its card)",
+        "Notifications Notchy takes over now stay in the Notifications tab after they leave the notch, and Teams, Zoom and other call controls appear moments after you join",
+        "Minor fixes and refinements — hot corners and window tiling keep working after you lock your Mac, call controls stay black with Liquid Glass on, and updated translations"
+      ]
+    },
     {
       "version": "1.0.186",
       "build": 188,
