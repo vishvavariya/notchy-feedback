@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-28T18:22:29Z",
+  "generatedAt": "2026-09-29T08:05:03Z",
   "latest": {
-    "version": "1.0.185",
-    "build": 187,
-    "date": "2026-09-28"
+    "version": "1.0.186",
+    "build": 188,
+    "date": "2026-09-29"
   },
   "releases": [
+    {
+      "version": "1.0.186",
+      "build": 188,
+      "date": "2026-09-29",
+      "summary": "Scan QR codes from the notch, screen recordings you can find, and smarter Now Playing.",
+      "highlights": [
+        "Scan QR codes on your screen — turn on the Scan QR Code button, select a code, and Notchy copies it and offers to open links",
+        "Screen recordings are saved to your Desktop, or wherever your screenshots go, and a red timer on the notch shows one is running — click it to stop",
+        "Now Playing finds a second app playing at the same time, and Pomodoro’s Skip goes straight to your next focus session",
+        "Minor fixes and refinements — Mission Control shows your windows again with pointer effects on, battery health matches System Settings, hovering the open panel no longer takes the keyboard, the notch stays shut while you reach for menu bar items beside it, the pill no longer hides when an app’s menus reach it, and updated translations"
+      ]
+    },
     {
       "version": "1.0.185",
       "build": 187,
