@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-30T07:54:08Z",
+  "generatedAt": "2026-09-30T20:29:39Z",
   "latest": {
-    "version": "1.0.188",
-    "build": 190,
+    "version": "1.0.189",
+    "build": 191,
     "date": "2026-09-30"
   },
   "releases": [
+    {
+      "version": "1.0.189",
+      "build": 191,
+      "date": "2026-09-30",
+      "summary": "Clearer pet care, quieter desktop changes, and more reliable notifications and panel controls.",
+      "highlights": [
+        "Each adopted pet keeps its own care and levels, progress continues beyond level 10, and secret clues explain how to unlock discoveries",
+        "Pet cards use the macOS sharing menu, and settings explain when Minimalistic UI hides enabled tabs or header buttons",
+        "Desktop changes use a small, single-line label, feature tips start off, and Liquid Glass looks have clearer visual differences",
+        "Minor fixes and refinements — menu-bar hiding on macOS 27, notification history and replies, panel focus return, cross-Mac hover checks, media controls, and background-service stability"
+      ]
+    },
     {
       "version": "1.0.188",
       "build": 190,
