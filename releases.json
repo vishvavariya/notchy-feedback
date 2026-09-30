@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-29T10:25:20Z",
+  "generatedAt": "2026-09-30T07:54:08Z",
   "latest": {
-    "version": "1.0.187",
-    "build": 189,
-    "date": "2026-09-29"
+    "version": "1.0.188",
+    "build": 190,
+    "date": "2026-09-30"
   },
   "releases": [
+    {
+      "version": "1.0.188",
+      "build": 190,
+      "date": "2026-09-30",
+      "summary": "More reliable panel interaction, cleaner clipboard history, and settings that follow you between Macs.",
+      "highlights": [
+        "Panel clicks and focus return are more reliable, with an optional double-click setting to prevent accidental opening",
+        "Clipboard history shows the newest items first and keeps items saved to lists out of the main history",
+        "iCloud settings sync loads the latest settings before uploading, and menu bar hiding works better on Macs without a notch",
+        "Minor fixes and refinements — AI Usage connection errors, weather details, terminal wake recovery, lock-screen cleanup, meeting-alert keyboard handling, translations, and a Back to Meeting button for Zoom"
+      ]
+    },
     {
       "version": "1.0.187",
       "build": 189,
