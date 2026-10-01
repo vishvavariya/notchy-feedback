@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-01T08:37:22Z",
+  "generatedAt": "2026-10-01T21:12:24Z",
   "latest": {
-    "version": "1.0.190",
-    "build": 192,
+    "version": "1.0.191",
+    "build": 193,
     "date": "2026-10-01"
   },
   "releases": [
+    {
+      "version": "1.0.191",
+      "build": 193,
+      "date": "2026-10-01",
+      "summary": "A simpler personal setup, quicker everyday actions, and more reliable background recovery.",
+      "highlights": [
+        "Choose your daily tools, quick actions and alerts together in My Setup, with a quieter first launch and settings focused on your enabled tools",
+        "Add Pomodoro quick access, dictation shortcuts or repeated window snapping across displays — each new option starts off",
+        "Improved menu-bar hiding on wide displays, Spotify playlist and Liked Songs actions, wake recovery and pointer overlays",
+        "Minor fixes and refinements — settings scrolling, safe numeric preferences, keyboard activity, popovers, recording and background services"
+      ]
+    },
     {
       "version": "1.0.190",
       "build": 192,
