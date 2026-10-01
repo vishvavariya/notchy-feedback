@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-30T20:29:39Z",
+  "generatedAt": "2026-10-01T08:37:22Z",
   "latest": {
-    "version": "1.0.189",
-    "build": 191,
-    "date": "2026-09-30"
+    "version": "1.0.190",
+    "build": 192,
+    "date": "2026-10-01"
   },
   "releases": [
+    {
+      "version": "1.0.190",
+      "build": 192,
+      "date": "2026-10-01",
+      "summary": "More reliable wake and unlock recovery, cleaner meeting links, and smaller island controls.",
+      "highlights": [
+        "The notch and running activities recover more reliably after sleep and fullscreen unlock",
+        "Join Teams meetings from Outlook calendar notes without mixing extra link text into the meeting passcode",
+        "Choose a small circular island control, adjust its size, or reverse the HUD colors — each option starts off",
+        "Minor fixes and refinements — menu-bar controls, duplicate download alerts, pointer overlays, camera teardown, and background responsiveness"
+      ]
+    },
     {
       "version": "1.0.189",
       "build": 191,
