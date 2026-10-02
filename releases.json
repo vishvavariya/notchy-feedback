@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-02T09:17:36Z",
+  "generatedAt": "2026-10-02T17:38:34Z",
   "latest": {
-    "version": "1.0.192",
-    "build": 194,
+    "version": "1.0.193",
+    "build": 195,
     "date": "2026-10-02"
   },
   "releases": [
+    {
+      "version": "1.0.193",
+      "build": 195,
+      "date": "2026-10-02",
+      "summary": "More reliable updates, playlist checkmarks, calls and recovery after wake.",
+      "highlights": [
+        "Update checks find the latest compatible release and give clearer installation feedback",
+        "Spotify playlist checkmarks update progressively, and existing tracks no longer show a new-add confirmation",
+        "Calls stay compact alongside other activities, while Peek and notification actions recover more reliably",
+        "Minor fixes and refinements — wake recovery, Face Unlock retries, menu-bar fitting, pointer effects and Teams responsiveness"
+      ]
+    },
     {
       "version": "1.0.192",
       "build": 194,
