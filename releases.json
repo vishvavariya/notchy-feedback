@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-01T21:12:24Z",
+  "generatedAt": "2026-10-02T09:17:36Z",
   "latest": {
-    "version": "1.0.191",
-    "build": 193,
-    "date": "2026-10-01"
+    "version": "1.0.192",
+    "build": 194,
+    "date": "2026-10-02"
   },
   "releases": [
+    {
+      "version": "1.0.192",
+      "build": 194,
+      "date": "2026-10-02",
+      "summary": "Clear stale Now Playing sessions, keep QuickTime playback visible while seeking, and enjoy more reliable everyday controls.",
+      "highlights": [
+        "Close stale Now Playing sessions and restore them when needed; QuickTime playback stays visible while seeking",
+        "Enable Spotify Playlist Checkmarks to see matching playlists and check for duplicate tracks before adding",
+        "Enable Center Pill Lyrics for balanced short lyric lines, with scrolling retained for longer lines",
+        "Minor fixes and refinements — media-key repeats, camera startup, call layout, Peek transitions and pointer effects"
+      ]
+    },
     {
       "version": "1.0.191",
       "build": 193,
