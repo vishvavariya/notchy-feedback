@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-02T17:38:34Z",
+  "generatedAt": "2026-10-03T17:17:27Z",
   "latest": {
-    "version": "1.0.193",
-    "build": 195,
-    "date": "2026-10-02"
+    "version": "1.0.194",
+    "build": 196,
+    "date": "2026-10-03"
   },
   "releases": [
+    {
+      "version": "1.0.194",
+      "build": 196,
+      "date": "2026-10-03",
+      "summary": "Clearer panel navigation, more reliable gestures, and smoother startup and file handling.",
+      "highlights": [
+        "Open full sections directly from Home card headings, with clearer controls and panel layouts",
+        "Reorder Launcher apps without accidental folders, and use explicit actions to organize folders",
+        "Keep Cuely, usage tracking, audio startup and file dragging responsive while background services are busy",
+        "Minor fixes and refinements — swipes, Peek, Spotify playlists, menu-bar hiding, lock-screen placement and Face Unlock session checks"
+      ]
+    },
     {
       "version": "1.0.193",
       "build": 195,
