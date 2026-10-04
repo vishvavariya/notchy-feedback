@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-03T17:17:27Z",
+  "generatedAt": "2026-10-04T14:51:34Z",
   "latest": {
-    "version": "1.0.194",
-    "build": 196,
-    "date": "2026-10-03"
+    "version": "1.0.195",
+    "build": 197,
+    "date": "2026-10-04"
   },
   "releases": [
+    {
+      "version": "1.0.195",
+      "build": 197,
+      "date": "2026-10-04",
+      "summary": "Focus sounds, useful Home tools, and more reliable timers and file handling.",
+      "highlights": [
+        "Enable Focus Sounds to play rain, brown noise, wind or waves from Timer or Home, with an optional stop when Pomodoro ends",
+        "Enable Color Tools, Saved Links or natural-language reminder dates to keep useful colors and pages close and plan reminders faster",
+        "Choose repeated timer alarms, independent shelf copies or automatic shelf cleanup — each new option starts off",
+        "Minor fixes and refinements — media controls, file dragging and sharing, Home navigation, notification queues, Face Unlock and translations"
+      ]
+    },
     {
       "version": "1.0.194",
       "build": 196,
