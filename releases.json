@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-04T14:51:34Z",
+  "generatedAt": "2026-10-05T14:02:18Z",
   "latest": {
-    "version": "1.0.195",
-    "build": 197,
-    "date": "2026-10-04"
+    "version": "1.0.196",
+    "build": 198,
+    "date": "2026-10-05"
   },
   "releases": [
+    {
+      "version": "1.0.196",
+      "build": 198,
+      "date": "2026-10-05",
+      "summary": "Safer privacy, preserved scripts and files, and more reliable everyday controls.",
+      "highlights": [
+        "Hide Pill for Sharing hides the pill on every display, including your own; reopen Notchy to restore it in Settings",
+        "Keep Cuely scripts through preference resets and imports, and preserve earlier image conversions",
+        "Quit waits for screen recordings to finish saving; message previews stay off the lock screen",
+        "Minor fixes and refinements — fan recovery, audio, focus, screen capture, account sign-in, notifications and accessible controls"
+      ]
+    },
     {
       "version": "1.0.195",
       "build": 197,
@@ -2124,7 +2136,7 @@
       "version": "1.0.9",
       "build": 10,
       "date": "2026-05-27",
-      "summary": "Cuely — invisible teleprompter in the notch",
+      "summary": "Cuely — teleprompter in the notch",
       "highlights": [
         "New Cuely tab turns the notch into a teleprompter hidden from screen capture — Zoom, Meet, Teams, and OBS audiences never see your script",
         "Saved scripts library, auto-scroll speed presets, hover-to-pause, hotkeys",
