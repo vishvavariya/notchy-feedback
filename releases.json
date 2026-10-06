@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-06T11:51:16Z",
+  "generatedAt": "2026-10-06T23:16:13Z",
   "latest": {
-    "version": "1.0.198",
-    "build": 200,
+    "version": "1.0.199",
+    "build": 201,
     "date": "2026-10-06"
   },
   "releases": [
+    {
+      "version": "1.0.199",
+      "build": 201,
+      "date": "2026-10-06",
+      "summary": "Track announcements and still titles for Now Playing, four new pet features, and much lower energy use.",
+      "highlights": [
+        "Turn on Announce New Tracks to see each new song's title and artist in the notch, or Stop Title Scrolling to fit long titles, in Settings → Now Playing — each starts off",
+        "Pets can now go fishing, celebrate holidays, grow up and earn treats from daily quests — turn each on in Settings → Pet",
+        "Notchy uses far less energy: AI usage is no longer rescanned every few seconds while your desktop pet walks",
+        "Minor fixes and refinements — an Invisible Until Hover pill no longer covers menu-bar items, the menu bar hider explains an empty collapse, and no freeze while a video downloader installs"
+      ]
+    },
     {
       "version": "1.0.198",
       "build": 200,
