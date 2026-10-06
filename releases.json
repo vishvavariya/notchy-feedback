@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-06T05:41:37Z",
+  "generatedAt": "2026-10-06T11:51:16Z",
   "latest": {
-    "version": "1.0.197",
-    "build": 199,
+    "version": "1.0.198",
+    "build": 200,
     "date": "2026-10-06"
   },
   "releases": [
+    {
+      "version": "1.0.198",
+      "build": 200,
+      "date": "2026-10-06",
+      "summary": "52 pet characters and new pet features, Text Actions for any selection, and clearer Home cards.",
+      "highlights": [
+        "Choose from 52 illustrated pet characters that watch your cursor, and turn on Pet Weather, Fur Colours, Pet Memories and the Quick Paws game in Settings → Pet — each starts off",
+        "Turn on Text Actions in Settings → Pointer, then select text in any app to copy, search, look up or translate it from a small bar above it",
+        "Home cards have visible edges again, and a short Calendar card shows full-size weeks instead of shrinking the whole month",
+        "Minor fixes and refinements — PopClip with pointer effects, no freeze when a network drive stalls, and a tidier pet picker"
+      ]
+    },
     {
       "version": "1.0.197",
       "build": 199,
