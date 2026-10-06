@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-05T14:02:18Z",
+  "generatedAt": "2026-10-06T05:41:37Z",
   "latest": {
-    "version": "1.0.196",
-    "build": 198,
-    "date": "2026-10-05"
+    "version": "1.0.197",
+    "build": 199,
+    "date": "2026-10-06"
   },
   "releases": [
+    {
+      "version": "1.0.197",
+      "build": 199,
+      "date": "2026-10-06",
+      "summary": "Critical fix: the notch is back and responsive for everyone, plus external-display mode, truer lyrics and a bigger pet world.",
+      "highlights": [
+        "The notch reappears for everyone who lost it after 1.0.196, and it responds to clicks and hover again right after you unlock",
+        "Choose External in Settings → Behavior → Show On to keep Notchy off your built-in display, and lyrics now follow the song only when their timing matches the version you're playing",
+        "Enable 9 new pet companions, pet games, bedtime, window rides, visits to other displays and personalities, plus a weather forecast and AI limit alerts — each starts off",
+        "Minor fixes and refinements — Location for Weather, focus after unlock, scrollable unsynced lyrics and pet backup and restore"
+      ]
+    },
     {
       "version": "1.0.196",
       "build": 198,
