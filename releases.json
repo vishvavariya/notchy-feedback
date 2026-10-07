@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-06T23:16:13Z",
+  "generatedAt": "2026-10-07T15:58:13Z",
   "latest": {
-    "version": "1.0.199",
-    "build": 201,
-    "date": "2026-10-06"
+    "version": "1.0.200",
+    "build": 202,
+    "date": "2026-10-07"
   },
   "releases": [
+    {
+      "version": "1.0.200",
+      "build": 202,
+      "date": "2026-10-07",
+      "summary": "Typing sounds, your next meeting in the menu bar, a Calendar shortcut, square album art and a batch of fixes.",
+      "highlights": [
+        "Turn on Typing Sounds in Settings → Capture to hear a click on every key press — mechanical, typewriter, your own sound and more, in every app or just the ones you pick, with a shortcut to pause — it starts off",
+        "Settings → Calendar can show your next meeting in the menu bar and open Calendar from your own keyboard shortcut — each starts off",
+        "Square Album Art in Settings → Now Playing shows the cover like iPhone, and a Capture Sound in Settings → Clipboard clicks for each new copy — each starts off",
+        "Minor fixes and refinements — a single-arrow menu bar hider on macOS 27, the lock-screen island stays under the notch after ⌃⌘Q, the Home Camera card always starts the mirror first, a roomier menu-bar Calendar, and tidier info notes in Settings"
+      ]
+    },
     {
       "version": "1.0.199",
       "build": 201,
