@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-07T15:58:13Z",
+  "generatedAt": "2026-10-08T17:07:20Z",
   "latest": {
-    "version": "1.0.200",
-    "build": 202,
-    "date": "2026-10-07"
+    "version": "1.0.201",
+    "build": 203,
+    "date": "2026-10-08"
   },
   "releases": [
+    {
+      "version": "1.0.201",
+      "build": 203,
+      "date": "2026-10-08",
+      "summary": "Desktop lyrics, calendar events from the notch, menu bar icon hiding, call controls for calls you place and a batch of fixes.",
+      "highlights": [
+        "Settings → Now Playing adds Desktop Lyrics, a second lyrics provider with translations, and a private listening history with bookmarks — each starts off",
+        "Settings → Calendar lets you create and edit events from the notch and shows due tasks alongside them — each starts off",
+        "Settings → General can keep chosen menu bar icons always hidden or reveal them on hover, and tabs can now sit beside the notch, be marked favorites, or include a Sound Mixer — each starts off",
+        "Minor fixes and refinements — music bars that move like Apple’s Now Playing waveform and hold still in Low Power Mode or with Reduce Motion, call controls for FaceTime and iPhone calls you place, quieter volume and brightness during Focus, behavior presets, network traffic history, recoverable notes drafts and checklists, a Ports button, and a required-update check for versions with serious problems"
+      ]
+    },
     {
       "version": "1.0.200",
       "build": 202,
