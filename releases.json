@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-08T17:07:20Z",
+  "generatedAt": "2026-10-09T23:29:02Z",
   "latest": {
-    "version": "1.0.201",
-    "build": 203,
-    "date": "2026-10-08"
+    "version": "1.0.202",
+    "build": 204,
+    "date": "2026-10-09"
   },
   "releases": [
+    {
+      "version": "1.0.202",
+      "build": 204,
+      "date": "2026-10-09",
+      "summary": "Ask Claude from the notch, device controls in the Sound Mixer, Codex permission islands, and a smoother, lighter Notchy.",
+      "highlights": [
+        "Ask AI: a new tab for chatting with Claude right in the notch, using your own Anthropic API key — it starts off",
+        "The Sound Mixer tab keeps your output and microphone on screen, with an input level and a mic mute, and Agent Permission Islands now work with Codex too",
+        "Hide from Screen Capture is back in Settings → Behavior, and support asks are quieter: no scheduled donation pop-ups, just a small Support button in the panel header",
+        "Minor fixes and refinements — smoother scrolling, a battery and performance pass, hidden menu bar icons that stay hidden and tuck away reliably, and a centered opening animation"
+      ]
+    },
     {
       "version": "1.0.201",
       "build": 203,
