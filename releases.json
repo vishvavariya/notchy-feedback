@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-10T04:44:26Z",
+  "generatedAt": "2026-10-10T12:11:29Z",
   "latest": {
-    "version": "1.0.203",
-    "build": 205,
+    "version": "1.0.204",
+    "build": 206,
     "date": "2026-10-10"
   },
   "releases": [
+    {
+      "version": "1.0.204",
+      "build": 206,
+      "date": "2026-10-10",
+      "summary": "Notification Center works with hidden menu bar icons, Face Unlock setup accepts your password, and Notchy cleans up duplicate copies.",
+      "highlights": [
+        "Face Unlock setup accepts your Mac password again on Macs where macOS couldn't check it, and says when a password can't be saved instead of calling it wrong",
+        "If you have several copies of Notchy installed, it offers to move the extras to the Trash, so permissions and features work reliably",
+        "Notification Center opens from the clock and its shortcut again while menu bar icons are hidden on macOS 27",
+        "Minor fixes and refinements — a Copy button on the screenshot island, Notes improvements, and no repeat Accessibility prompts after you decline"
+      ]
+    },
     {
       "version": "1.0.203",
       "build": 205,
