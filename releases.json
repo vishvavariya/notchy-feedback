@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-10T12:11:29Z",
+  "generatedAt": "2026-10-10T17:36:12Z",
   "latest": {
-    "version": "1.0.204",
-    "build": 206,
+    "version": "1.0.205",
+    "build": 207,
     "date": "2026-10-10"
   },
   "releases": [
+    {
+      "version": "1.0.205",
+      "build": 207,
+      "date": "2026-10-10",
+      "summary": "Face Unlock setup accepts a steady scan, Settings switches pages instantly, and translations are fixed.",
+      "highlights": [
+        "Face Unlock setup no longer turns down a steady, consistent face scan",
+        "Settings switches pages instantly, and the About page is tidier with the Supporter section folded away",
+        "Resizing a Home card in Settings now follows your pointer exactly",
+        "Minor fixes and refinements — corrected German, French and Spanish translations"
+      ]
+    },
     {
       "version": "1.0.204",
       "build": 206,
