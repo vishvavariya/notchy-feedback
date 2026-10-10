@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-09T23:29:02Z",
+  "generatedAt": "2026-10-10T04:44:26Z",
   "latest": {
-    "version": "1.0.202",
-    "build": 204,
-    "date": "2026-10-09"
+    "version": "1.0.203",
+    "build": 205,
+    "date": "2026-10-10"
   },
   "releases": [
+    {
+      "version": "1.0.203",
+      "build": 205,
+      "date": "2026-10-10",
+      "summary": "Fixes crashes in 1.0.202, including at launch on Macs with Face Unlock, and brings Siri back to the notch on macOS 27.",
+      "highlights": [
+        "Fixes Notchy crashing at launch or in Lock Screen settings on Macs with Face Unlock, and when opening Quick Look. If Notchy ever crashes twice right after opening, it now starts in a safe mode and checks for a fix",
+        "The Siri island appears again on macOS 27",
+        "Square Album Art now applies everywhere: the closed notch, the hover player, Home and Now Playing",
+        "Live Transcript in Settings → Capture shows your latest words in the notch while you dictate — it starts off"
+      ]
+    },
     {
       "version": "1.0.202",
       "build": 204,
