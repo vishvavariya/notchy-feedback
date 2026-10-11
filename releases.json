@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-11T11:39:04Z",
+  "generatedAt": "2026-10-11T15:50:56Z",
   "latest": {
-    "version": "1.0.206",
-    "build": 208,
+    "version": "1.0.207",
+    "build": 209,
     "date": "2026-10-11"
   },
   "releases": [
+    {
+      "version": "1.0.207",
+      "build": 209,
+      "date": "2026-10-11",
+      "summary": "Face Unlock that works like iPhone, a reorganised Settings, and per-direction trackpad swipes.",
+      "highlights": [
+        "Face Unlock unlocks the way iPhone does: just look at your Mac. No more turning or blinking on cue, and the island shows only its animation",
+        "Face Unlock setup finishes reliably. It asks for small head movements, skips blurry frames, and turns your screen into a soft light in a dark room",
+        "Settings is reorganised: My Setup without the repeated switch list, grouped Pet options, and a switch for each trackpad swipe direction",
+        "Minor fixes and refinements — banners under an alert on macOS 27, Now Playing clearing finished tracks, and more of Notchy translated in widgets and the lock screen"
+      ]
+    },
     {
       "version": "1.0.206",
       "build": 208,
