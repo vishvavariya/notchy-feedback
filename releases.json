@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-10T17:36:12Z",
+  "generatedAt": "2026-10-11T11:39:04Z",
   "latest": {
-    "version": "1.0.205",
-    "build": 207,
-    "date": "2026-10-10"
+    "version": "1.0.206",
+    "build": 208,
+    "date": "2026-10-11"
   },
   "releases": [
+    {
+      "version": "1.0.206",
+      "build": 208,
+      "date": "2026-10-11",
+      "summary": "A quieter notifications-only layout, improved Face Unlock setup, calls on macOS 27, and better shelf and Calendar layouts.",
+      "highlights": [
+        "Scan your face again after updating to use improved Face Unlock. Your password stays in the Keychain. Setup handles awkward head angles and Macs without Touch ID correctly",
+        "Incoming FaceTime and iPhone calls are recognised again on macOS 27, including calls answered in the Phone app",
+        "The file shelf grows to fill a tall island, and the Calendar tab shows full-size weeks when the island is wide but short",
+        "Notifications-Only Mode keeps the notch closed until you click for music controls or alert details. HUDs Beside the Notch keeps volume and brightness clear of your page. Hover, rating, and update prompts are quieter"
+      ]
+    },
     {
       "version": "1.0.205",
       "build": 207,
