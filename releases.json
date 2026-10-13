@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-11T15:50:56Z",
+  "generatedAt": "2026-10-13T14:48:24Z",
   "latest": {
-    "version": "1.0.207",
-    "build": 209,
-    "date": "2026-10-11"
+    "version": "1.0.208",
+    "build": 210,
+    "date": "2026-10-13"
   },
   "releases": [
+    {
+      "version": "1.0.208",
+      "build": 210,
+      "date": "2026-10-13",
+      "summary": "More reliable notifications, music and Face Unlock, with easier controls and safer settings resets.",
+      "highlights": [
+        "Notification controls — Notifications your Focus allows show right away. Hover to expand them, and undo dismissals or clearing the Notifications tab",
+        "Face Unlock and lock screen — Icons sit against the camera again. Face Unlock starts faster and explains when setup or authorization is needed. Scan your face once more from this guide",
+        "Music, Launcher and Undo — Music clears finished tracks and follows the right player. Launcher tiles respond to the first click or drag, and reminder completions and snippet deletions offer Undo",
+        "Minor fixes and refinements — settings resets keep your notes and setup progress, iCloud respects newer edits, weather and stock alerts recover reliably, and the app does less work in the background"
+      ]
+    },
     {
       "version": "1.0.207",
       "build": 209,
