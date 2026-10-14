@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-10-13T14:48:24Z",
+  "generatedAt": "2026-10-14T09:45:24Z",
   "latest": {
-    "version": "1.0.208",
-    "build": 210,
-    "date": "2026-10-13"
+    "version": "1.0.209",
+    "build": 211,
+    "date": "2026-10-14"
   },
   "releases": [
+    {
+      "version": "1.0.209",
+      "build": 211,
+      "date": "2026-10-14",
+      "summary": "Smoother controls, simpler notification settings, and more reliable Face Unlock, calls and lock-screen placement.",
+      "highlights": [
+        "Face Unlock, calls and the lock screen — Face Unlock recovers from camera interruptions, calls are recognised on newer macOS versions, and the island keeps its position after locking or waking",
+        "Smoother everyday controls — Tabs, music and Settings respond with calmer motion, better keyboard focus and improved VoiceOver labels. Notification delivery has fewer switches and keeps your saved choices",
+        "Minor fixes and refinements — more reliable file drops, clipboard previews and display recovery, finished music clears correctly, stock prices use the right precision, and updated translations"
+      ]
+    },
     {
       "version": "1.0.208",
       "build": 210,
