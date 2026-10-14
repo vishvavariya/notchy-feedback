@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-14T09:45:24Z",
+  "generatedAt": "2026-10-14T22:23:21Z",
   "latest": {
-    "version": "1.0.209",
-    "build": 211,
+    "version": "1.0.210",
+    "build": 212,
     "date": "2026-10-14"
   },
   "releases": [
+    {
+      "version": "1.0.210",
+      "build": 212,
+      "date": "2026-10-14",
+      "summary": "A simpler Settings app, a pill that fits every Mac, and safer coding-agent approvals.",
+      "highlights": [
+        "Simpler Settings — Screenshots, Typing Sounds, Face Unlock and Developer have their own pages, Weather lives with Home, and related switches are combined into clearer choices",
+        "Fits every Mac — on Macs without a notch the pill stays clear of app menus, and with several displays the shortcut opens Notchy only on the screen you are using",
+        "Safer approvals — a coding agent's approval island now shows the whole command, including its real ending, before you approve it",
+        "Minor fixes and refinements — lock screen placement after a manual lock, quicker hover and keyboard motion, clearer contrast and VoiceOver labels, stock prices in your currency, more reliable clipboard images, and updated translations"
+      ]
+    },
     {
       "version": "1.0.209",
       "build": 211,
