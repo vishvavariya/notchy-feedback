@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-15T09:43:21Z",
+  "generatedAt": "2026-10-15T13:53:26Z",
   "latest": {
-    "version": "1.0.211",
-    "build": 213,
+    "version": "1.0.212",
+    "build": 214,
     "date": "2026-10-15"
   },
   "releases": [
+    {
+      "version": "1.0.212",
+      "build": 214,
+      "date": "2026-10-15",
+      "summary": "The lock screen pill sits right under the camera again, and unlocking looks the way it should.",
+      "highlights": [
+        "Lock screen fixed — on MacBooks with a notch, the lock pill and Face Unlock stay right under the camera after you lock with Touch ID or Control-Command-Q",
+        "Unlocking looks normal again — the full-screen unlock screen some people saw after updating to 1.0.211 is gone"
+      ]
+    },
     {
       "version": "1.0.211",
       "build": 213,
