@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-15T17:50:12Z",
+  "generatedAt": "2026-10-15T23:15:33Z",
   "latest": {
-    "version": "1.0.213",
-    "build": 215,
+    "version": "1.0.214",
+    "build": 216,
     "date": "2026-10-15"
   },
   "releases": [
+    {
+      "version": "1.0.214",
+      "build": 216,
+      "date": "2026-10-15",
+      "summary": "Manual scrolling for Cuely, stacked message notifications, simpler Settings and reliability improvements.",
+      "highlights": [
+        "Cuely manual scrolling — start your script and set the pace with a mouse wheel or trackpad, alongside automatic scrolling and voice follow",
+        "Stacked messages — keep recent messages together in the notch, with separate Reply, Open and Dismiss controls for each message",
+        "Simpler Settings — all applicable pages are visible by default, with fewer switches and automatic lock-screen alignment",
+        "Minor fixes and refinements — improved alignment after repeated locks, more reliable menu bar tabs, fewer false Siri activations, refreshed support prompts, safer audio and widgets, and updated translations"
+      ]
+    },
     {
       "version": "1.0.213",
       "build": 215,
