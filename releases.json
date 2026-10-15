@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-14T22:23:21Z",
+  "generatedAt": "2026-10-15T09:43:21Z",
   "latest": {
-    "version": "1.0.210",
-    "build": 212,
-    "date": "2026-10-14"
+    "version": "1.0.211",
+    "build": 213,
+    "date": "2026-10-15"
   },
   "releases": [
+    {
+      "version": "1.0.211",
+      "build": 213,
+      "date": "2026-10-15",
+      "summary": "A month calendar in the menu bar, steadier everyday performance, and safer coding-agent approvals.",
+      "highlights": [
+        "Menu bar calendar — click the next-meeting item in the menu bar for a month calendar right below it, with the day’s events, Join and New Event",
+        "Steadier and quicker — opening notifications, muting the mic and changing an external display’s brightness no longer hold up the notch, and lyrics stay in time after music buffers",
+        "Safer approvals — “Always” now covers only commands like the one you approved, and hidden characters in a command are shown before you allow it",
+        "Minor fixes and refinements — Todoist due times, reminders that were marked overdue too early, the Calendar tab at short heights, link cleaning, Focus modes after granting Full Disk Access, lock screen placement, larger click targets, settings search, and corrected translations"
+      ]
+    },
     {
       "version": "1.0.210",
       "build": 212,
