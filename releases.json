@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-15T13:53:26Z",
+  "generatedAt": "2026-10-15T17:50:12Z",
   "latest": {
-    "version": "1.0.212",
-    "build": 214,
+    "version": "1.0.213",
+    "build": 215,
     "date": "2026-10-15"
   },
   "releases": [
+    {
+      "version": "1.0.213",
+      "build": 215,
+      "date": "2026-10-15",
+      "summary": "The lock screen pill stays under the camera after a manual lock, and the menu bar calendar is tidier.",
+      "highlights": [
+        "Lock screen pill — on MacBooks with a notch, the lock pill no longer drops below the camera after you lock with Touch ID or Control-Command-Q",
+        "Tidier menu bar calendar — the month view opens without a highlighted button, and the New Event form lines up"
+      ]
+    },
     {
       "version": "1.0.212",
       "build": 214,
