@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-16T06:57:24Z",
+  "generatedAt": "2026-10-16T12:11:48Z",
   "latest": {
-    "version": "1.0.215",
-    "build": 217,
+    "version": "1.0.216",
+    "build": 218,
     "date": "2026-10-16"
   },
   "releases": [
+    {
+      "version": "1.0.216",
+      "build": 218,
+      "date": "2026-10-16",
+      "summary": "The lock screen pill stays right under the camera, and Notchy starts faster.",
+      "highlights": [
+        "Lock screen pill — on MacBooks with a notch, the pill now stays right under the camera after you lock with Touch ID or Control-Command-Q",
+        "Faster start — Notchy no longer waits on Bluetooth when it launches, so it can't stall for several seconds"
+      ]
+    },
     {
       "version": "1.0.215",
       "build": 217,
