@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-16T12:11:48Z",
+  "generatedAt": "2026-10-16T16:41:23Z",
   "latest": {
-    "version": "1.0.216",
-    "build": 218,
+    "version": "1.0.217",
+    "build": 219,
     "date": "2026-10-16"
   },
   "releases": [
+    {
+      "version": "1.0.217",
+      "build": 219,
+      "date": "2026-10-16",
+      "summary": "A steadier lock screen pill, a resizable Cuely strip and one-click updates.",
+      "highlights": [
+        "Lock screen pill — on MacBooks with a notch, the pill no longer changes size or jumps across the screen after you lock",
+        "Resizable Cuely — drag the corner of the reading strip to size it, or set it in Cuely settings; double-click the corner for the default size",
+        "One-click updates — when an update is ready, an Update button in the panel header installs it and relaunches Notchy",
+        "Minor fixes and refinements — Join Meeting opens a meeting about to start first, and the menu bar tells you when an icon you turned on has no room"
+      ]
+    },
     {
       "version": "1.0.216",
       "build": 218,
