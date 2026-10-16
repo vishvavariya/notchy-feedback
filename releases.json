@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-16T16:41:23Z",
+  "generatedAt": "2026-10-16T22:30:27Z",
   "latest": {
-    "version": "1.0.217",
-    "build": 219,
+    "version": "1.0.218",
+    "build": 220,
     "date": "2026-10-16"
   },
   "releases": [
+    {
+      "version": "1.0.218",
+      "build": 220,
+      "date": "2026-10-16",
+      "summary": "The lock screen pill goes back under the camera, the pill stays put on every desktop, and a polish pass across the app.",
+      "highlights": [
+        "Lock screen pill — on MacBooks with a notch, Notchy now undoes the zoom macOS applies to the lock screen, so the pill sits right under the camera after Touch ID or Control-Command-Q locks",
+        "Spaces and Show Desktop — the pill stays on every desktop and in place when you show the desktop, and still hides over full-screen apps",
+        "Minimal Layout — choose which header buttons stay: Settings → Appearance → Minimal Layout → Header Buttons",
+        "Minor fixes and refinements — a running timer sits beside the camera, more actions can be undone, better VoiceOver and keyboard support, smoother lists, and the menu bar tells you when Notchy is switched off in System Settings → Menu Bar"
+      ]
+    },
     {
       "version": "1.0.217",
       "build": 219,
