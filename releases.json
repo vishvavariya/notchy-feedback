@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-15T23:15:33Z",
+  "generatedAt": "2026-10-16T06:57:24Z",
   "latest": {
-    "version": "1.0.214",
-    "build": 216,
-    "date": "2026-10-15"
+    "version": "1.0.215",
+    "build": 217,
+    "date": "2026-10-16"
   },
   "releases": [
+    {
+      "version": "1.0.215",
+      "build": 217,
+      "date": "2026-10-16",
+      "summary": "An important stability update that fixes several crashes.",
+      "highlights": [
+        "Fewer crashes — fixes rare crashes when playing sounds, changing per-app volume, snapping windows and drawing colors",
+        "Steadier settings — reading and saving settings no longer risks a crash when several parts of Notchy do it at once"
+      ]
+    },
     {
       "version": "1.0.214",
       "build": 216,
