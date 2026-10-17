@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-10-17T13:04:18Z",
+  "generatedAt": "2026-10-17T22:22:29Z",
   "latest": {
-    "version": "1.0.219",
-    "build": 221,
+    "version": "1.0.220",
+    "build": 222,
     "date": "2026-10-17"
   },
   "releases": [
+    {
+      "version": "1.0.220",
+      "build": 222,
+      "date": "2026-10-17",
+      "summary": "A tidier Settings, timers that survive a relaunch and a smarter command palette.",
+      "highlights": [
+        "A tidier Settings — about 80 rarely used options are gone or merged into one, tool pages sit under a single Tools section, and search opens the right group",
+        "Timers and the command palette — timers and the stopwatch survive a relaunch, and the palette understands “timer 12m”, “note …”, “task …” and “remind … tomorrow 9am”",
+        "Minor fixes and refinements — Ask AI can Retry or Edit Question and stays put while you read, Notes and Ask AI open in their own window, Translate says your text goes to Google, custom panel colours stay readable, clipboard capture can be paused, Face Unlock setup fills its ring even when your camera sits above or beside your eye line, Caffeine stays on when Notchy restarts, Stay Awake With the Lid Closed asks for your password on work and school accounts too, and fixes for a freeze when locking the screen with the lock sound on and while installing an update on some Intel Macs"
+      ]
+    },
     {
       "version": "1.0.219",
       "build": 221,
