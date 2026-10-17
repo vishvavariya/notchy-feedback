@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-16T22:30:27Z",
+  "generatedAt": "2026-10-17T13:04:18Z",
   "latest": {
-    "version": "1.0.218",
-    "build": 220,
-    "date": "2026-10-16"
+    "version": "1.0.219",
+    "build": 221,
+    "date": "2026-10-17"
   },
   "releases": [
+    {
+      "version": "1.0.219",
+      "build": 221,
+      "date": "2026-10-17",
+      "summary": "A lock screen pill fix, replies that really send, OpenCode in AI Usage and a simpler Settings tab.",
+      "highlights": [
+        "Lock screen pill — on MacBooks with a notch running macOS 26, Notchy now draws the lock screen pill the way macOS leaves at full size, so it sits right under the camera instead of a little below it",
+        "Messages — replying to Teams, WhatsApp, Slack and other apps from the notch now actually sends, and you can flick a banner sideways to dismiss it, like a macOS notification",
+        "OpenCode in AI Usage — its own tab and Overview row, like Claude Code and Codex, with tokens, cost, sessions and top model from OpenCode's local history",
+        "Minor fixes and refinements — a simpler Settings tab with Size & Color one click away, a “Same as Panel” pill colour and Settings window glass option, Packages update progress, correct AI costs for more Claude and GPT models, a Caffeine island whenever Caffeine turns on or off, more header controls Minimal Layout can hide, and a battery icon that fills to your real charge"
+      ]
+    },
     {
       "version": "1.0.218",
       "build": 220,
