@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-17T22:22:29Z",
+  "generatedAt": "2026-10-18T16:40:00Z",
   "latest": {
-    "version": "1.0.220",
-    "build": 222,
-    "date": "2026-10-17"
+    "version": "1.0.221",
+    "build": 223,
+    "date": "2026-10-18"
   },
   "releases": [
+    {
+      "version": "1.0.221",
+      "build": 223,
+      "date": "2026-10-18",
+      "summary": "Header buttons that stay visible, a calmer lock screen and better VoiceOver and keyboard support.",
+      "highlights": [
+        "Header buttons — only the buttons that don’t fit fold into the More menu, so Mic Mute, Camera, Identify Song and the rest show up when you switch them on",
+        "Lock screen — tapping a lock-screen control no longer takes typing away from your password, and Notchy wakes far less while your Mac is locked",
+        "VoiceOver and keyboard — notifications wait while you read or focus them, and Home cards, Join Meeting and Now Playing can be reached with Full Keyboard Access",
+        "Minor fixes and refinements — Face Unlock asks for a blink or head turn and pauses after five failed tries, saved sign-ins can no longer be lost while being updated, quick two-finger flicks on the pill register, the Settings tab is sized like Control Center, percentages follow your language, a fan switch and Open Fan Settings button in System Stats, clearer permission and alert buttons, and a crash fix for tooltips on macOS 15"
+      ]
+    },
     {
       "version": "1.0.220",
       "build": 222,
