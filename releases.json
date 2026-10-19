@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-19T08:42:43Z",
+  "generatedAt": "2026-10-19T19:37:58Z",
   "latest": {
-    "version": "1.0.222",
-    "build": 224,
+    "version": "1.0.223",
+    "build": 225,
     "date": "2026-10-19"
   },
   "releases": [
+    {
+      "version": "1.0.223",
+      "build": 225,
+      "date": "2026-10-19",
+      "summary": "The lock-screen pill is back in place, the panel keeps its size on every tab, and Notchy uses less memory.",
+      "highlights": [
+        "Your music app — Open Music launches the player you choose, and Notchy can stop Music from opening by itself when headphones connect",
+        "Timer at a glance — set a custom timer in hours, minutes and seconds, hover a running timer to see its controls, and the Lock Screen Timer Card shows a running stopwatch too",
+        "Your notch, your way — choose which tabs show their names, keep more buttons in Minimal Layout (Stopwatch, Timer and others), hide the Support button, set how small Minimal Layout draws with Minimal Layout Scale, and turn on Show Unlock Animation in Lock Screen settings to see an open lock in the pill as you unlock",
+        "Steadier and easier to use — buttons across the notch show hover and press feedback again, more controls work with the keyboard and VoiceOver, and a failed update install now restores your existing copy of Notchy; also the lock-screen pill no longer sits too low on some Macs, Quick Settings keeps a Fixed Size panel’s size, Notchy frees AI Usage scan memory between scans, Mission Control no longer flashes a black slab, File Shelf waits a moment before opening on a drag, right-click cancels the color picker, Custom Fill gradients hold still as the panel opens, the pill clears the notch at 1:1 display resolutions, a running timer, Calendar, Reminders, the Files shelf and permission prompts fit short panels, Hide Menu Bar Icons now tucks away Notchy’s own icons too, rare freezes when changing volume, opening Now Playing with lyrics, or launching on older Intel Macs are fixed, unexpected values no longer crash AI Usage, Activity Rings, fan readings or the app mixer, Now Playing no longer freezes when macOS’s media service stalls, clipboard history, Mission Control, external displays, calls and Reminders no longer freeze when a system service is slow, fan speed is remembered, and calendar events ending at midnight stay on their own day"
+      ]
+    },
     {
       "version": "1.0.222",
       "build": 224,
