@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-10-18T16:40:00Z",
+  "generatedAt": "2026-10-19T08:42:43Z",
   "latest": {
-    "version": "1.0.221",
-    "build": 223,
-    "date": "2026-10-18"
+    "version": "1.0.222",
+    "build": 224,
+    "date": "2026-10-19"
   },
   "releases": [
+    {
+      "version": "1.0.222",
+      "build": 224,
+      "date": "2026-10-19",
+      "summary": "Settings you asked to keep are back, Settings pages open with every option showing, and a fix for a crash at launch.",
+      "highlights": [
+        "Settings back by request — Control Playback with Media Keys (turn it off if your headphones’ play button fights Notchy), Square Album Art, Pill Height Adjustment, Animation Speed and Collapse Delay (set it to Instant to close as soon as the pointer leaves)",
+        "Settings open fully — every section on a Settings page is expanded, so each option is one click away",
+        "Calmer panel — the open panel casts a soft shadow, and the clipboard’s Undo bar floats over the list instead of squeezing it in a short panel",
+        "Speed control in browsers — a new button switches “Allow JavaScript from Apple Events” back off in each open browser",
+        "Minor fixes and refinements — fixes a crash at launch when a timer, stopwatch or upcoming event was showing, the pill flickers less through Mission Control and unlock on macOS Ventura, the lock-screen pill stays under the camera instead of sitting lower after a lock, Face Unlock and link-automation switches stay on this Mac when you restore a settings backup, copied API tokens stay out of clipboard history, VoiceOver confirms copies and saved notes, album art keeps its colors under Invert Colors, and clicking the panel no longer interrupts a permission prompt"
+      ]
+    },
     {
       "version": "1.0.221",
       "build": 223,
