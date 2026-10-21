@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-21T08:38:52Z",
+  "generatedAt": "2026-10-21T17:18:10Z",
   "latest": {
-    "version": "1.0.224",
-    "build": 226,
+    "version": "1.0.225",
+    "build": 227,
     "date": "2026-10-21"
   },
   "releases": [
+    {
+      "version": "1.0.225",
+      "build": 227,
+      "date": "2026-10-21",
+      "summary": "A calmer panel and Notchy in your language: fewer header buttons, dates and times in the language you choose, and right-to-left layouts. Plus Notification Center stays open with menu bar icons hidden, Hide Notch keeps each Space's wallpaper, AI Usage reaches more providers, and Notchy only accepts updates signed with its own key.",
+      "highlights": [
+        "A calmer panel — at most six header buttons with the rest under More, one look for anything that's on, tabs that don't repeat their own name, and a timer that always shows when it ends",
+        "Notchy in your language — dates and times follow the language you choose in Notchy, Arabic and other right-to-left languages mirror the panel, and Arabic buttons read correctly",
+        "Notification Center stays open — with Hide Menu Bar Icons on, clicking the clock no longer closes Notification Center a second after it opens on Macs set to a language other than English",
+        "Your wallpaper on every Space — with Hide Notch on, each Space keeps its own wallpaper instead of switching to the last one Notchy masked"
+      ]
+    },
     {
       "version": "1.0.224",
       "build": 226,
