@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-19T19:37:58Z",
+  "generatedAt": "2026-10-21T08:38:52Z",
   "latest": {
-    "version": "1.0.223",
-    "build": 225,
-    "date": "2026-10-19"
+    "version": "1.0.224",
+    "build": 226,
+    "date": "2026-10-21"
   },
   "releases": [
+    {
+      "version": "1.0.224",
+      "build": 226,
+      "date": "2026-10-21",
+      "summary": "A careful pass over the whole app: safer settings, better keyboard and VoiceOver support, longer battery life and more privacy. Plus desktop widgets (Clock, Now Playing, Weather, System and Photo), Clean Screen, which turns your displays black so you can wipe them, and battery levels for third-party Bluetooth keyboards, mice and earbuds.",
+      "highlights": [
+        "Asks before it deletes — lowering the clipboard history limit, importing settings, resetting snap zones and regenerating your API token now ask first, and a note that changed in Apple Notes keeps your draft until you choose",
+        "Works with your keyboard — reach the Launcher, first-run setup, island buttons, shelf files and the Timer ruler with Full Keyboard Access, and VoiceOver now reads running timers, stopwatches and recordings",
+        "Easier on your battery — brightness, lyrics, AI usage, call and media checks pause when nothing on screen needs them, and live timer chips no longer redraw the whole notch every second",
+        "More private — lock-screen calendar and reminder cards show only the time unless you turn on titles, and Notchy keeps its copies of notifications encrypted on this Mac"
+      ]
+    },
     {
       "version": "1.0.223",
       "build": 225,
