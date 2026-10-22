@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-21T17:18:10Z",
+  "generatedAt": "2026-10-22T11:30:20Z",
   "latest": {
-    "version": "1.0.225",
-    "build": 227,
-    "date": "2026-10-21"
+    "version": "1.0.226",
+    "build": 228,
+    "date": "2026-10-22"
   },
   "releases": [
+    {
+      "version": "1.0.226",
+      "build": 228,
+      "date": "2026-10-22",
+      "summary": "Clear glass on the lock screen, Quick Settings you arrange, and a smaller Notchy. Plus a Repeat Timer, Hide Pointer When Idle, today's high, low and UV on the weather card, pictures dragged straight from Safari or Photos, steadier AirPods while music plays, a Ports window redesign, and a long-press on Clean Keyboard for Clean Screen.",
+      "highlights": [
+        "Clear glass on the lock screen — the lock-screen widgets wear the look you pick for the panel, and Clear lets your wallpaper show through the player the way it does on iPhone",
+        "Quick Settings your way — choose which switches the Settings tab shows and drag them into order in Settings › Tabs › Quick Settings",
+        "Drop pictures from anywhere — images dragged from Safari, Chrome, Photos or Mail land on the notch shelf",
+        "Face Unlock Only — on older Macs, run just Face Unlock without the notch, from Settings › Face Unlock › Battery"
+      ]
+    },
     {
       "version": "1.0.225",
       "build": 227,
