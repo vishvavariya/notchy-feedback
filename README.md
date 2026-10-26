@@ -1,8 +1,8 @@
-# Notchy — free Dynamic Island for Mac
+# Notchy — Dynamic Island for Mac
 
 **[notchy.dev](https://notchy.dev)** · [Download](https://notchy.dev/download/) · [Features](https://notchy.dev/features/) · [Changelog](https://notchy.dev/changelog/)
 
-Notchy turns the MacBook notch into a Dynamic Island: one fluid surface that springs open for music, timers, AirPods, battery and system HUDs, then settles back out of the way. It is free — no tiers, no trial, no licence key — and native SwiftUI, idling around 0.1% CPU.
+Notchy turns the MacBook notch into a Dynamic Island: one fluid surface that springs open for music, timers, AirPods, battery and system HUDs, then settles back out of the way. It is native SwiftUI, idling around 0.1% CPU. Try everything free for 7 days, then buy it once for your Mac — updates included. Supported Notchy on Ko-fi or Buy Me a Coffee before it became paid? Your license is free.
 
 - **Face Unlock** — look at your locked Mac and it opens. On-device, with a liveness check.
 - **Now Playing** — album art, controls and per-app volume in the notch.
