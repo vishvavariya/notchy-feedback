@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-22T11:30:20Z",
+  "generatedAt": "2026-10-26T09:09:31Z",
   "latest": {
-    "version": "1.0.226",
-    "build": 228,
-    "date": "2026-10-22"
+    "version": "2.0.0",
+    "build": 300,
+    "date": "2026-10-26"
   },
   "releases": [
+    {
+      "version": "2.0.0",
+      "build": 300,
+      "date": "2026-10-26",
+      "summary": "Notchy is now a paid app, with a free 7-day trial. Everything works during the trial; after it, a one-time purchase keeps Notchy running on your Mac. Supported Notchy on Ko-fi or Buy Me a Coffee? Your license is free and arrives by email. Plus Ask About the Screen, Extra Brightness, one-click Bluetooth connections and more desktop widgets.",
+      "highlights": [
+        "Free for 7 days — every feature works during the trial, and Settings › License shows the days left. Buy once to keep Notchy on this Mac, or enter a key you already have",
+        "Free for supporters — if you supported Notchy on Ko-fi or Buy Me a Coffee, a free license is on its way to the email address you used there",
+        "Ask About the Screen — select part of the screen to copy its text, open its links and dates, search, translate or ask about it",
+        "More on your desktop — World Clock, Calendar and Batteries widgets in three sizes, Extra Brightness for XDR displays, and Bluetooth devices that connect in one click from Home"
+      ]
+    },
     {
       "version": "1.0.226",
       "build": 228,
