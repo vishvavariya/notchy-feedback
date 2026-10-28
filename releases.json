@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-26T09:09:31Z",
+  "generatedAt": "2026-10-28T18:43:15Z",
   "latest": {
-    "version": "2.0.0",
-    "build": 300,
-    "date": "2026-10-26"
+    "version": "2.0.1",
+    "build": 301,
+    "date": "2026-10-28"
   },
   "releases": [
+    {
+      "version": "2.0.1",
+      "build": 301,
+      "date": "2026-10-28",
+      "summary": "Longer battery life with the desktop pet, a clearer AI Usage chart, Finder-style selection on the Files shelf and a richer lock screen, plus fixes across the app.",
+      "highlights": [
+        "Easier on your battery — the desktop pet rests while you are away from your Mac and wanders less on battery, and the music bars in the notch use less power",
+        "AI Usage — a token chart you can read at a glance",
+        "Files shelf — select files like in Finder: click, ⌘-click, ⇧-click, ⌘A and Esc",
+        "Minor fixes and refinements — AirPods battery and charging on the lock screen, reminders that show their day, Extra Brightness, Face Unlock, Downloads alerts, Home, Minimal Layout and accessibility"
+      ]
+    },
     {
       "version": "2.0.0",
       "build": 300,
