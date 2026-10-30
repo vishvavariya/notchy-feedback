@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-28T18:43:15Z",
+  "generatedAt": "2026-10-30T21:08:42Z",
   "latest": {
-    "version": "2.0.1",
-    "build": 301,
-    "date": "2026-10-28"
+    "version": "2.0.2",
+    "build": 302,
+    "date": "2026-10-30"
   },
   "releases": [
+    {
+      "version": "2.0.2",
+      "build": 302,
+      "date": "2026-10-30",
+      "summary": "An unread count beside the notch, Back and Forward in Settings, and a Send Feedback window, plus a fix for Notification Center and steadier Bluetooth.",
+      "highlights": [
+        "Unread badge — a red count beside the closed notch shows notifications you haven't seen; click it to open them",
+        "Settings — Back and Forward in the toolbar, with ⌘[ and ⌘] or your mouse's side buttons",
+        "Send Feedback — report a bug or suggest an idea from Settings › About, with screenshots or a screen recording, no email account needed",
+        "Minor fixes and refinements — the clock opens Notification Center every time with menu bar icons hidden, turning off Connect & Disconnect Alerts stops the nearby AirPods Bluetooth scan, and fixes for launch and lock-screen stability"
+      ]
+    },
     {
       "version": "2.0.1",
       "build": 301,
