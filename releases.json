@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-10-30T21:08:42Z",
+  "generatedAt": "2026-11-01T22:13:06Z",
   "latest": {
-    "version": "2.0.2",
-    "build": 302,
-    "date": "2026-10-30"
+    "version": "2.0.3",
+    "build": 303,
+    "date": "2026-11-01"
   },
   "releases": [
+    {
+      "version": "2.0.3",
+      "build": 303,
+      "date": "2026-11-01",
+      "summary": "A floating music player, lyrics that light up word by word, animated album art and a livelier notch, plus Window Watch, an Action Ring and a shelf you can open anywhere.",
+      "highlights": [
+        "Music — a floating player in four sizes, swipe the cover to skip a song, lyrics that light up word by word, and animated album art from Apple Music",
+        "A livelier notch — activities split and merge like liquid, the panel opens and closes in two smooth beats, and motion is tuned to each display",
+        "New tools — shake a dragged file to open a shelf right where you are, watch part of any window and get an alert when it changes, and run actions from the launcher wheel’s Action Ring",
+        "Minor fixes and refinements — app volume up to 150%, a Sky Background switch for the weather card, clipboard colour swatches and filters, calendar quick add and countdowns, progress rings that finish with a checkmark, Zoom mute that stays in step, and a steadier lock screen"
+      ]
+    },
     {
       "version": "2.0.2",
       "build": 302,
