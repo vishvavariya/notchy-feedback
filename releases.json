@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-01T22:13:06Z",
+  "generatedAt": "2026-11-02T22:07:43Z",
   "latest": {
-    "version": "2.0.3",
-    "build": 303,
-    "date": "2026-11-01"
+    "version": "2.0.4",
+    "build": 304,
+    "date": "2026-11-02"
   },
   "releases": [
+    {
+      "version": "2.0.4",
+      "build": 304,
+      "date": "2026-11-02",
+      "summary": "Copy verification codes from the notch, answer Claude Code without leaving what you’re doing, pin screenshots to your screen and convert audio and video on the shelf, plus a tidier pill on Macs without a notch.",
+      "highlights": [
+        "Notifications and agents — copy a verification code in one click, answer Claude Code’s questions from the notch, and watch a ring fill while your meeting runs",
+        "Screenshots and files — pin a capture to your screen, click a window to capture it, add numbered steps, a loupe and curved arrows, and convert audio and video on the shelf",
+        "Clipboard and keyboard — link previews, character counts, history brought over from Maccy or Alfred, Caps Lock as a Hyper key, and windows you move with modifier keys",
+        "Minor fixes and refinements — a Lyrics card for Home, hide Notchy in apps you choose, a break reminder of your own, a full player in the menu bar, Xcode build islands, clearer glass on bright wallpapers and a Dock menu"
+      ]
+    },
     {
       "version": "2.0.3",
       "build": 303,
