@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-02T22:07:43Z",
+  "generatedAt": "2026-11-06T22:40:22Z",
   "latest": {
-    "version": "2.0.4",
-    "build": 304,
-    "date": "2026-11-02"
+    "version": "2.0.5",
+    "build": 305,
+    "date": "2026-11-06"
   },
   "releases": [
+    {
+      "version": "2.0.5",
+      "build": 305,
+      "date": "2026-11-06",
+      "summary": "Live Activities, more useful message actions and Home tools, plus a quieter, more reliable Notchy.",
+      "highlights": [
+        "Live Activities — timers, downloads and other ongoing updates share the notch more naturally, with an iPhone-inspired look",
+        "Messages and notifications — open or reply to Teams messages from Notchy, and keep notification banners out of the way",
+        "Feedback and quick actions — browse feedback and wish-list ideas, use new Dock menu actions, and show symbols with App Intents",
+        "Minor fixes and refinements — lower idle activity, clearer battery warnings, steadier lock-screen behavior on Ventura, and updates to Terminal, capture tools and glass"
+      ]
+    },
     {
       "version": "2.0.4",
       "build": 304,
