@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Notchy</title>
+    <link>https://notchy.dev/appcast.xml</link>
+    <description>Most recent updates to Notchy</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.0.5</title>
+      <sparkle:version>305</sparkle:version>
+      <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+      <description><![CDATA[<p>Live Activities, more useful message actions and Home tools, plus a quieter, more reliable Notchy.</p><ul><li>Live Activities — timers, downloads and other ongoing updates share the notch more naturally, with an iPhone-inspired look</li><li>Messages and notifications — open or reply to Teams messages from Notchy, and keep notification banners out of the way</li><li>Feedback and quick actions — browse feedback and wish-list ideas, use new Dock menu actions, and show symbols with App Intents</li><li>Minor fixes and refinements — lower idle activity, clearer battery warnings, steadier lock-screen behavior on Ventura, and updates to Terminal, capture tools and glass</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Fri, 06 Nov 2026 22:40:21 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.5/Notchy-2.0.5.zip"
+        sparkle:edSignature="fUVEX8/6WUiQF593q0uBEj9ck+fJaMM5o5+Pysv8Fz77oni3nbEu66wJYOPHe2oElbjaGjK+y0E8ktFw0eN+Aw=="
+        length="152322110"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 2.0.4</title>
+      <sparkle:version>304</sparkle:version>
+      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+      <description><![CDATA[<p>Copy verification codes from the notch, answer Claude Code without leaving what you’re doing, pin screenshots to your screen and convert audio and video on the shelf, plus a tidier pill on Macs without a notch.</p><ul><li>Notifications and agents — copy a verification code in one click, answer Claude Code’s questions from the notch, and watch a ring fill while your meeting runs</li><li>Screenshots and files — pin a capture to your screen, click a window to capture it, add numbered steps, a loupe and curved arrows, and convert audio and video on the shelf</li><li>Clipboard and keyboard — link previews, character counts, history brought over from Maccy or Alfred, Caps Lock as a Hyper key, and windows you move with modifier keys</li><li>Minor fixes and refinements — a Lyrics card for Home, hide Notchy in apps you choose, a break reminder of your own, a full player in the menu bar, Xcode build islands, clearer glass on bright wallpapers and a Dock menu</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Mon, 02 Nov 2026 22:07:42 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.4/Notchy-2.0.4.zip"
+        sparkle:edSignature="zFErEnHeMHl25IUKQ9AYIvSQAnzXP5KM45vkLnW+RIjmu4hRcN1Dfugol1MYrKOEBG8AZlwUP79GdHn2wqGSCg=="
+        length="147743361"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 2.0.3</title>
+      <sparkle:version>303</sparkle:version>
+      <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+      <description><![CDATA[<p>A floating music player, lyrics that light up word by word, animated album art and a livelier notch, plus Window Watch, an Action Ring and a shelf you can open anywhere.</p><ul><li>Music — a floating player in four sizes, swipe the cover to skip a song, lyrics that light up word by word, and animated album art from Apple Music</li><li>A livelier notch — activities split and merge like liquid, the panel opens and closes in two smooth beats, and motion is tuned to each display</li><li>New tools — shake a dragged file to open a shelf right where you are, watch part of any window and get an alert when it changes, and run actions from the launcher wheel’s Action Ring</li><li>Minor fixes and refinements — app volume up to 150%, a Sky Background switch for the weather card, clipboard colour swatches and filters, calendar quick add and countdowns, progress rings that finish with a checkmark, Zoom mute that stays in step, and a steadier lock screen</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Sun, 01 Nov 2026 22:13:05 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.3/Notchy-2.0.3.zip"
+        sparkle:edSignature="yBj5CB1IxwxLBKDXW7pqU7RzaB//T5WMMcjh6czlrPX0EFfra1LCO1Qp9MPuNzxfIwiCNZ49SIqwJVDexmNfAQ=="
+        length="145008452"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 2.0.2</title>
+      <sparkle:version>302</sparkle:version>
+      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
+      <description><![CDATA[<p>An unread count beside the notch, Back and Forward in Settings, and a Send Feedback window, plus a fix for Notification Center and steadier Bluetooth.</p><ul><li>Unread badge — a red count beside the closed notch shows notifications you haven&#x27;t seen; click it to open them</li><li>Settings — Back and Forward in the toolbar, with ⌘[ and ⌘] or your mouse&#x27;s side buttons</li><li>Send Feedback — report a bug or suggest an idea from Settings › About, with screenshots or a screen recording, no email account needed</li><li>Minor fixes and refinements — the clock opens Notification Center every time with menu bar icons hidden, turning off Connect &amp; Disconnect Alerts stops the nearby AirPods Bluetooth scan, and fixes for launch and lock-screen stability</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Fri, 30 Oct 2026 21:08:41 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.2/Notchy-2.0.2.zip"
+        sparkle:edSignature="m1v9uNr7Z6lkmBhKeRLaWg/DgeOIQhlWyrnj2YLKPmyLLr5fkWbZIuVGmC76TAqUdf6q6DNPmuXvQh82jtmJDQ=="
+        length="141544777"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 2.0.1</title>
+      <sparkle:version>301</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <description><![CDATA[<p>Longer battery life with the desktop pet, a clearer AI Usage chart, Finder-style selection on the Files shelf and a richer lock screen, plus fixes across the app.</p><ul><li>Easier on your battery — the desktop pet rests while you are away from your Mac and wanders less on battery, and the music bars in the notch use less power</li><li>AI Usage — a token chart you can read at a glance</li><li>Files shelf — select files like in Finder: click, ⌘-click, ⇧-click, ⌘A and Esc</li><li>Minor fixes and refinements — AirPods battery and charging on the lock screen, reminders that show their day, Extra Brightness, Face Unlock, Downloads alerts, Home, Minimal Layout and accessibility</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Wed, 28 Oct 2026 18:43:15 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate sparkle:version="300"></sparkle:criticalUpdate>
+      <enclosure
+        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.1/Notchy-2.0.1.zip"
+        sparkle:edSignature="3GS6pfseJUCNfVhmSRZl30FNh3RoG7d8PCq0BKrgQFL77Drcjpox08ejhvHHTYTPzn4hWE+pwIX8RRLGkDfCBQ=="
+        length="141180866"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: wulAB+LtaW17/AGVQoLfGPTNsDvm++b8dhCaX+EdySrzWZe1oTehLWed39+hmEh52+J+f1JsY+VlvijnyeiHBw==
+length: 8218
+-->
