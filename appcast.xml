@@ -6,6 +6,19 @@
     <description>Most recent updates to Notchy</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.6</title>
+      <sparkle:version>306</sparkle:version>
+      <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
+      <description><![CDATA[<p>Face Unlock that survives updates, steadier desktop widgets on Ventura, and a crash fix.</p><ul><li>Face Unlock — stays ready after Notchy updates or restarts itself, instead of waiting for Touch ID again</li><li>Desktop widgets — on macOS Ventura they step aside while Mission Control is open instead of flickering</li><li>Minor fixes — dragging files onto Notchy no longer crashes it</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Sun, 08 Nov 2026 15:56:33 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.6/Notchy-2.0.6.zip"
+        sparkle:edSignature="A1FWHU9FVhoDd/nUx6A65rFRCcpOqSSX267asLZ/2USZYQxOXcE/HsS3URTJ+sw+CtmeHHW5rg7kPdFdQHhxBQ=="
+        length="152334797"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.5</title>
       <sparkle:version>305</sparkle:version>
       <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
@@ -57,23 +70,9 @@
         length="141544777"
         type="application/octet-stream" />
     </item>
-    <item>
-      <title>Version 2.0.1</title>
-      <sparkle:version>301</sparkle:version>
-      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
-      <description><![CDATA[<p>Longer battery life with the desktop pet, a clearer AI Usage chart, Finder-style selection on the Files shelf and a richer lock screen, plus fixes across the app.</p><ul><li>Easier on your battery — the desktop pet rests while you are away from your Mac and wanders less on battery, and the music bars in the notch use less power</li><li>AI Usage — a token chart you can read at a glance</li><li>Files shelf — select files like in Finder: click, ⌘-click, ⇧-click, ⌘A and Esc</li><li>Minor fixes and refinements — AirPods battery and charging on the lock screen, reminders that show their day, Extra Brightness, Face Unlock, Downloads alerts, Home, Minimal Layout and accessibility</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
-      <pubDate>Wed, 28 Oct 2026 18:43:15 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:criticalUpdate sparkle:version="300"></sparkle:criticalUpdate>
-      <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.1/Notchy-2.0.1.zip"
-        sparkle:edSignature="3GS6pfseJUCNfVhmSRZl30FNh3RoG7d8PCq0BKrgQFL77Drcjpox08ejhvHHTYTPzn4hWE+pwIX8RRLGkDfCBQ=="
-        length="141180866"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: wulAB+LtaW17/AGVQoLfGPTNsDvm++b8dhCaX+EdySrzWZe1oTehLWed39+hmEh52+J+f1JsY+VlvijnyeiHBw==
-length: 8218
+edSignature: Z2qTmNvTcc+19qMhQVc1SFX2py418X6pBw9/wvjkK2Cctvax0/Sv3ip5pqPRCueYXAOfzu9tWi7/EoxxSUOJDw==
+length: 7837
 -->
