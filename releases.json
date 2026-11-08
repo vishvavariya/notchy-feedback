@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-11-06T22:40:22Z",
+  "generatedAt": "2026-11-08T15:56:34Z",
   "latest": {
-    "version": "2.0.5",
-    "build": 305,
-    "date": "2026-11-06"
+    "version": "2.0.6",
+    "build": 306,
+    "date": "2026-11-08"
   },
   "releases": [
+    {
+      "version": "2.0.6",
+      "build": 306,
+      "date": "2026-11-08",
+      "summary": "Face Unlock that survives updates, steadier desktop widgets on Ventura, and a crash fix.",
+      "highlights": [
+        "Face Unlock — stays ready after Notchy updates or restarts itself, instead of waiting for Touch ID again",
+        "Desktop widgets — on macOS Ventura they step aside while Mission Control is open instead of flickering",
+        "Minor fixes — dragging files onto Notchy no longer crashes it"
+      ]
+    },
     {
       "version": "2.0.5",
       "build": 305,
