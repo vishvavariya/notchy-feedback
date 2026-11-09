@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-08T15:56:34Z",
+  "generatedAt": "2026-11-09T22:35:23Z",
   "latest": {
-    "version": "2.0.6",
-    "build": 306,
-    "date": "2026-11-08"
+    "version": "2.0.7",
+    "build": 307,
+    "date": "2026-11-09"
   },
   "releases": [
+    {
+      "version": "2.0.7",
+      "build": 307,
+      "date": "2026-11-09",
+      "summary": "AirDrop and recordings in the notch, iPhone-style Live Activities, Share menu actions, and a redesigned Quick Message.",
+      "highlights": [
+        "AirDrop — incoming files show a filling ring and the time left in the notch, and Voice Memos recordings show while they run",
+        "Live Activities — iPhone-style timer and stopwatch rings, rounder message islands and a more compact Now Playing peek",
+        "Share menu — Copy, Save to Downloads, Save As and Open in Preview from any app's Share button",
+        "Minor fixes — Notchy opens again on macOS 27.2 betas, a redesigned Quick Message, updates install while your Mac is idle, and Notchy won't run if its app was tampered with after download"
+      ]
+    },
     {
       "version": "2.0.6",
       "build": 306,
