@@ -6,6 +6,19 @@
     <description>Most recent updates to Notchy</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.7</title>
+      <sparkle:version>307</sparkle:version>
+      <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
+      <description><![CDATA[<p>AirDrop and recordings in the notch, iPhone-style Live Activities, Share menu actions, and a redesigned Quick Message.</p><ul><li>AirDrop — incoming files show a filling ring and the time left in the notch, and Voice Memos recordings show while they run</li><li>Live Activities — iPhone-style timer and stopwatch rings, rounder message islands and a more compact Now Playing peek</li><li>Share menu — Copy, Save to Downloads, Save As and Open in Preview from any app&#x27;s Share button</li><li>Minor fixes — Notchy opens again on macOS 27.2 betas, a redesigned Quick Message, updates install while your Mac is idle, and Notchy won&#x27;t run if its app was tampered with after download</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Mon, 09 Nov 2026 22:35:22 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.7/Notchy-2.0.7.zip"
+        sparkle:edSignature="66+fkGeuyoG4BbPFK+6PyB+lme0/NDx2Rue2Dhc21hb8Lc66IuoRqz5y1+FP+ICuOLXtaV/AYR6pCG9jYBSIBQ=="
+        length="152946376"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.6</title>
       <sparkle:version>306</sparkle:version>
       <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
@@ -57,22 +70,9 @@
         length="145008452"
         type="application/octet-stream" />
     </item>
-    <item>
-      <title>Version 2.0.2</title>
-      <sparkle:version>302</sparkle:version>
-      <sparkle:shortVersionString>2.0.2</sparkle:shortVersionString>
-      <description><![CDATA[<p>An unread count beside the notch, Back and Forward in Settings, and a Send Feedback window, plus a fix for Notification Center and steadier Bluetooth.</p><ul><li>Unread badge — a red count beside the closed notch shows notifications you haven&#x27;t seen; click it to open them</li><li>Settings — Back and Forward in the toolbar, with ⌘[ and ⌘] or your mouse&#x27;s side buttons</li><li>Send Feedback — report a bug or suggest an idea from Settings › About, with screenshots or a screen recording, no email account needed</li><li>Minor fixes and refinements — the clock opens Notification Center every time with menu bar icons hidden, turning off Connect &amp; Disconnect Alerts stops the nearby AirPods Bluetooth scan, and fixes for launch and lock-screen stability</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
-      <pubDate>Fri, 30 Oct 2026 21:08:41 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.2/Notchy-2.0.2.zip"
-        sparkle:edSignature="m1v9uNr7Z6lkmBhKeRLaWg/DgeOIQhlWyrnj2YLKPmyLLr5fkWbZIuVGmC76TAqUdf6q6DNPmuXvQh82jtmJDQ=="
-        length="141544777"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Z2qTmNvTcc+19qMhQVc1SFX2py418X6pBw9/wvjkK2Cctvax0/Sv3ip5pqPRCueYXAOfzu9tWi7/EoxxSUOJDw==
-length: 7837
+edSignature: AD+4zqG0tHrzBZ8UCiA6/O5Pe9RyAMWMRu+pjpKd/7govH8FsadrP4+vJxQ5xcCKS5kYGF7lumaBuqE2KOHCCw==
+length: 7751
 -->
