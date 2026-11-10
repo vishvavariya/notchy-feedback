@@ -13,7 +13,7 @@
       <pubDate>Tue, 10 Nov 2026 18:14:36 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.8/Notchy-2.0.8.zip"
+        url="https://notchy.dev/updates/Notchy-2.0.8.zip"
         sparkle:edSignature="yuS6dlGMLtqblmNVsOQ7pe0pMAYDrh99UOtw15h8BnVgCcdg1ibrEhkhkgnhN1Lt8+MaWOLSNjJ80ivgInc8DA=="
         length="153618651"
         type="application/octet-stream" />
@@ -73,6 +73,6 @@
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: tdZ4y5/tkbcJnp1VBoEaxuqcNwIe47S5kAXSw9YPUg6mcCU7TbKPk+7j55t8MnVh6ArPI7fuo9QkJMEEMcYdDQ==
-length: 7485
+edSignature: W49qKJxg71edZm98EGhiE+ryR8WwPMGwzmqDhzkf88wtg6b7Xxc3IiZsKhFVey+BPGLPgvXSQ+NdMnEVHKe3CQ==
+length: 7439
 -->
