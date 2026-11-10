@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-09T22:35:23Z",
+  "generatedAt": "2026-11-10T18:14:37Z",
   "latest": {
-    "version": "2.0.7",
-    "build": 307,
-    "date": "2026-11-09"
+    "version": "2.0.8",
+    "build": 308,
+    "date": "2026-11-10"
   },
   "releases": [
+    {
+      "version": "2.0.8",
+      "build": 308,
+      "date": "2026-11-10",
+      "summary": "A keyboard-driven Files shelf, AirPods listening mode, and smoother motion and feedback across the notch.",
+      "highlights": [
+        "Files shelf — arrow keys, Return, ⌘C and ⌘V, drag to reorder, and links or text dropped straight onto the shelf",
+        "AirPods — your listening mode in the AirPods island and on the lock screen, and AirPlay in the Now Playing peek",
+        "Smoother everywhere — cards and rows press back when clicked, numbers roll as they change, lists fade at their edges, and text is never cut off",
+        "Minor fixes — swiping a notification away no longer opens the panel, Reply keeps the message it answers, a clicked banner stays closed, and What’s New opens as a compact card"
+      ]
+    },
     {
       "version": "2.0.7",
       "build": 307,
