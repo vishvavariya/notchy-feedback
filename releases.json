@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-10T18:14:37Z",
+  "generatedAt": "2026-11-10T23:20:27Z",
   "latest": {
-    "version": "2.0.8",
-    "build": 308,
+    "version": "2.0.9",
+    "build": 309,
     "date": "2026-11-10"
   },
   "releases": [
+    {
+      "version": "2.0.9",
+      "build": 309,
+      "date": "2026-11-10",
+      "summary": "Faster, more dependable updates.",
+      "highlights": [
+        "Updates — downloads come from a faster server, and a download that drops is retried by itself",
+        "Clearer messages — if an update can’t finish, Notchy says why and what to do, instead of always pointing at your Wi-Fi"
+      ]
+    },
     {
       "version": "2.0.8",
       "build": 308,
