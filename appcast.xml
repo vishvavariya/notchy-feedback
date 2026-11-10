@@ -6,6 +6,19 @@
     <description>Most recent updates to Notchy</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.9</title>
+      <sparkle:version>309</sparkle:version>
+      <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
+      <description><![CDATA[<p>Faster, more dependable updates.</p><ul><li>Updates — downloads come from a faster server, and a download that drops is retried by itself</li><li>Clearer messages — if an update can’t finish, Notchy says why and what to do, instead of always pointing at your Wi-Fi</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Tue, 10 Nov 2026 23:20:26 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://notchy.dev/updates/Notchy-2.0.9.zip"
+        sparkle:edSignature="OaNoxMwPcLovc5hiAaYtzztPUBJKNyFuc9Hq6E8T/ed43DADxXS+Ed0i8Hl8kQAblSvqUd/ldqeiygeO2gC2BA=="
+        length="153701754"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.8</title>
       <sparkle:version>308</sparkle:version>
       <sparkle:shortVersionString>2.0.8</sparkle:shortVersionString>
@@ -57,22 +70,9 @@
         length="152322110"
         type="application/octet-stream" />
     </item>
-    <item>
-      <title>Version 2.0.4</title>
-      <sparkle:version>304</sparkle:version>
-      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
-      <description><![CDATA[<p>Copy verification codes from the notch, answer Claude Code without leaving what you’re doing, pin screenshots to your screen and convert audio and video on the shelf, plus a tidier pill on Macs without a notch.</p><ul><li>Notifications and agents — copy a verification code in one click, answer Claude Code’s questions from the notch, and watch a ring fill while your meeting runs</li><li>Screenshots and files — pin a capture to your screen, click a window to capture it, add numbered steps, a loupe and curved arrows, and convert audio and video on the shelf</li><li>Clipboard and keyboard — link previews, character counts, history brought over from Maccy or Alfred, Caps Lock as a Hyper key, and windows you move with modifier keys</li><li>Minor fixes and refinements — a Lyrics card for Home, hide Notchy in apps you choose, a break reminder of your own, a full player in the menu bar, Xcode build islands, clearer glass on bright wallpapers and a Dock menu</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
-      <pubDate>Mon, 02 Nov 2026 22:07:42 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.4/Notchy-2.0.4.zip"
-        sparkle:edSignature="zFErEnHeMHl25IUKQ9AYIvSQAnzXP5KM45vkLnW+RIjmu4hRcN1Dfugol1MYrKOEBG8AZlwUP79GdHn2wqGSCg=="
-        length="147743361"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: W49qKJxg71edZm98EGhiE+ryR8WwPMGwzmqDhzkf88wtg6b7Xxc3IiZsKhFVey+BPGLPgvXSQ+NdMnEVHKe3CQ==
-length: 7439
+edSignature: VoXY+OgIPIIUCTXzpnPdc7stg2lfjx9cnMTG4/RfB5qnISKNMm+gdKC5MW8eKqDvRaTiLwVUvG4jDxAqXxu5BA==
+length: 6689
 -->
