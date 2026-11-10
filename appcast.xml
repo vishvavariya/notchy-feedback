@@ -6,6 +6,19 @@
     <description>Most recent updates to Notchy</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.8</title>
+      <sparkle:version>308</sparkle:version>
+      <sparkle:shortVersionString>2.0.8</sparkle:shortVersionString>
+      <description><![CDATA[<p>A keyboard-driven Files shelf, AirPods listening mode, and smoother motion and feedback across the notch.</p><ul><li>Files shelf — arrow keys, Return, ⌘C and ⌘V, drag to reorder, and links or text dropped straight onto the shelf</li><li>AirPods — your listening mode in the AirPods island and on the lock screen, and AirPlay in the Now Playing peek</li><li>Smoother everywhere — cards and rows press back when clicked, numbers roll as they change, lists fade at their edges, and text is never cut off</li><li>Minor fixes — swiping a notification away no longer opens the panel, Reply keeps the message it answers, a clicked banner stays closed, and What’s New opens as a compact card</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Tue, 10 Nov 2026 18:14:36 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.8/Notchy-2.0.8.zip"
+        sparkle:edSignature="yuS6dlGMLtqblmNVsOQ7pe0pMAYDrh99UOtw15h8BnVgCcdg1ibrEhkhkgnhN1Lt8+MaWOLSNjJ80ivgInc8DA=="
+        length="153618651"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.7</title>
       <sparkle:version>307</sparkle:version>
       <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
@@ -57,22 +70,9 @@
         length="147743361"
         type="application/octet-stream" />
     </item>
-    <item>
-      <title>Version 2.0.3</title>
-      <sparkle:version>303</sparkle:version>
-      <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
-      <description><![CDATA[<p>A floating music player, lyrics that light up word by word, animated album art and a livelier notch, plus Window Watch, an Action Ring and a shelf you can open anywhere.</p><ul><li>Music — a floating player in four sizes, swipe the cover to skip a song, lyrics that light up word by word, and animated album art from Apple Music</li><li>A livelier notch — activities split and merge like liquid, the panel opens and closes in two smooth beats, and motion is tuned to each display</li><li>New tools — shake a dragged file to open a shelf right where you are, watch part of any window and get an alert when it changes, and run actions from the launcher wheel’s Action Ring</li><li>Minor fixes and refinements — app volume up to 150%, a Sky Background switch for the weather card, clipboard colour swatches and filters, calendar quick add and countdowns, progress rings that finish with a checkmark, Zoom mute that stays in step, and a steadier lock screen</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
-      <pubDate>Sun, 01 Nov 2026 22:13:05 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.3/Notchy-2.0.3.zip"
-        sparkle:edSignature="yBj5CB1IxwxLBKDXW7pqU7RzaB//T5WMMcjh6czlrPX0EFfra1LCO1Qp9MPuNzxfIwiCNZ49SIqwJVDexmNfAQ=="
-        length="145008452"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: AD+4zqG0tHrzBZ8UCiA6/O5Pe9RyAMWMRu+pjpKd/7govH8FsadrP4+vJxQ5xcCKS5kYGF7lumaBuqE2KOHCCw==
-length: 7751
+edSignature: tdZ4y5/tkbcJnp1VBoEaxuqcNwIe47S5kAXSw9YPUg6mcCU7TbKPk+7j55t8MnVh6ArPI7fuo9QkJMEEMcYdDQ==
+length: 7485
 -->
