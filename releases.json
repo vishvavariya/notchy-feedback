@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-10T23:20:27Z",
+  "generatedAt": "2026-11-11T16:21:20Z",
   "latest": {
-    "version": "2.0.9",
-    "build": 309,
-    "date": "2026-11-10"
+    "version": "2.0.10",
+    "build": 310,
+    "date": "2026-11-11"
   },
   "releases": [
+    {
+      "version": "2.0.10",
+      "build": 310,
+      "date": "2026-11-11",
+      "summary": "Richer battery alerts, a smarter message banner, and Shortcuts progress.",
+      "highlights": [
+        "Battery alerts — Low Battery and Fully Charged show the level, how long is left and what to do",
+        "Message banners — click to open the conversation; Reply and Close appear on hover",
+        "Shortcuts progress — Show Progress in Notchy puts a live progress ring in the notch for any shortcut or script",
+        "Minor fixes and refinements — installing a downloaded update, Voice Memos, timers, Now Playing, Bluetooth audio and lock screen"
+      ]
+    },
     {
       "version": "2.0.9",
       "build": 309,
