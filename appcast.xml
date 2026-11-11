@@ -17,14 +17,6 @@
         sparkle:edSignature="OaNoxMwPcLovc5hiAaYtzztPUBJKNyFuc9Hq6E8T/ed43DADxXS+Ed0i8Hl8kQAblSvqUd/ldqeiygeO2gC2BA=="
         length="153701754"
         type="application/octet-stream" />
-      <sparkle:deltas>
-        <enclosure
-          url="https://notchy.dev/updates/Notchy-2.0.9-from-308.delta"
-          sparkle:deltaFrom="308"
-          sparkle:edSignature="HQUiyYd+m9PCekD2gcJA08cRV4wP41INzRSsIuhVSrktZrckyyr4Z87JI5F5nBGyvDmE9QpxVCS4yri87FWrBQ=="
-          length="32149902"
-          type="application/octet-stream" />
-      </sparkle:deltas>
     </item>
     <item>
       <title>Version 2.0.8</title>
@@ -81,6 +73,6 @@
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: n7yXPNeyeRUzS3IDdTG6bK3BYyL6VvZE537hi4zMJQpvS2F9JASSXl35/41guliEpCsDh1bAz0i4tHWL5QNQDA==
-length: 7054
+edSignature: VoXY+OgIPIIUCTXzpnPdc7stg2lfjx9cnMTG4/RfB5qnISKNMm+gdKC5MW8eKqDvRaTiLwVUvG4jDxAqXxu5BA==
+length: 6689
 -->
