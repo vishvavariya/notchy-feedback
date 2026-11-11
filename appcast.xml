@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Notchy</title>
     <link>https://notchy.dev/appcast.xml</link>
@@ -9,14 +10,11 @@
       <title>Version 2.0.10</title>
       <sparkle:version>310</sparkle:version>
       <sparkle:shortVersionString>2.0.10</sparkle:shortVersionString>
-      <description><![CDATA[<p>Richer battery alerts, a smarter message banner, and Shortcuts progress.</p><ul><li>Battery alerts — Low Battery and Fully Charged show the level, how long is left and what to do</li><li>Message banners — click to open the conversation; Reply and Close appear on hover</li><li>Shortcuts progress — Show Progress in Notchy puts a live progress ring in the notch for any shortcut or script</li><li>Minor fixes and refinements — installing a downloaded update, Voice Memos, timers, Now Playing, Bluetooth audio and lock screen</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <description><![CDATA[<p>Richer battery alerts, a smarter message banner, and Shortcuts progress.</p><ul><li>Battery alerts — Low Battery and Fully Charged show the level, how long is left and what to do</li><li>Message banners — click to open the conversation, with Reply beside it</li><li>Shortcuts progress — Show Progress in Notchy puts a live progress ring in the notch for any shortcut or script</li><li>Minor fixes and refinements — installing a downloaded update, Voice Memos, timers, Now Playing, Bluetooth audio and lock screen</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
       <pubDate>Wed, 11 Nov 2026 16:21:19 +0000</pubDate>
+      <sparkle:criticalUpdate></sparkle:criticalUpdate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://notchy.dev/updates/Notchy-2.0.10.zip"
-        sparkle:edSignature="dqlreC/P06orVN+NX62eesO8oC9iIfYN5LJLZQ5tSvkOpRxalHplxGyGxr6VE5FfLkYnWM6KIJQPxNWKjFYGAA=="
-        length="154327704"
-        type="application/octet-stream" />
+      <enclosure url="https://notchy.dev/updates/Notchy-2.0.10.zip" sparkle:edSignature="dqlreC/P06orVN+NX62eesO8oC9iIfYN5LJLZQ5tSvkOpRxalHplxGyGxr6VE5FfLkYnWM6KIJQPxNWKjFYGAA==" length="154327704" type="application/octet-stream"></enclosure>
     </item>
     <item>
       <title>Version 2.0.9</title>
@@ -25,11 +23,7 @@
       <description><![CDATA[<p>Faster, more dependable updates.</p><ul><li>Updates — downloads come from a faster server, and a download that drops is retried by itself</li><li>Clearer messages — if an update can’t finish, Notchy says why and what to do, instead of always pointing at your Wi-Fi</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
       <pubDate>Tue, 10 Nov 2026 23:20:26 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://notchy.dev/updates/Notchy-2.0.9.zip"
-        sparkle:edSignature="OaNoxMwPcLovc5hiAaYtzztPUBJKNyFuc9Hq6E8T/ed43DADxXS+Ed0i8Hl8kQAblSvqUd/ldqeiygeO2gC2BA=="
-        length="153701754"
-        type="application/octet-stream" />
+      <enclosure url="https://notchy.dev/updates/Notchy-2.0.9.zip" sparkle:edSignature="OaNoxMwPcLovc5hiAaYtzztPUBJKNyFuc9Hq6E8T/ed43DADxXS+Ed0i8Hl8kQAblSvqUd/ldqeiygeO2gC2BA==" length="153701754" type="application/octet-stream"></enclosure>
     </item>
     <item>
       <title>Version 2.0.8</title>
@@ -38,11 +32,7 @@
       <description><![CDATA[<p>A keyboard-driven Files shelf, AirPods listening mode, and smoother motion and feedback across the notch.</p><ul><li>Files shelf — arrow keys, Return, ⌘C and ⌘V, drag to reorder, and links or text dropped straight onto the shelf</li><li>AirPods — your listening mode in the AirPods island and on the lock screen, and AirPlay in the Now Playing peek</li><li>Smoother everywhere — cards and rows press back when clicked, numbers roll as they change, lists fade at their edges, and text is never cut off</li><li>Minor fixes — swiping a notification away no longer opens the panel, Reply keeps the message it answers, a clicked banner stays closed, and What’s New opens as a compact card</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
       <pubDate>Tue, 10 Nov 2026 18:14:36 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://notchy.dev/updates/Notchy-2.0.8.zip"
-        sparkle:edSignature="yuS6dlGMLtqblmNVsOQ7pe0pMAYDrh99UOtw15h8BnVgCcdg1ibrEhkhkgnhN1Lt8+MaWOLSNjJ80ivgInc8DA=="
-        length="153618651"
-        type="application/octet-stream" />
+      <enclosure url="https://notchy.dev/updates/Notchy-2.0.8.zip" sparkle:edSignature="yuS6dlGMLtqblmNVsOQ7pe0pMAYDrh99UOtw15h8BnVgCcdg1ibrEhkhkgnhN1Lt8+MaWOLSNjJ80ivgInc8DA==" length="153618651" type="application/octet-stream"></enclosure>
     </item>
     <item>
       <title>Version 2.0.7</title>
@@ -51,11 +41,7 @@
       <description><![CDATA[<p>AirDrop and recordings in the notch, iPhone-style Live Activities, Share menu actions, and a redesigned Quick Message.</p><ul><li>AirDrop — incoming files show a filling ring and the time left in the notch, and Voice Memos recordings show while they run</li><li>Live Activities — iPhone-style timer and stopwatch rings, rounder message islands and a more compact Now Playing peek</li><li>Share menu — Copy, Save to Downloads, Save As and Open in Preview from any app&#x27;s Share button</li><li>Minor fixes — Notchy opens again on macOS 27.2 betas, a redesigned Quick Message, updates install while your Mac is idle, and Notchy won&#x27;t run if its app was tampered with after download</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
       <pubDate>Mon, 09 Nov 2026 22:35:22 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.7/Notchy-2.0.7.zip"
-        sparkle:edSignature="66+fkGeuyoG4BbPFK+6PyB+lme0/NDx2Rue2Dhc21hb8Lc66IuoRqz5y1+FP+ICuOLXtaV/AYR6pCG9jYBSIBQ=="
-        length="152946376"
-        type="application/octet-stream" />
+      <enclosure url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.7/Notchy-2.0.7.zip" sparkle:edSignature="66+fkGeuyoG4BbPFK+6PyB+lme0/NDx2Rue2Dhc21hb8Lc66IuoRqz5y1+FP+ICuOLXtaV/AYR6pCG9jYBSIBQ==" length="152946376" type="application/octet-stream"></enclosure>
     </item>
     <item>
       <title>Version 2.0.6</title>
@@ -64,15 +50,10 @@
       <description><![CDATA[<p>Face Unlock that survives updates, steadier desktop widgets on Ventura, and a crash fix.</p><ul><li>Face Unlock — stays ready after Notchy updates or restarts itself, instead of waiting for Touch ID again</li><li>Desktop widgets — on macOS Ventura they step aside while Mission Control is open instead of flickering</li><li>Minor fixes — dragging files onto Notchy no longer crashes it</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
       <pubDate>Sun, 08 Nov 2026 15:56:33 +0000</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.6/Notchy-2.0.6.zip"
-        sparkle:edSignature="A1FWHU9FVhoDd/nUx6A65rFRCcpOqSSX267asLZ/2USZYQxOXcE/HsS3URTJ+sw+CtmeHHW5rg7kPdFdQHhxBQ=="
-        length="152334797"
-        type="application/octet-stream" />
+      <enclosure url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.6/Notchy-2.0.6.zip" sparkle:edSignature="A1FWHU9FVhoDd/nUx6A65rFRCcpOqSSX267asLZ/2USZYQxOXcE/HsS3URTJ+sw+CtmeHHW5rg7kPdFdQHhxBQ==" length="152334797" type="application/octet-stream"></enclosure>
     </item>
   </channel>
-</rss>
-<!-- sparkle-signatures:
-edSignature: qSTOfZmCe4PgS4G7CFnFYRVnDwPRagvsElyD3HuYvTfLCzwqOF8fiv3G3WdaPmzgXPFYBN2H07vs5fpjdAG5Dg==
-length: 6499
+</rss><!-- sparkle-signatures:
+edSignature: XQc/+qd2To6sWhnwGRqaYo2/2+e2oLumMMY6L5+o26pMzTpsdM8uLbfY0hcv463t+hZJ2nrvlkgO95aF9Xu4CQ==
+length: 6685
 -->
