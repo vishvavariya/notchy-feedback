@@ -6,6 +6,19 @@
     <description>Most recent updates to Notchy</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.10</title>
+      <sparkle:version>310</sparkle:version>
+      <sparkle:shortVersionString>2.0.10</sparkle:shortVersionString>
+      <description><![CDATA[<p>Richer battery alerts, a smarter message banner, and Shortcuts progress.</p><ul><li>Battery alerts — Low Battery and Fully Charged show the level, how long is left and what to do</li><li>Message banners — click to open the conversation; Reply and Close appear on hover</li><li>Shortcuts progress — Show Progress in Notchy puts a live progress ring in the notch for any shortcut or script</li><li>Minor fixes and refinements — installing a downloaded update, Voice Memos, timers, Now Playing, Bluetooth audio and lock screen</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Wed, 11 Nov 2026 16:21:19 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://notchy.dev/updates/Notchy-2.0.10.zip"
+        sparkle:edSignature="dqlreC/P06orVN+NX62eesO8oC9iIfYN5LJLZQ5tSvkOpRxalHplxGyGxr6VE5FfLkYnWM6KIJQPxNWKjFYGAA=="
+        length="154327704"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0.9</title>
       <sparkle:version>309</sparkle:version>
       <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
@@ -57,22 +70,9 @@
         length="152334797"
         type="application/octet-stream" />
     </item>
-    <item>
-      <title>Version 2.0.5</title>
-      <sparkle:version>305</sparkle:version>
-      <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
-      <description><![CDATA[<p>Live Activities, more useful message actions and Home tools, plus a quieter, more reliable Notchy.</p><ul><li>Live Activities — timers, downloads and other ongoing updates share the notch more naturally, with an iPhone-inspired look</li><li>Messages and notifications — open or reply to Teams messages from Notchy, and keep notification banners out of the way</li><li>Feedback and quick actions — browse feedback and wish-list ideas, use new Dock menu actions, and show symbols with App Intents</li><li>Minor fixes and refinements — lower idle activity, clearer battery warnings, steadier lock-screen behavior on Ventura, and updates to Terminal, capture tools and glass</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
-      <pubDate>Fri, 06 Nov 2026 22:40:21 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.5/Notchy-2.0.5.zip"
-        sparkle:edSignature="fUVEX8/6WUiQF593q0uBEj9ck+fJaMM5o5+Pysv8Fz77oni3nbEu66wJYOPHe2oElbjaGjK+y0E8ktFw0eN+Aw=="
-        length="152322110"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: VoXY+OgIPIIUCTXzpnPdc7stg2lfjx9cnMTG4/RfB5qnISKNMm+gdKC5MW8eKqDvRaTiLwVUvG4jDxAqXxu5BA==
-length: 6689
+edSignature: qSTOfZmCe4PgS4G7CFnFYRVnDwPRagvsElyD3HuYvTfLCzwqOF8fiv3G3WdaPmzgXPFYBN2H07vs5fpjdAG5Dg==
+length: 6499
 -->
