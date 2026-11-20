@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-15T00:36:08Z",
+  "generatedAt": "2026-11-20T15:45:05Z",
   "latest": {
-    "version": "2.0.11",
-    "build": 311,
-    "date": "2026-11-15"
+    "version": "2.0.12",
+    "build": 312,
+    "date": "2026-11-20"
   },
   "releases": [
+    {
+      "version": "2.0.12",
+      "build": 312,
+      "date": "2026-11-20",
+      "summary": "Qobuz in Now Playing, gentler battery use with the lid closed, and colors for your pet.",
+      "highlights": [
+        "Now Playing — Qobuz shows its track, artwork and controls in the notch",
+        "Caffeine — a reminder after hours on, and far less battery used while it keeps a closed Mac awake",
+        "Desktop pet — pick a color for character pets, like a snow-white or violet fox",
+        "Minor fixes and refinements — Magic Keyboard brightness keys, a steadier panel, trial end, the timer dial, a timer-done island from your iPhone, see-through Weather widgets, and a clearer note on Apple’s Dynamic Island"
+      ]
+    },
     {
       "version": "2.0.11",
       "build": 311,
