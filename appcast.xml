@@ -6,6 +6,39 @@
     <description>Most recent updates to Notchy</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.12</title>
+      <sparkle:version>312</sparkle:version>
+      <sparkle:shortVersionString>2.0.12</sparkle:shortVersionString>
+      <description><![CDATA[<p>Qobuz in Now Playing, gentler battery use with the lid closed, and colors for your pet.</p><ul><li>Now Playing — Qobuz shows its track, artwork and controls in the notch</li><li>Caffeine — a reminder after hours on, and far less battery used while it keeps a closed Mac awake</li><li>Desktop pet — pick a color for character pets, like a snow-white or violet fox</li><li>Minor fixes and refinements — Magic Keyboard brightness keys, a steadier panel, trial end, the timer dial, a timer-done island from your iPhone, see-through Weather widgets, and a clearer note on Apple’s Dynamic Island</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Fri, 20 Nov 2026 15:45:04 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.12.zip"
+        sparkle:edSignature="ep8JUgG2Y32oGl0CCY/MbGk6OpYIxyFtCiSlNnBCbLtDVQvZHrEs++BzSGjzOTAWxpJ2nhRCnC75nXz/z+E3AQ=="
+        length="155394988"
+        type="application/octet-stream" />
+      <sparkle:deltas>
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.12-from-311.delta"
+          sparkle:deltaFrom="311"
+          sparkle:edSignature="kttLojobFyXU8m4Dg9P93eprnmOK0XzcnXVgXIfqPbUPaG3SXsu/Jwbfq7bRQ9LCfdks9w1F2TldXEWf3BHWAg=="
+          length="40042902"
+          type="application/octet-stream" />
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.12-from-310.delta"
+          sparkle:deltaFrom="310"
+          sparkle:edSignature="C3uf1Tu15iZ8Zw+u13KSNQfKhHpDyYgGQ/upVYJLWdkZefO9gVZV7XcV/DqGp3M3bH486IzBVIyPXBqKVjrsBQ=="
+          length="42199746"
+          type="application/octet-stream" />
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.12-from-309.delta"
+          sparkle:deltaFrom="309"
+          sparkle:edSignature="iGY3p9kym3NFsro25LK+HVQK7Jl19S1F6veVEmPQHYlge+L74RyAyu6TuPHuWxgEAbSUacp0ivqgNe2gmwr1CA=="
+          length="43123694"
+          type="application/octet-stream" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Version 2.0.11</title>
       <sparkle:version>311</sparkle:version>
       <sparkle:shortVersionString>2.0.11</sparkle:shortVersionString>
@@ -78,22 +111,9 @@
         length="153618651"
         type="application/octet-stream" />
     </item>
-    <item>
-      <title>Version 2.0.7</title>
-      <sparkle:version>307</sparkle:version>
-      <sparkle:shortVersionString>2.0.7</sparkle:shortVersionString>
-      <description><![CDATA[<p>AirDrop and recordings in the notch, iPhone-style Live Activities, Share menu actions, and a redesigned Quick Message.</p><ul><li>AirDrop — incoming files show a filling ring and the time left in the notch, and Voice Memos recordings show while they run</li><li>Live Activities — iPhone-style timer and stopwatch rings, rounder message islands and a more compact Now Playing peek</li><li>Share menu — Copy, Save to Downloads, Save As and Open in Preview from any app&#x27;s Share button</li><li>Minor fixes — Notchy opens again on macOS 27.2 betas, a redesigned Quick Message, updates install while your Mac is idle, and Notchy won&#x27;t run if its app was tampered with after download</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
-      <pubDate>Mon, 09 Nov 2026 22:35:22 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/vishvavariya/notchy-feedback/releases/download/v2.0.7/Notchy-2.0.7.zip"
-        sparkle:edSignature="66+fkGeuyoG4BbPFK+6PyB+lme0/NDx2Rue2Dhc21hb8Lc66IuoRqz5y1+FP+ICuOLXtaV/AYR6pCG9jYBSIBQ=="
-        length="152946376"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: /U9mnXlyD4VhVdeCAHw2uKTKy7Fb990DvrGfurWHTSwKAHwIUk28C6NfC2dqOErnxe+wJ2FS6yfV+03QnJxgDQ==
-length: 7968
+edSignature: PuoQzhI18uhWcIDY0omG6Y9EO7gprlk6uec6mvdKe9mOpY+cswb43zceETlBMkZzXu39c5Ba+1HRTVQoIGPYDA==
+length: 8926
 -->
