@@ -6,6 +6,39 @@
     <description>Most recent updates to Notchy</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.13</title>
+      <sparkle:version>313</sparkle:version>
+      <sparkle:shortVersionString>2.0.13</sparkle:shortVersionString>
+      <description><![CDATA[<p>A smarter command palette, an Apple-style player, a much fuller shelf and new ways to capture your screen.</p><ul><li>Command palette — open apps, System Settings panes and system commands, convert times between cities and work out tips, with inline completion and ⌘K actions</li><li>Now Playing — a compact Apple-style player, Up Next you can play from, queue, output and lyrics drawers, AirPlay speakers, a Control Center–style app mixer and Kaset support</li><li>Shelf and clipboard — drop wells in the notch, Rename and New Folder with Selection, expand any archive, compress PDFs and videos, AirDrop and LocalSend arrivals, watched folders and a clipboard strip above the Dock</li><li>Capture and more — Element Capture, Capture Text, auto-zoom recordings, dictation at the cursor, a window switcher, Home in the menu bar with Storage, Obsidian, Things and Sales cards, gift a license, and many refinements</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Mon, 23 Nov 2026 21:03:57 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.13.zip"
+        sparkle:edSignature="9GV1ebt3dzD7RY7unXrdMZSWvm1Jzc8xEHpbsCWAi7WSMUqbdufnLX4x+XZ4jOH1IMsls/4yyy1g7WYX/Z7LCg=="
+        length="162471144"
+        type="application/octet-stream" />
+      <sparkle:deltas>
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.13-from-312.delta"
+          sparkle:deltaFrom="312"
+          sparkle:edSignature="IgKWmE3WuBfNSdF75nD3Y6M0koRXUe9e+eS38X1IHi2yNbS5P+wueDZnwPeisnJqPx9paN6hUXpWauhQP6jBBA=="
+          length="51815282"
+          type="application/octet-stream" />
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.13-from-311.delta"
+          sparkle:deltaFrom="311"
+          sparkle:edSignature="86DR6ICj8Yt2swuoE1L0ZDouMtEqjTR8srjvKFM9A4HcmPKTtwWAPOvPuYtWBCwQNlYhj7RHoV9sku59IY9fBA=="
+          length="52239618"
+          type="application/octet-stream" />
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.13-from-310.delta"
+          sparkle:deltaFrom="310"
+          sparkle:edSignature="leprJhMIOvYjN13kTLc24k2MJBkw+S+xLbU4xyzOtVCsiwu4H6lSlbsL3sHK8HCb3HYgzgBfVedK2KFaD5UhBg=="
+          length="52786250"
+          type="application/octet-stream" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Version 2.0.12</title>
       <sparkle:version>312</sparkle:version>
       <sparkle:shortVersionString>2.0.12</sparkle:shortVersionString>
@@ -98,22 +131,9 @@
         length="153701754"
         type="application/octet-stream" />
     </item>
-    <item>
-      <title>Version 2.0.8</title>
-      <sparkle:version>308</sparkle:version>
-      <sparkle:shortVersionString>2.0.8</sparkle:shortVersionString>
-      <description><![CDATA[<p>A keyboard-driven Files shelf, AirPods listening mode, and smoother motion and feedback across the notch.</p><ul><li>Files shelf — arrow keys, Return, ⌘C and ⌘V, drag to reorder, and links or text dropped straight onto the shelf</li><li>AirPods — your listening mode in the AirPods island and on the lock screen, and AirPlay in the Now Playing peek</li><li>Smoother everywhere — cards and rows press back when clicked, numbers roll as they change, lists fade at their edges, and text is never cut off</li><li>Minor fixes — swiping a notification away no longer opens the panel, Reply keeps the message it answers, a clicked banner stays closed, and What’s New opens as a compact card</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 18:14:36 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://notchy.dev/updates/Notchy-2.0.8.zip"
-        sparkle:edSignature="yuS6dlGMLtqblmNVsOQ7pe0pMAYDrh99UOtw15h8BnVgCcdg1ibrEhkhkgnhN1Lt8+MaWOLSNjJ80ivgInc8DA=="
-        length="153618651"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: PuoQzhI18uhWcIDY0omG6Y9EO7gprlk6uec6mvdKe9mOpY+cswb43zceETlBMkZzXu39c5Ba+1HRTVQoIGPYDA==
-length: 8926
+edSignature: VB9sYIcryNup3jNW7vsJLOL6J0sSm9WPHChDsO8Q0as9q1b2H0TyAhRYL2ke6JQ9zmkHlp4/LV0BVu4FVltaDQ==
+length: 10251
 -->
