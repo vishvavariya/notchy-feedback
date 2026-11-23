@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-20T15:45:05Z",
+  "generatedAt": "2026-11-23T21:03:57Z",
   "latest": {
-    "version": "2.0.12",
-    "build": 312,
-    "date": "2026-11-20"
+    "version": "2.0.13",
+    "build": 313,
+    "date": "2026-11-23"
   },
   "releases": [
+    {
+      "version": "2.0.13",
+      "build": 313,
+      "date": "2026-11-23",
+      "summary": "A smarter command palette, an Apple-style player, a much fuller shelf and new ways to capture your screen.",
+      "highlights": [
+        "Command palette — open apps, System Settings panes and system commands, convert times between cities and work out tips, with inline completion and ⌘K actions",
+        "Now Playing — a compact Apple-style player, Up Next you can play from, queue, output and lyrics drawers, AirPlay speakers, a Control Center–style app mixer and Kaset support",
+        "Shelf and clipboard — drop wells in the notch, Rename and New Folder with Selection, expand any archive, compress PDFs and videos, AirDrop and LocalSend arrivals, watched folders and a clipboard strip above the Dock",
+        "Capture and more — Element Capture, Capture Text, auto-zoom recordings, dictation at the cursor, a window switcher, Home in the menu bar with Storage, Obsidian, Things and Sales cards, gift a license, and many refinements"
+      ]
+    },
     {
       "version": "2.0.12",
       "build": 312,
