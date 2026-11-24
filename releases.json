@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-23T21:03:57Z",
+  "generatedAt": "2026-11-24T19:35:01Z",
   "latest": {
-    "version": "2.0.13",
-    "build": 313,
-    "date": "2026-11-23"
+    "version": "2.0.14",
+    "build": 314,
+    "date": "2026-11-24"
   },
   "releases": [
+    {
+      "version": "2.0.14",
+      "build": 314,
+      "date": "2026-11-24",
+      "summary": "Quick actions on Home cards, export and print for Notes, and Settings that feel more like macOS.",
+      "highlights": [
+        "Home — add a reminder, task or event right from its card, AirDrop everything on the shelf, add world clock cities and start a new Obsidian note",
+        "Notes — export a note as a PDF, Word document, rich text or plain text, or print it with ⌘P",
+        "Now Playing and Face Unlock — the player fills the larger panel sizes, and Face Unlock lets you pick its camera and gets ready faster after your Mac wakes",
+        "Minor fixes and refinements — native segmented controls in Settings, Empty Trash asks inside the panel, an untouched reply field closes on its own, smoother sliders on Intel Macs and weather times that follow daylight saving"
+      ]
+    },
     {
       "version": "2.0.13",
       "build": 313,
