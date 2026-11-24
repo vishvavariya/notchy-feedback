@@ -6,6 +6,39 @@
     <description>Most recent updates to Notchy</description>
     <language>en</language>
     <item>
+      <title>Version 2.0.14</title>
+      <sparkle:version>314</sparkle:version>
+      <sparkle:shortVersionString>2.0.14</sparkle:shortVersionString>
+      <description><![CDATA[<p>Quick actions on Home cards, export and print for Notes, and Settings that feel more like macOS.</p><ul><li>Home — add a reminder, task or event right from its card, AirDrop everything on the shelf, add world clock cities and start a new Obsidian note</li><li>Notes — export a note as a PDF, Word document, rich text or plain text, or print it with ⌘P</li><li>Now Playing and Face Unlock — the player fills the larger panel sizes, and Face Unlock lets you pick its camera and gets ready faster after your Mac wakes</li><li>Minor fixes and refinements — native segmented controls in Settings, Empty Trash asks inside the panel, an untouched reply field closes on its own, smoother sliders on Intel Macs and weather times that follow daylight saving</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
+      <pubDate>Tue, 24 Nov 2026 19:35:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.14.zip"
+        sparkle:edSignature="c7oxcZVifz2Gb3HYsSHuHG4Fqr1vGzJVy3TvZUnUgHu4XBhqa2lBrmMpZdONo4YBUlX1bHEvisklj36TCQyzAQ=="
+        length="162678038"
+        type="application/octet-stream" />
+      <sparkle:deltas>
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.14-from-313.delta"
+          sparkle:deltaFrom="313"
+          sparkle:edSignature="KRGhVnhPE0LEpzbGRaArcxxEmWdhf39UOLn2z1fxOFLoO7FI964x6BOHuk57kCjioW1VHpHS1U04JSkgZjWSBA=="
+          length="42807102"
+          type="application/octet-stream" />
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.14-from-312.delta"
+          sparkle:deltaFrom="312"
+          sparkle:edSignature="Ngtfl6ri9MbaUPyI4+QLDQw5l5kTHt8EfxeM3LxFBeCxUAzgx18R93bnHUNou2J4pUaoleC3CjqVoYQEexbzCA=="
+          length="52350410"
+          type="application/octet-stream" />
+        <enclosure
+          url="https://notchy-updates.variyavishva98.workers.dev/Notchy-2.0.14-from-311.delta"
+          sparkle:deltaFrom="311"
+          sparkle:edSignature="/gRbANXxFeS7xqqvyAH5uhNXu1DsMz/A55qASYPMxk3iDD2/BBqdEaopEr7cT1h99+KNGNbpjYbAty4pGU3RBQ=="
+          length="52818274"
+          type="application/octet-stream" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Version 2.0.13</title>
       <sparkle:version>313</sparkle:version>
       <sparkle:shortVersionString>2.0.13</sparkle:shortVersionString>
@@ -118,22 +151,9 @@
         length="154327704"
         type="application/octet-stream" />
     </item>
-    <item>
-      <title>Version 2.0.9</title>
-      <sparkle:version>309</sparkle:version>
-      <sparkle:shortVersionString>2.0.9</sparkle:shortVersionString>
-      <description><![CDATA[<p>Faster, more dependable updates.</p><ul><li>Updates — downloads come from a faster server, and a download that drops is retried by itself</li><li>Clearer messages — if an update can’t finish, Notchy says why and what to do, instead of always pointing at your Wi-Fi</li></ul><p><a href="https://notchy.dev/changelog">All release notes</a></p>]]></description>
-      <pubDate>Tue, 10 Nov 2026 23:20:26 +0000</pubDate>
-      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://notchy.dev/updates/Notchy-2.0.9.zip"
-        sparkle:edSignature="OaNoxMwPcLovc5hiAaYtzztPUBJKNyFuc9Hq6E8T/ed43DADxXS+Ed0i8Hl8kQAblSvqUd/ldqeiygeO2gC2BA=="
-        length="153701754"
-        type="application/octet-stream" />
-    </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: VB9sYIcryNup3jNW7vsJLOL6J0sSm9WPHChDsO8Q0as9q1b2H0TyAhRYL2ke6JQ9zmkHlp4/LV0BVu4FVltaDQ==
-length: 10251
+edSignature: +RnRMkmNPZE37vZTZBx4WcWO5RGJ+NjdM/qFGv75xaJq0wi2vZSrkow7hptpw0WLdueQHJq5GOC5EMcw5RIxAg==
+length: 11837
 -->
